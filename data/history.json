@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-28T03:44:12.613230",
+  "last_updated": "2026-10-28T08:23:58.128235",
   "sent_items": {
     "824bf5f98ce4c60f": {
       "date": "2026-09-28",
@@ -4915,6 +4915,66 @@
     "f58440af85f43625": {
       "date": "2026-10-28",
       "title": "From Code to Culture: Building 101 Indian Monuments in 3D",
+      "source": "devto"
+    },
+    "ec5dae1d0026d722": {
+      "date": "2026-10-28",
+      "title": "SS United States to be sunk as largest artificial reef",
+      "source": "hackernews"
+    },
+    "af6a58a29b4e6f6d": {
+      "date": "2026-10-28",
+      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "source": "hackernews"
+    },
+    "9cc5e6c816ec158e": {
+      "date": "2026-10-28",
+      "title": "Fraud Blocker",
+      "source": "producthunt"
+    },
+    "d63c77edddce3f3f": {
+      "date": "2026-10-28",
+      "title": "Congress Trades",
+      "source": "producthunt"
+    },
+    "9183e9de84cc4ca5": {
+      "date": "2026-10-28",
+      "title": "Yardlet",
+      "source": "producthunt"
+    },
+    "c33ed93883c70891": {
+      "date": "2026-10-28",
+      "title": "Hob",
+      "source": "producthunt"
+    },
+    "1822c3cd40146d07": {
+      "date": "2026-10-28",
+      "title": "NotiKeep",
+      "source": "producthunt"
+    },
+    "26039a384f5a842c": {
+      "date": "2026-10-28",
+      "title": "Zest",
+      "source": "producthunt"
+    },
+    "e0d1af651260e546": {
+      "date": "2026-10-28",
+      "title": "Our Silly Games",
+      "source": "producthunt"
+    },
+    "370eade1a390af5d": {
+      "date": "2026-10-28",
+      "title": "licenseal",
+      "source": "producthunt"
+    },
+    "1326005d83a0f35a": {
+      "date": "2026-10-28",
+      "title": "Lessons Learned: Wifi Server Disaster",
+      "source": "devto"
+    },
+    "99acf26cf3d9fe79": {
+      "date": "2026-10-28",
+      "title": "MemoriaViva: A Cute Ghost in the Machine That Preserves Family Oral Histories & Heirloom Recipes wit",
       "source": "devto"
     }
   }
