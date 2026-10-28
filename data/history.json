@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-28T18:29:04.466548",
+  "last_updated": "2026-10-28T22:50:11.423970",
   "sent_items": {
     "824bf5f98ce4c60f": {
       "date": "2026-09-28",
@@ -5130,6 +5130,46 @@
     "719139474c651452": {
       "date": "2026-10-28",
       "title": "Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?",
+      "source": "devto"
+    },
+    "34dd884a9c98a70c": {
+      "date": "2026-10-28",
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "source": "hackernews"
+    },
+    "1c907ba4be911e5b": {
+      "date": "2026-10-28",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "source": "hackernews"
+    },
+    "0861bd82093e25e7": {
+      "date": "2026-10-28",
+      "title": "The case of the 9 bit AES key",
+      "source": "hackernews"
+    },
+    "bb9b9d63f3ed40f4": {
+      "date": "2026-10-28",
+      "title": "throxy",
+      "source": "producthunt"
+    },
+    "2ba4cd6b615eb9d7": {
+      "date": "2026-10-28",
+      "title": "Genie 4",
+      "source": "producthunt"
+    },
+    "4107a01fc126632d": {
+      "date": "2026-10-28",
+      "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
+      "source": "devto"
+    },
+    "ea29ad709a9ba6a7": {
+      "date": "2026-10-28",
+      "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me 🤔",
+      "source": "devto"
+    },
+    "bf93140cdc762222": {
+      "date": "2026-10-28",
+      "title": "What I learned building wfreq",
       "source": "devto"
     }
   }
