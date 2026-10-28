@@ -3,7 +3,7 @@ name: Tech Digest Daily
 on:
   # 每天 UTC 22:37 运行 = 北京时间 6:37（避开整点减少延迟）
   schedule:
-    - cron: '55 0 * * *'
+    - cron: '55 1 * * *'
 
   # 手动触发（用于测试）
   workflow_dispatch:
@@ -18,7 +18,7 @@ on:
           - 'false'
       enable_dedup:
         description: '启用历史去重（测试时可关闭）'
-        required: 'true'
+        required: true
         default: 'true'
         type: choice
         options:
