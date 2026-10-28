@@ -3,8 +3,8 @@ name: Tech Digest Daily
 on:
   # 每天 UTC 22:37 运行 = 北京时间 6:37（避开整点减少延迟）+8
   schedule:
-    - cron: '35 3 * * *'
-
+    - cron: '35 4 * * *'
+    - cron: '*/20 * * * *'
   # 手动触发（用于测试）
   workflow_dispatch:
     inputs:
