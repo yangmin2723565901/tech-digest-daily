@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-28T01:27:51.548850",
+  "last_updated": "2026-10-28T03:44:12.613230",
   "sent_items": {
     "824bf5f98ce4c60f": {
       "date": "2026-09-28",
@@ -4881,6 +4881,41 @@
       "date": "2026-10-28",
       "title": "togg53192-cmd / jailbreaks",
       "source": "github"
+    },
+    "a4c4a4ea2b61adc4": {
+      "date": "2026-10-28",
+      "title": "Nuvio 5.0",
+      "source": "producthunt"
+    },
+    "3d79a26fb5822c66": {
+      "date": "2026-10-28",
+      "title": "Revix AI",
+      "source": "producthunt"
+    },
+    "c2e75723fc8ff808": {
+      "date": "2026-10-28",
+      "title": "Notra",
+      "source": "producthunt"
+    },
+    "7fe08347b6be63e2": {
+      "date": "2026-10-28",
+      "title": "Git for US Legislation",
+      "source": "hackernews"
+    },
+    "e2c46c6d42600755": {
+      "date": "2026-10-28",
+      "title": "Tabletop Whale is an original science illustration blog",
+      "source": "hackernews"
+    },
+    "68b9ecd11039bceb": {
+      "date": "2026-10-28",
+      "title": "Assembly Nights",
+      "source": "hackernews"
+    },
+    "f58440af85f43625": {
+      "date": "2026-10-28",
+      "title": "From Code to Culture: Building 101 Indian Monuments in 3D",
+      "source": "devto"
     }
   }
 }
