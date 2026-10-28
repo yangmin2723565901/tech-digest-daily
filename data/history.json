@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-28T08:23:58.128235",
+  "last_updated": "2026-10-28T12:22:49.665456",
   "sent_items": {
     "824bf5f98ce4c60f": {
       "date": "2026-09-28",
@@ -4976,6 +4976,81 @@
       "date": "2026-10-28",
       "title": "MemoriaViva: A Cute Ghost in the Machine That Preserves Family Oral Histories & Heirloom Recipes wit",
       "source": "devto"
+    },
+    "2e3adfe579544057": {
+      "date": "2026-10-28",
+      "title": "Start Doing Graph Theory",
+      "source": "hackernews"
+    },
+    "0c4c3cd04679827e": {
+      "date": "2026-10-28",
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "source": "hackernews"
+    },
+    "29723c5192f150b5": {
+      "date": "2026-10-28",
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "source": "hackernews"
+    },
+    "5d6b87c8c71b0acd": {
+      "date": "2026-10-28",
+      "title": "OneDeploy",
+      "source": "producthunt"
+    },
+    "263c0e8d215d4ff3": {
+      "date": "2026-10-28",
+      "title": "Dedica",
+      "source": "producthunt"
+    },
+    "117e678c351228fa": {
+      "date": "2026-10-28",
+      "title": "AirPosture",
+      "source": "producthunt"
+    },
+    "2f2128c62878cdbb": {
+      "date": "2026-10-28",
+      "title": "Open For sales",
+      "source": "producthunt"
+    },
+    "53f633bb539d5880": {
+      "date": "2026-10-28",
+      "title": "OpenLLM",
+      "source": "producthunt"
+    },
+    "e141c850400d58c2": {
+      "date": "2026-10-28",
+      "title": "Give Your Desktop App a Useful Title Bar and Real Tools",
+      "source": "devto"
+    },
+    "ca520f8471ba609e": {
+      "date": "2026-10-28",
+      "title": "Not the End, but a Shift: How AI Is Pushing Computer Science Toward Deeper Engineering",
+      "source": "devto"
+    },
+    "7fbde78cf2c68d7a": {
+      "date": "2026-10-28",
+      "title": "The cheapest GitHub Actions runners in 2026: what 100,000 minutes cost",
+      "source": "devto"
+    },
+    "bbfc2ca772d59109": {
+      "date": "2026-10-28",
+      "title": "macro-inc / macro",
+      "source": "github"
+    },
+    "2f6ba8b59b6b739c": {
+      "date": "2026-10-28",
+      "title": "expo / skills",
+      "source": "github"
+    },
+    "361d8d37c3971cf9": {
+      "date": "2026-10-28",
+      "title": "ruvnet / RuView",
+      "source": "github"
+    },
+    "b784babd8db9829f": {
+      "date": "2026-10-28",
+      "title": "xiaolai / the-craft-of-selfteaching",
+      "source": "github"
     }
   }
 }
