@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-28T12:22:49.665456",
+  "last_updated": "2026-10-28T18:29:04.466548",
   "sent_items": {
     "824bf5f98ce4c60f": {
       "date": "2026-09-28",
@@ -5051,6 +5051,86 @@
       "date": "2026-10-28",
       "title": "xiaolai / the-craft-of-selfteaching",
       "source": "github"
+    },
+    "dff358d382967d76": {
+      "date": "2026-10-28",
+      "title": "Gemini 4 Carbon",
+      "source": "hackernews"
+    },
+    "5cd34593ee4697b1": {
+      "date": "2026-10-28",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "source": "hackernews"
+    },
+    "9e705eaa01331e42": {
+      "date": "2026-10-28",
+      "title": "CNC Stone Carving",
+      "source": "hackernews"
+    },
+    "c781f31afa38058c": {
+      "date": "2026-10-28",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "source": "hackernews"
+    },
+    "4dab5bf50eaf0bfe": {
+      "date": "2026-10-28",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "source": "hackernews"
+    },
+    "3948baf905d1d68f": {
+      "date": "2026-10-28",
+      "title": "AlpineBSD",
+      "source": "hackernews"
+    },
+    "283bb755cb50fa95": {
+      "date": "2026-10-28",
+      "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
+      "source": "hackernews"
+    },
+    "8d6b6a0f50091c73": {
+      "date": "2026-10-28",
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "source": "hackernews"
+    },
+    "2887f8c7a01497bd": {
+      "date": "2026-10-28",
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "source": "hackernews"
+    },
+    "f086b7c031121baa": {
+      "date": "2026-10-28",
+      "title": "Dotverse",
+      "source": "producthunt"
+    },
+    "6cf4062165591d41": {
+      "date": "2026-10-28",
+      "title": "Trellis",
+      "source": "producthunt"
+    },
+    "5e7003c5e5848be6": {
+      "date": "2026-10-28",
+      "title": "LFM3 by Liquid AI",
+      "source": "producthunt"
+    },
+    "1e6a484c753bee60": {
+      "date": "2026-10-28",
+      "title": "MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol Powering Modern IoT.",
+      "source": "devto"
+    },
+    "cebb939e9b9b2f82": {
+      "date": "2026-10-28",
+      "title": "Four Ways a Test Can Lie to You",
+      "source": "devto"
+    },
+    "1022e2f8e0efd12e": {
+      "date": "2026-10-28",
+      "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
+      "source": "devto"
+    },
+    "719139474c651452": {
+      "date": "2026-10-28",
+      "title": "Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?",
+      "source": "devto"
     }
   }
 }
