@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-29T08:34:38.762712",
+  "last_updated": "2026-10-29T11:03:20.588884",
   "sent_items": {
     "18d398716f5aa44d": {
       "date": "2026-09-29",
@@ -5161,6 +5161,66 @@
       "date": "2026-10-29",
       "title": "El Altar que Habla: A Día de los Muertos Ofrenda Built with Gemma 4",
       "source": "devto"
+    },
+    "5becb035466cc405": {
+      "date": "2026-10-29",
+      "title": "Zero click, silent, remote Android DoS",
+      "source": "hackernews"
+    },
+    "44fb2b6837ef0c09": {
+      "date": "2026-10-29",
+      "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+      "source": "hackernews"
+    },
+    "80b48353c09efe56": {
+      "date": "2026-10-29",
+      "title": "Gemini 4 Carbon",
+      "source": "producthunt"
+    },
+    "51be7bb4b12a523a": {
+      "date": "2026-10-29",
+      "title": "Reset Alerts",
+      "source": "producthunt"
+    },
+    "ec8155ede7e63acd": {
+      "date": "2026-10-29",
+      "title": "Smart Jelly",
+      "source": "producthunt"
+    },
+    "8e2eb9abf945ce12": {
+      "date": "2026-10-29",
+      "title": "Floot in ChatGPT",
+      "source": "producthunt"
+    },
+    "51e0af3f7b8a5d8e": {
+      "date": "2026-10-29",
+      "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
+      "source": "devto"
+    },
+    "f2b453ac868d1b18": {
+      "date": "2026-10-29",
+      "title": "Last Witness: an AI detective for a dead 1999 website, graded on its ghosts",
+      "source": "devto"
+    },
+    "dadd3c3edc521580": {
+      "date": "2026-10-29",
+      "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
+      "source": "devto"
+    },
+    "6c6686c0a35727e0": {
+      "date": "2026-10-29",
+      "title": "milind-soni / OpenMausBot",
+      "source": "github"
+    },
+    "16f7fc85f764ecd5": {
+      "date": "2026-10-29",
+      "title": "CopilotKit / OpenBot",
+      "source": "github"
+    },
+    "92509c4f30bfa957": {
+      "date": "2026-10-29",
+      "title": "Donchitos / Claude-Code-Game-Studios",
+      "source": "github"
     }
   }
 }
