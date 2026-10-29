@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-29T11:03:20.588884",
+  "last_updated": "2026-10-29T15:30:53.993743",
   "sent_items": {
     "18d398716f5aa44d": {
       "date": "2026-09-29",
@@ -5221,6 +5221,86 @@
       "date": "2026-10-29",
       "title": "Donchitos / Claude-Code-Game-Studios",
       "source": "github"
+    },
+    "aa6b452fb675c833": {
+      "date": "2026-10-29",
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "source": "hackernews"
+    },
+    "eb8119bd32da6e22": {
+      "date": "2026-10-29",
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "source": "hackernews"
+    },
+    "15f5bd966043d9a8": {
+      "date": "2026-10-29",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "source": "hackernews"
+    },
+    "dc0da6be6fc27434": {
+      "date": "2026-10-29",
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "source": "hackernews"
+    },
+    "0fbe2d6925856616": {
+      "date": "2026-10-29",
+      "title": "DoorDash is acquiring Instacart for $17B",
+      "source": "hackernews"
+    },
+    "c40fcb823ebd8eec": {
+      "date": "2026-10-29",
+      "title": "Finland investigate Google over destruction of 250k trees",
+      "source": "hackernews"
+    },
+    "b724f0052ce2f399": {
+      "date": "2026-10-29",
+      "title": "React.lazy, Suspense and the Hidden 300 ms Delay",
+      "source": "hackernews"
+    },
+    "067a29534590a6e9": {
+      "date": "2026-10-29",
+      "title": "Open Sound Connect – Control Sony Headphones from Your Mac",
+      "source": "hackernews"
+    },
+    "c48b1073e26931f7": {
+      "date": "2026-10-29",
+      "title": "Confetti",
+      "source": "producthunt"
+    },
+    "93f4e76d7d8b5c2f": {
+      "date": "2026-10-29",
+      "title": "IFTTT.ai",
+      "source": "producthunt"
+    },
+    "f74943086f734370": {
+      "date": "2026-10-29",
+      "title": "Intrascope 2.0",
+      "source": "producthunt"
+    },
+    "b8c0d4e70d165db2": {
+      "date": "2026-10-29",
+      "title": "AutoShelf 2.6",
+      "source": "producthunt"
+    },
+    "2013a0297268cea9": {
+      "date": "2026-10-29",
+      "title": "Flatbread",
+      "source": "producthunt"
+    },
+    "6f9d4d2f08e78c81": {
+      "date": "2026-10-29",
+      "title": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.",
+      "source": "devto"
+    },
+    "e7cea8aa70c1ec26": {
+      "date": "2026-10-29",
+      "title": "Every App Eventually Becomes a Dashboard. Please Make It Stop.",
+      "source": "devto"
+    },
+    "9ad783105dd6337b": {
+      "date": "2026-10-29",
+      "title": "I spent a year on dev, and I'm not happy about it...",
+      "source": "devto"
     }
   }
 }
