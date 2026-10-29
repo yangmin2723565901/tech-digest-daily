@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-29T02:02:19.238078",
+  "last_updated": "2026-10-29T08:34:38.762712",
   "sent_items": {
     "18d398716f5aa44d": {
       "date": "2026-09-29",
@@ -5080,6 +5080,86 @@
     "829d497017752215": {
       "date": "2026-10-29",
       "title": "Are You a Python Developer or a Python Expert? 7 Tests I Failed Building 3 Desktop Apps",
+      "source": "devto"
+    },
+    "12ec7164d7c6b458": {
+      "date": "2026-10-29",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "source": "hackernews"
+    },
+    "4bcd41c9cc83467d": {
+      "date": "2026-10-29",
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "source": "hackernews"
+    },
+    "754d2cea822a6fb4": {
+      "date": "2026-10-29",
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "source": "hackernews"
+    },
+    "c286b1a3c5d1591f": {
+      "date": "2026-10-29",
+      "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+      "source": "hackernews"
+    },
+    "7515036c8d982f91": {
+      "date": "2026-10-29",
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "source": "hackernews"
+    },
+    "fd195faf2328a898": {
+      "date": "2026-10-29",
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "source": "hackernews"
+    },
+    "87c57687a0cf2edd": {
+      "date": "2026-10-29",
+      "title": "Notch Metrics",
+      "source": "producthunt"
+    },
+    "593fe56e2998cd18": {
+      "date": "2026-10-29",
+      "title": "AssemblyAI",
+      "source": "producthunt"
+    },
+    "12ac66b978985750": {
+      "date": "2026-10-29",
+      "title": "Enclave",
+      "source": "producthunt"
+    },
+    "db5f4bd850cba095": {
+      "date": "2026-10-29",
+      "title": "Radar",
+      "source": "producthunt"
+    },
+    "f6785983a199d09f": {
+      "date": "2026-10-29",
+      "title": "Arco",
+      "source": "producthunt"
+    },
+    "ab1737972e052087": {
+      "date": "2026-10-29",
+      "title": "Empacer",
+      "source": "producthunt"
+    },
+    "813684b27bf29b0d": {
+      "date": "2026-10-29",
+      "title": "Voxel51 Multimodal",
+      "source": "producthunt"
+    },
+    "552355b8b840bc2c": {
+      "date": "2026-10-29",
+      "title": "MAO",
+      "source": "producthunt"
+    },
+    "242a4ef30c7ff690": {
+      "date": "2026-10-29",
+      "title": "AI Engineering Is Easy. Do We Really Have to Change How We Work?",
+      "source": "devto"
+    },
+    "be2e89fab52df6ac": {
+      "date": "2026-10-29",
+      "title": "El Altar que Habla: A Día de los Muertos Ofrenda Built with Gemma 4",
       "source": "devto"
     }
   }
