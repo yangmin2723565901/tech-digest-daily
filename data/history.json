@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-29T15:30:53.993743",
+  "last_updated": "2026-10-29T20:32:09.073047",
   "sent_items": {
     "18d398716f5aa44d": {
       "date": "2026-09-29",
@@ -5300,6 +5300,76 @@
     "9ad783105dd6337b": {
       "date": "2026-10-29",
       "title": "I spent a year on dev, and I'm not happy about it...",
+      "source": "devto"
+    },
+    "a7718cf475e8d81b": {
+      "date": "2026-10-29",
+      "title": "Patrick Stewart has died",
+      "source": "hackernews"
+    },
+    "cc94df8ce96b8f40": {
+      "date": "2026-10-29",
+      "title": "H.264 Is Magic (2016)",
+      "source": "hackernews"
+    },
+    "fc4f9138596eb899": {
+      "date": "2026-10-29",
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "source": "hackernews"
+    },
+    "957c6cb5ea500f49": {
+      "date": "2026-10-29",
+      "title": "After 28 years walking across the globe, he's almost home",
+      "source": "hackernews"
+    },
+    "82bd546de98ec2a0": {
+      "date": "2026-10-29",
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "source": "hackernews"
+    },
+    "b74c4c0dae355615": {
+      "date": "2026-10-29",
+      "title": "The importance of communities around software",
+      "source": "hackernews"
+    },
+    "00b796d1076ac133": {
+      "date": "2026-10-29",
+      "title": "Duet is the future of chatbot interaction",
+      "source": "hackernews"
+    },
+    "44282d4bb9ce96ea": {
+      "date": "2026-10-29",
+      "title": "One reviewer per layer: splitting code review by the way code is read",
+      "source": "hackernews"
+    },
+    "8dbf09de29f44f6a": {
+      "date": "2026-10-29",
+      "title": "JIMMY",
+      "source": "producthunt"
+    },
+    "cffb170fc942fc52": {
+      "date": "2026-10-29",
+      "title": "StoreLocale",
+      "source": "producthunt"
+    },
+    "9bbb7ebbf5213d85": {
+      "date": "2026-10-29",
+      "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+      "source": "devto"
+    },
+    "ab3f416909f3ea51": {
+      "date": "2026-10-29",
+      "title": "💀I'm the last mail carrier in the land of the dead. An open-weight model writes all the mail.",
+      "source": "devto"
+    },
+    "3137e9d51d0fb542": {
+      "date": "2026-10-29",
+      "title": "Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?",
+      "source": "devto"
+    },
+    "a467c96d886a4818": {
+      "date": "2026-10-29",
+      "title": "Exorcist: a ghost hunter for your package.json",
       "source": "devto"
     }
   }
