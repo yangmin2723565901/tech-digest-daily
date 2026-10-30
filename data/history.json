@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-30T18:03:06.790908",
+  "last_updated": "2026-10-30T22:26:04.411091",
   "sent_items": {
     "3b1f5931d42712c9": {
       "date": "2026-09-30",
@@ -5510,6 +5510,41 @@
     "10a18708688361a4": {
       "date": "2026-10-30",
       "title": "Marigold /router - A Private Ofrenda for the Memories We Refuse to Lose",
+      "source": "devto"
+    },
+    "3c4fcd1ad94df96a": {
+      "date": "2026-10-30",
+      "title": "StereoLift Live",
+      "source": "producthunt"
+    },
+    "9bce1a72ebe67522": {
+      "date": "2026-10-30",
+      "title": "Bunny CDN Security Incident",
+      "source": "hackernews"
+    },
+    "73f21c7226074c60": {
+      "date": "2026-10-30",
+      "title": "Infinite Mac: BeOS",
+      "source": "hackernews"
+    },
+    "4ea8f3d9fc31e66e": {
+      "date": "2026-10-30",
+      "title": "Jules Verne's Lost Novel",
+      "source": "hackernews"
+    },
+    "43210f656321c508": {
+      "date": "2026-10-30",
+      "title": "Archive of our own (AO3) hacked",
+      "source": "hackernews"
+    },
+    "7285642267168694": {
+      "date": "2026-10-30",
+      "title": "MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16GB GPU",
+      "source": "devto"
+    },
+    "f50ca301be549d0a": {
+      "date": "2026-10-30",
+      "title": "I Built 101 Indian Monuments in the Browser Using Only Code (No 3D Models)",
       "source": "devto"
     }
   }
