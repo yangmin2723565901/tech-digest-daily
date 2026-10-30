@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-30T05:57:44.110020",
+  "last_updated": "2026-10-30T10:59:56.446898",
   "sent_items": {
     "3b1f5931d42712c9": {
       "date": "2026-09-30",
@@ -5291,6 +5291,91 @@
       "date": "2026-10-30",
       "title": "Suno MCP",
       "source": "producthunt"
+    },
+    "d99024bef6d256b2": {
+      "date": "2026-10-30",
+      "title": "ilse",
+      "source": "producthunt"
+    },
+    "d3f7f4858414aaf3": {
+      "date": "2026-10-30",
+      "title": "Faylee",
+      "source": "producthunt"
+    },
+    "c6612a74272128f8": {
+      "date": "2026-10-30",
+      "title": "Teable Mobile",
+      "source": "producthunt"
+    },
+    "dbc4800c4f21d6e9": {
+      "date": "2026-10-30",
+      "title": "Kestrix",
+      "source": "producthunt"
+    },
+    "a2b1f0f82404f1aa": {
+      "date": "2026-10-30",
+      "title": "SparkBots AI (Powered by Jev)",
+      "source": "producthunt"
+    },
+    "9877c79aa9f759ba": {
+      "date": "2026-10-30",
+      "title": "Axonnic",
+      "source": "producthunt"
+    },
+    "c146b0b5fd83ec16": {
+      "date": "2026-10-30",
+      "title": "Norah Studio",
+      "source": "producthunt"
+    },
+    "1f48ba6852ba660a": {
+      "date": "2026-10-30",
+      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "source": "hackernews"
+    },
+    "f012b32a40ac6ac6": {
+      "date": "2026-10-30",
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "source": "hackernews"
+    },
+    "bed6c99eb6c9a31b": {
+      "date": "2026-10-30",
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "source": "hackernews"
+    },
+    "65fee4c455e69881": {
+      "date": "2026-10-30",
+      "title": "Stop Using Default Node.js fetch() in Production Without These Two Fixes",
+      "source": "devto"
+    },
+    "8ea9b800facf6061": {
+      "date": "2026-10-30",
+      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
+      "source": "devto"
+    },
+    "98b1204915826ea1": {
+      "date": "2026-10-30",
+      "title": "A Message From Our Founder: On the Winding Down of LaaSy™",
+      "source": "devto"
+    },
+    "60d8caccff446b86": {
+      "date": "2026-10-30",
+      "title": "Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip",
+      "source": "devto"
+    },
+    "60d0c02ed0466b48": {
+      "date": "2026-10-30",
+      "title": "Sixty Feet, Six Inches of October",
+      "source": "devto"
+    },
+    "ea97e2f9b3078078": {
+      "date": "2026-10-30",
+      "title": "anthropics / skills",
+      "source": "github"
+    },
+    "3e5bc6114122e8e4": {
+      "date": "2026-10-30",
+      "title": "lightpanda-io / browser",
+      "source": "github"
     }
   }
 }
