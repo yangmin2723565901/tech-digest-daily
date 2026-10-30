@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-30T00:17:08.341553",
+  "last_updated": "2026-10-30T05:57:44.110020",
   "sent_items": {
     "3b1f5931d42712c9": {
       "date": "2026-09-30",
@@ -5255,6 +5255,41 @@
     "e9930f0c5d02c24d": {
       "date": "2026-10-30",
       "title": "Kin",
+      "source": "producthunt"
+    },
+    "e58642a94bbadda3": {
+      "date": "2026-10-30",
+      "title": "LLM Voice",
+      "source": "hackernews"
+    },
+    "6dedb8912dfde084": {
+      "date": "2026-10-30",
+      "title": "Herdr has released native app",
+      "source": "hackernews"
+    },
+    "5072f66bbfcd0cdf": {
+      "date": "2026-10-30",
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "source": "hackernews"
+    },
+    "83a4c2353bb96f67": {
+      "date": "2026-10-30",
+      "title": "Cuis: The Modern Smalltalk-80",
+      "source": "hackernews"
+    },
+    "5caa4b9a645a7f99": {
+      "date": "2026-10-30",
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "source": "hackernews"
+    },
+    "cea9f393ecf17a8e": {
+      "date": "2026-10-30",
+      "title": "Polylane for ChatGPT",
+      "source": "producthunt"
+    },
+    "49cc78a3ba8afbb8": {
+      "date": "2026-10-30",
+      "title": "Suno MCP",
       "source": "producthunt"
     }
   }
