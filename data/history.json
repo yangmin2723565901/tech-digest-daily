@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-30T10:59:56.446898",
+  "last_updated": "2026-10-30T12:13:57.879735",
   "sent_items": {
     "3b1f5931d42712c9": {
       "date": "2026-09-30",
@@ -5376,6 +5376,51 @@
       "date": "2026-10-30",
       "title": "lightpanda-io / browser",
       "source": "github"
+    },
+    "48c3875fc77930f1": {
+      "date": "2026-10-30",
+      "title": "Backdoors in official Claude Code extensions",
+      "source": "hackernews"
+    },
+    "bb808c2ecd5f7719": {
+      "date": "2026-10-30",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "source": "hackernews"
+    },
+    "3c378952716949cb": {
+      "date": "2026-10-30",
+      "title": "elect.horse",
+      "source": "hackernews"
+    },
+    "3233413c4b34eb47": {
+      "date": "2026-10-30",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "source": "hackernews"
+    },
+    "f012958e1f7271d4": {
+      "date": "2026-10-30",
+      "title": "Knocket AI",
+      "source": "producthunt"
+    },
+    "453a9c15e205fcdb": {
+      "date": "2026-10-30",
+      "title": "iSurge",
+      "source": "producthunt"
+    },
+    "9d1573f61ab4fb20": {
+      "date": "2026-10-30",
+      "title": "Nocto",
+      "source": "producthunt"
+    },
+    "203fa5edcb724033": {
+      "date": "2026-10-30",
+      "title": "A trojanized Claude Code extension plants an SSH backdoor: the 7-point audit for your machine",
+      "source": "devto"
+    },
+    "5957dd5482066c15": {
+      "date": "2026-10-30",
+      "title": "Undead Agent - My AI Agent Dies, Comes Back, and Tells Me What It Saw(Gemma + Ollama + Temporal)",
+      "source": "devto"
     }
   }
 }
