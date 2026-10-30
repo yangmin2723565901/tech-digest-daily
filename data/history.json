@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-30T12:13:57.879735",
+  "last_updated": "2026-10-30T18:03:06.790908",
   "sent_items": {
     "3b1f5931d42712c9": {
       "date": "2026-09-30",
@@ -5420,6 +5420,96 @@
     "5957dd5482066c15": {
       "date": "2026-10-30",
       "title": "Undead Agent - My AI Agent Dies, Comes Back, and Tells Me What It Saw(Gemma + Ollama + Temporal)",
+      "source": "devto"
+    },
+    "23c31ba859c71680": {
+      "date": "2026-10-30",
+      "title": "sitesolide",
+      "source": "producthunt"
+    },
+    "f29a5734fb3e481a": {
+      "date": "2026-10-30",
+      "title": "Vaani Developer Platform",
+      "source": "producthunt"
+    },
+    "438450ae0a0c1c2f": {
+      "date": "2026-10-30",
+      "title": "StepGrab",
+      "source": "producthunt"
+    },
+    "6890dfa24a77946f": {
+      "date": "2026-10-30",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "source": "hackernews"
+    },
+    "bb369b2281c04574": {
+      "date": "2026-10-30",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "source": "hackernews"
+    },
+    "cf1c8e54dd8758a3": {
+      "date": "2026-10-30",
+      "title": "Northflank Breached",
+      "source": "hackernews"
+    },
+    "4877b7ec4c095a35": {
+      "date": "2026-10-30",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "source": "hackernews"
+    },
+    "443d56e727047ad4": {
+      "date": "2026-10-30",
+      "title": "The federated code forge",
+      "source": "hackernews"
+    },
+    "2affa81707c44d53": {
+      "date": "2026-10-30",
+      "title": "A Working Nintendo in ~1GB of Qwen Weights",
+      "source": "hackernews"
+    },
+    "e2217cc19b6775cd": {
+      "date": "2026-10-30",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "source": "hackernews"
+    },
+    "84f4ee9eb7758130": {
+      "date": "2026-10-30",
+      "title": "Breaking the open web won't stop the bad bots",
+      "source": "hackernews"
+    },
+    "5ac2ceac13b03610": {
+      "date": "2026-10-30",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "source": "hackernews"
+    },
+    "13fda1acbbe014f2": {
+      "date": "2026-10-30",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "7a60e4ac0074b6fd": {
+      "date": "2026-10-30",
+      "title": "We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)",
+      "source": "devto"
+    },
+    "1b804c6d56310d41": {
+      "date": "2026-10-30",
+      "title": "Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB Laptop to an NVIDIA L4",
+      "source": "devto"
+    },
+    "436c987784d5d19c": {
+      "date": "2026-10-30",
+      "title": "My open source project is brand new and already has contributors. Here's what I did.",
+      "source": "devto"
+    },
+    "2fc9b6812d4a6a62": {
+      "date": "2026-10-30",
+      "title": "Ofrenda: Yaadon ka Diya — Virtual Remembrance Altar with Open-Weight AI",
+      "source": "devto"
+    },
+    "10a18708688361a4": {
+      "date": "2026-10-30",
+      "title": "Marigold /router - A Private Ofrenda for the Memories We Refuse to Lose",
       "source": "devto"
     }
   }
