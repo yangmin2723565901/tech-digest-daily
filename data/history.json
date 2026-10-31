@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-31T07:51:39.361775",
+  "last_updated": "2026-10-31T10:33:33.812583",
   "sent_items": {
     "445ecd27631acaed": {
       "date": "2026-10-01",
@@ -5480,6 +5480,66 @@
     "e2bb336db260d339": {
       "date": "2026-10-31",
       "title": "Same Evidence, Different Judgment? A Small Experiment on Implied Conclusions and Evidence Ordering",
+      "source": "devto"
+    },
+    "d9c2b9b5c4dbaf60": {
+      "date": "2026-10-31",
+      "title": "Switch Lowering in GCC",
+      "source": "hackernews"
+    },
+    "247117263a8df9b9": {
+      "date": "2026-10-31",
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "source": "hackernews"
+    },
+    "cb0987e4c264f2fc": {
+      "date": "2026-10-31",
+      "title": "Digital Minimalism",
+      "source": "hackernews"
+    },
+    "57f4ab8c9a08bf11": {
+      "date": "2026-10-31",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "source": "hackernews"
+    },
+    "98f717ecdc7df36f": {
+      "date": "2026-10-31",
+      "title": "Sneezecount (2018)",
+      "source": "hackernews"
+    },
+    "f42bbb68f63b7916": {
+      "date": "2026-10-31",
+      "title": "Seqora",
+      "source": "producthunt"
+    },
+    "e15a4d087f60aed2": {
+      "date": "2026-10-31",
+      "title": "telemetry.dev",
+      "source": "producthunt"
+    },
+    "867012374cd2fce6": {
+      "date": "2026-10-31",
+      "title": "Backenly",
+      "source": "producthunt"
+    },
+    "f3b3bea9a64f1143": {
+      "date": "2026-10-31",
+      "title": "Hemmed",
+      "source": "producthunt"
+    },
+    "ffcaeec27b6ce661": {
+      "date": "2026-10-31",
+      "title": "Agnos",
+      "source": "producthunt"
+    },
+    "b73417c7bd176133": {
+      "date": "2026-10-31",
+      "title": "Godwit",
+      "source": "producthunt"
+    },
+    "a00512190a16977d": {
+      "date": "2026-10-31",
+      "title": "I held a séance for 31 dead websites. The most honest ghost said \"that never made it into my HTML.\"",
       "source": "devto"
     }
   }
