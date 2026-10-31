@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-31T10:33:33.812583",
+  "last_updated": "2026-10-31T14:10:24.632183",
   "sent_items": {
     "445ecd27631acaed": {
       "date": "2026-10-01",
@@ -5541,6 +5541,56 @@
       "date": "2026-10-31",
       "title": "I held a séance for 31 dead websites. The most honest ghost said \"that never made it into my HTML.\"",
       "source": "devto"
+    },
+    "cf9827198cd4046b": {
+      "date": "2026-10-31",
+      "title": "We Took over ChatGPT Accounts",
+      "source": "hackernews"
+    },
+    "ab59995cacbb125b": {
+      "date": "2026-10-31",
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "source": "hackernews"
+    },
+    "d85c5059bd5b253b": {
+      "date": "2026-10-31",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "source": "hackernews"
+    },
+    "878f89c2281bade8": {
+      "date": "2026-10-31",
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "source": "hackernews"
+    },
+    "4e834c0937ec8f52": {
+      "date": "2026-10-31",
+      "title": "Simple circuits can create complex behaviors",
+      "source": "hackernews"
+    },
+    "35e5990d81fc01d4": {
+      "date": "2026-10-31",
+      "title": "Rewrite Everything in Java: Not Rust",
+      "source": "devto"
+    },
+    "05d76cea53edba09": {
+      "date": "2026-10-31",
+      "title": "Orkas-AI / Orkas",
+      "source": "github"
+    },
+    "c2f4cce08f408ce8": {
+      "date": "2026-10-31",
+      "title": "THU-MAIC / OpenMAIC",
+      "source": "github"
+    },
+    "7d8c130e960bb1d9": {
+      "date": "2026-10-31",
+      "title": "bregman-arie / devops-exercises",
+      "source": "github"
+    },
+    "b66db9609a1a862c": {
+      "date": "2026-10-31",
+      "title": "vorssaint / vorssaint-utils",
+      "source": "github"
     }
   }
 }
