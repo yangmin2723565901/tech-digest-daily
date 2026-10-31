@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-31T18:36:17.283983",
+  "last_updated": "2026-10-31T21:50:38.747025",
   "sent_items": {
     "445ecd27631acaed": {
       "date": "2026-10-01",
@@ -5650,6 +5650,66 @@
     "4583e78a9294295d": {
       "date": "2026-10-31",
       "title": "Debugging in the Agentic Era",
+      "source": "devto"
+    },
+    "91a61e61f66b745d": {
+      "date": "2026-10-31",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "source": "hackernews"
+    },
+    "b3d72d5cb2227022": {
+      "date": "2026-10-31",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "source": "hackernews"
+    },
+    "33b5e989a5b1cab1": {
+      "date": "2026-10-31",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "source": "hackernews"
+    },
+    "2cbb6a1e767a9766": {
+      "date": "2026-10-31",
+      "title": "It's the Memory Latency, Stupid",
+      "source": "hackernews"
+    },
+    "5859df24cbb5864d": {
+      "date": "2026-10-31",
+      "title": "The Duty of a Scholar",
+      "source": "hackernews"
+    },
+    "39acba9fb168b06a": {
+      "date": "2026-10-31",
+      "title": "Show HN: A language model that lives in a boot sector",
+      "source": "hackernews"
+    },
+    "4d55a245bc0002e4": {
+      "date": "2026-10-31",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "source": "hackernews"
+    },
+    "c2c721467d424f09": {
+      "date": "2026-10-31",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "source": "hackernews"
+    },
+    "a016056d4cef1767": {
+      "date": "2026-10-31",
+      "title": "I Retested My MoE Offloading Benchmarks. Some of My Conclusions Changed.",
+      "source": "devto"
+    },
+    "d62a128e6c0516ca": {
+      "date": "2026-10-31",
+      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the De",
+      "source": "devto"
+    },
+    "4735024eb46f129d": {
+      "date": "2026-10-31",
+      "title": "Desert Hours: Mapping When Transit Disappears With Amazon Location Service",
+      "source": "devto"
+    },
+    "0fc6e57614aaa444": {
+      "date": "2026-10-31",
+      "title": "Aoandon: Hearn's ghost stories in Japanese, retold at five JLPT levels",
       "source": "devto"
     }
   }
