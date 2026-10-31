@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-31T01:46:35.093129",
+  "last_updated": "2026-10-31T07:51:39.361775",
   "sent_items": {
     "445ecd27631acaed": {
       "date": "2026-10-01",
@@ -5405,6 +5405,81 @@
     "4db7ad93eded5b6c": {
       "date": "2026-10-31",
       "title": "👻 Ghostlet: While you’re away, the ghosts will play.",
+      "source": "devto"
+    },
+    "f332ba4aec30f4ee": {
+      "date": "2026-10-31",
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "source": "hackernews"
+    },
+    "68b6d22683537910": {
+      "date": "2026-10-31",
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "source": "hackernews"
+    },
+    "685e956eabf3db4d": {
+      "date": "2026-10-31",
+      "title": "Show HN: Samosa – Linter for Math Derivations",
+      "source": "hackernews"
+    },
+    "7f22b546870f4b51": {
+      "date": "2026-10-31",
+      "title": "ChainPoints",
+      "source": "producthunt"
+    },
+    "7150472d9770ad9c": {
+      "date": "2026-10-31",
+      "title": "SKI",
+      "source": "producthunt"
+    },
+    "08a5556c735dc0ad": {
+      "date": "2026-10-31",
+      "title": "Knucklebop",
+      "source": "producthunt"
+    },
+    "480c0115b83326c9": {
+      "date": "2026-10-31",
+      "title": "LumaFold: Screen Light",
+      "source": "producthunt"
+    },
+    "8c994da0aca74104": {
+      "date": "2026-10-31",
+      "title": "Pluto Door",
+      "source": "producthunt"
+    },
+    "68319c3c26e6044f": {
+      "date": "2026-10-31",
+      "title": "BaseTab AI",
+      "source": "producthunt"
+    },
+    "f67860b77320324d": {
+      "date": "2026-10-31",
+      "title": "AwaitIO",
+      "source": "producthunt"
+    },
+    "0afa8ca0049e7da2": {
+      "date": "2026-10-31",
+      "title": "AC Bridge",
+      "source": "producthunt"
+    },
+    "f84eeda43b45a888": {
+      "date": "2026-10-31",
+      "title": "Singularity News :: CCG",
+      "source": "devto"
+    },
+    "8c301acf4db362d2": {
+      "date": "2026-10-31",
+      "title": "How I Made Yet Another Project During a Global Teen Hackathon with Prizes",
+      "source": "devto"
+    },
+    "b3e7a611ca22b396": {
+      "date": "2026-10-31",
+      "title": "Neon Realtime vs Supabase Realtime",
+      "source": "devto"
+    },
+    "e2bb336db260d339": {
+      "date": "2026-10-31",
+      "title": "Same Evidence, Different Judgment? A Small Experiment on Implied Conclusions and Evidence Ordering",
       "source": "devto"
     }
   }
