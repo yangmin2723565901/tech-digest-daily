@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-31T14:10:24.632183",
+  "last_updated": "2026-10-31T18:36:17.283983",
   "sent_items": {
     "445ecd27631acaed": {
       "date": "2026-10-01",
@@ -5591,6 +5591,66 @@
       "date": "2026-10-31",
       "title": "vorssaint / vorssaint-utils",
       "source": "github"
+    },
+    "e4fb9747a1653f6f": {
+      "date": "2026-10-31",
+      "title": "Casio Watches of the 1980s",
+      "source": "hackernews"
+    },
+    "8a928e766aec2104": {
+      "date": "2026-10-31",
+      "title": "UK Green party drops longstanding opposition to nuclear power",
+      "source": "hackernews"
+    },
+    "a0daf673dc00a16e": {
+      "date": "2026-10-31",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "source": "hackernews"
+    },
+    "b5b4b27199f5503a": {
+      "date": "2026-10-31",
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "source": "hackernews"
+    },
+    "e5e77a37d5b41cc5": {
+      "date": "2026-10-31",
+      "title": "A/SIDE – Private photo sharing and encrypted messages",
+      "source": "hackernews"
+    },
+    "27a4dd43a0269f2f": {
+      "date": "2026-10-31",
+      "title": "Redox: Ring Buffers Project Summary",
+      "source": "hackernews"
+    },
+    "801007b7477aea9e": {
+      "date": "2026-10-31",
+      "title": "I post trained a model on Demoscenes",
+      "source": "hackernews"
+    },
+    "74c8d3d0fb37a271": {
+      "date": "2026-10-31",
+      "title": "GitHub Copilot Fusion",
+      "source": "producthunt"
+    },
+    "15335ba82abbb34e": {
+      "date": "2026-10-31",
+      "title": "A Two-Line Function Caught AI Collusion Better Than the AI Did",
+      "source": "devto"
+    },
+    "0e8b4c1c3fb0cc53": {
+      "date": "2026-10-31",
+      "title": "From One Chatbot to Five Agents: My AWS Agent Engineer Nanodegree",
+      "source": "devto"
+    },
+    "426a42ba1df915bc": {
+      "date": "2026-10-31",
+      "title": "GhostCache: Deleting the file didn't delete the secret",
+      "source": "devto"
+    },
+    "4583e78a9294295d": {
+      "date": "2026-10-31",
+      "title": "Debugging in the Agentic Era",
+      "source": "devto"
     }
   }
 }
