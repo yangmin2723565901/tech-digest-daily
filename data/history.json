@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-01T13:57:47.893878",
+  "last_updated": "2026-11-01T18:45:44.803959",
   "sent_items": {
     "11ad6e13661a4d8c": {
       "date": "2026-10-02",
@@ -5771,6 +5771,61 @@
       "date": "2026-11-01",
       "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
       "source": "hackernews"
+    },
+    "b149e19cb64e87a6": {
+      "date": "2026-11-01",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "source": "hackernews"
+    },
+    "b9124c9d6c893136": {
+      "date": "2026-11-01",
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "source": "hackernews"
+    },
+    "d7d283f15067bc0c": {
+      "date": "2026-11-01",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "source": "hackernews"
+    },
+    "ddb8d6f8717eccb0": {
+      "date": "2026-11-01",
+      "title": "Patrick Stewart taught us what good men do with power",
+      "source": "hackernews"
+    },
+    "43a8fe31836aa3e4": {
+      "date": "2026-11-01",
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "source": "hackernews"
+    },
+    "447d86b60f00db68": {
+      "date": "2026-11-01",
+      "title": "Novellas with Groff",
+      "source": "hackernews"
+    },
+    "58444f5e0ee13419": {
+      "date": "2026-11-01",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "source": "hackernews"
+    },
+    "aa1a29bec620cc52": {
+      "date": "2026-11-01",
+      "title": "Bidirectional charging during grid outages",
+      "source": "hackernews"
+    },
+    "e57ac1c42888ac2d": {
+      "date": "2026-11-01",
+      "title": "Termy",
+      "source": "producthunt"
+    },
+    "5339cd9c54d8088a": {
+      "date": "2026-11-01",
+      "title": "🐾 DEV Pet Corner #4: Show Us Your Pets!",
+      "source": "devto"
+    },
+    "6c569c78ee154660": {
+      "date": "2026-11-01",
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "source": "devto"
     }
   }
 }
