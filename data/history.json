@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-01T06:49:09.521712",
+  "last_updated": "2026-11-01T11:27:14.195271",
   "sent_items": {
     "11ad6e13661a4d8c": {
       "date": "2026-10-02",
@@ -5631,6 +5631,121 @@
       "date": "2026-11-01",
       "title": "We took over ChatGPT accounts: the MathLive postMessage chain, and the 20-line audit for your own li",
       "source": "devto"
+    },
+    "7382e28105c002b4": {
+      "date": "2026-11-01",
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "source": "hackernews"
+    },
+    "00e1179c1314be94": {
+      "date": "2026-11-01",
+      "title": "The AI cost of JavaScript frameworks",
+      "source": "hackernews"
+    },
+    "61238019a2bce4db": {
+      "date": "2026-11-01",
+      "title": "Norway makes shithouses great again",
+      "source": "hackernews"
+    },
+    "36f6ab4d64fdf690": {
+      "date": "2026-11-01",
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "source": "hackernews"
+    },
+    "3aa3d30fa60f4088": {
+      "date": "2026-11-01",
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "source": "hackernews"
+    },
+    "4f979719378d8d9b": {
+      "date": "2026-11-01",
+      "title": "Embage",
+      "source": "producthunt"
+    },
+    "56229a58e0637e5f": {
+      "date": "2026-11-01",
+      "title": "ClawsGO Science",
+      "source": "producthunt"
+    },
+    "b3827bc9aa111b11": {
+      "date": "2026-11-01",
+      "title": "agentmash",
+      "source": "producthunt"
+    },
+    "afc19640c90a007f": {
+      "date": "2026-11-01",
+      "title": "Screen Studio 4.0",
+      "source": "producthunt"
+    },
+    "c972d3856e306572": {
+      "date": "2026-11-01",
+      "title": "Usage for Claude + ChatGPT 4.0",
+      "source": "producthunt"
+    },
+    "71917fa0247c0d70": {
+      "date": "2026-11-01",
+      "title": "Precise Edit by Ideogram",
+      "source": "producthunt"
+    },
+    "0922a6c73a549b68": {
+      "date": "2026-11-01",
+      "title": "Modelpeers",
+      "source": "producthunt"
+    },
+    "4e10ed6347391af8": {
+      "date": "2026-11-01",
+      "title": "Riverside Agents",
+      "source": "producthunt"
+    },
+    "64fddebb69c3fb08": {
+      "date": "2026-11-01",
+      "title": "Gravespeaker: Giving the Person Behind the Headstone a Voice",
+      "source": "devto"
+    },
+    "4ab2cd5ba94c211c": {
+      "date": "2026-11-01",
+      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Onl",
+      "source": "devto"
+    },
+    "1681f6936b6b0328": {
+      "date": "2026-11-01",
+      "title": "ESA's satellite is dead. Its ghost: 2,123 signals. TabPFN beat the published SOTA; 83¢ of Tinker sto",
+      "source": "devto"
+    },
+    "94ced2ad7d03188f": {
+      "date": "2026-11-01",
+      "title": "From a Simple \"Mark as Seen\" to Feedgrab & Ghostify: Story of My Life!",
+      "source": "devto"
+    },
+    "a55c819fccc2bf0d": {
+      "date": "2026-11-01",
+      "title": "public-apis / public-apis",
+      "source": "github"
+    },
+    "ed6cd510886ff02f": {
+      "date": "2026-11-01",
+      "title": "cjpais / Handy",
+      "source": "github"
+    },
+    "06db34233a176158": {
+      "date": "2026-11-01",
+      "title": "kornia / kornia",
+      "source": "github"
+    },
+    "af11c4a85f03c799": {
+      "date": "2026-11-01",
+      "title": "beenuar / AiSOC",
+      "source": "github"
+    },
+    "613a41025d1254b3": {
+      "date": "2026-11-01",
+      "title": "anomalyco / hex",
+      "source": "github"
+    },
+    "efa40a1e188a4896": {
+      "date": "2026-11-01",
+      "title": "patchy631 / ai-engineering-hub",
+      "source": "github"
     }
   }
 }
