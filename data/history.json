@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-01T11:27:14.195271",
+  "last_updated": "2026-11-01T13:57:47.893878",
   "sent_items": {
     "11ad6e13661a4d8c": {
       "date": "2026-10-02",
@@ -5746,6 +5746,31 @@
       "date": "2026-11-01",
       "title": "patchy631 / ai-engineering-hub",
       "source": "github"
+    },
+    "86cbdfd49e4b646b": {
+      "date": "2026-11-01",
+      "title": "Yuzu Sync",
+      "source": "producthunt"
+    },
+    "a5ddcc7eaeb69162": {
+      "date": "2026-11-01",
+      "title": "Raah.dev",
+      "source": "producthunt"
+    },
+    "84351118b32cce54": {
+      "date": "2026-11-01",
+      "title": "Hamdori",
+      "source": "producthunt"
+    },
+    "03de8b98e8f99cb4": {
+      "date": "2026-11-01",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "source": "hackernews"
+    },
+    "62d113b51aff066a": {
+      "date": "2026-11-01",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "source": "hackernews"
     }
   }
 }
