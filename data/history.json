@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-31T21:50:38.747025",
+  "last_updated": "2026-11-01T00:37:12.238272",
   "sent_items": {
-    "445ecd27631acaed": {
-      "date": "2026-10-01",
-      "title": "Gemini 4 Argon",
-      "source": "hackernews"
-    },
-    "39fa3efedfed2cde": {
-      "date": "2026-10-01",
-      "title": "You said no MCP",
-      "source": "hackernews"
-    },
-    "c5020f68afaa5868": {
-      "date": "2026-10-01",
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "source": "hackernews"
-    },
-    "320b81eee547d757": {
-      "date": "2026-10-01",
-      "title": "EDG C++ front-end goes public",
-      "source": "hackernews"
-    },
-    "af5a86f799b9a35a": {
-      "date": "2026-10-01",
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-      "source": "hackernews"
-    },
-    "78e54296c6b731f7": {
-      "date": "2026-10-01",
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "source": "hackernews"
-    },
-    "cd5fd160b20bec9d": {
-      "date": "2026-10-01",
-      "title": "Why the Bronze Age Collapsed",
-      "source": "hackernews"
-    },
-    "58f9ce836fb64206": {
-      "date": "2026-10-01",
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "source": "hackernews"
-    },
-    "43c31f7bfb71e63a": {
-      "date": "2026-10-01",
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "source": "hackernews"
-    },
-    "b84d60fc8471607d": {
-      "date": "2026-10-01",
-      "title": "Evlat",
-      "source": "producthunt"
-    },
-    "e13f0035b5896632": {
-      "date": "2026-10-01",
-      "title": "GitBot",
-      "source": "producthunt"
-    },
-    "c75db68130f65d2f": {
-      "date": "2026-10-01",
-      "title": "Styx",
-      "source": "producthunt"
-    },
-    "e21e8f65c4ff0ab4": {
-      "date": "2026-10-01",
-      "title": "Cyluma",
-      "source": "producthunt"
-    },
-    "fa26d50544d70231": {
-      "date": "2026-10-01",
-      "title": "Voice Memo",
-      "source": "producthunt"
-    },
-    "aacd4ac3e343ada0": {
-      "date": "2026-10-01",
-      "title": "SelfJev",
-      "source": "producthunt"
-    },
-    "50ab21695e7fc1ee": {
-      "date": "2026-10-01",
-      "title": "Squint",
-      "source": "producthunt"
-    },
-    "1a92ebf1b04c39a2": {
-      "date": "2026-10-01",
-      "title": "Ship It: Idle Dev Tycoon",
-      "source": "producthunt"
-    },
-    "afd7347d1a6f9013": {
-      "date": "2026-10-01",
-      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
-      "source": "devto"
-    },
-    "1c066404e3d6e917": {
-      "date": "2026-10-01",
-      "title": "TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧",
-      "source": "devto"
-    },
-    "86507e978e43c5e6": {
-      "date": "2026-10-01",
-      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
-      "source": "devto"
-    },
-    "ce03e1c1694b792b": {
-      "date": "2026-10-01",
-      "title": "Are Frontend Developers Cooked? Is Frontend design safe?",
-      "source": "devto"
-    },
-    "0aeb7486b7e5b521": {
-      "date": "2026-10-01",
-      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
-      "source": "devto"
-    },
-    "8d8b05d670644f58": {
-      "date": "2026-10-01",
-      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
-      "source": "devto"
-    },
-    "c64b211caa1a33c5": {
-      "date": "2026-10-01",
-      "title": "The Version of Me Who Looks Better on Paper Doesn't Exist",
-      "source": "devto"
-    },
-    "3ca6da0594c961ef": {
-      "date": "2026-10-01",
-      "title": "What Science Fiction Tells Us About Our Changing Relationship With AI",
-      "source": "devto"
-    },
-    "76958cadde887a76": {
-      "date": "2026-10-01",
-      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
-      "source": "devto"
-    },
-    "cc017f8bec998ee6": {
-      "date": "2026-10-01",
-      "title": "🛜 The Journey of Data Through a Wi-Fi 7 NIC",
-      "source": "devto"
-    },
-    "2526d3aeeaafdd09": {
-      "date": "2026-10-01",
-      "title": "DietrichGebert / ponytail",
-      "source": "github"
-    },
-    "7c09473f1ffc3548": {
-      "date": "2026-10-01",
-      "title": "harry0703 / MoneyPrinterTurbo",
-      "source": "github"
-    },
-    "0bd21c2cf11fc945": {
-      "date": "2026-10-01",
-      "title": "openclaw / openclaw",
-      "source": "github"
-    },
-    "7e39ec2390d0765a": {
-      "date": "2026-10-01",
-      "title": "ComposioHQ / awesome-claude-skills",
-      "source": "github"
-    },
-    "a757f54d2610d95e": {
-      "date": "2026-10-01",
-      "title": "firebase / firebase-ios-sdk",
-      "source": "github"
-    },
-    "b50254409ec38137": {
-      "date": "2026-10-01",
-      "title": "modelcontextprotocol / servers",
-      "source": "github"
-    },
-    "94ec5d23f75fd96a": {
-      "date": "2026-10-01",
-      "title": "colbymchenry / codegraph",
-      "source": "github"
-    },
     "11ad6e13661a4d8c": {
       "date": "2026-10-02",
       "title": "Pi 1.0",
@@ -5710,6 +5540,51 @@
     "0fc6e57614aaa444": {
       "date": "2026-10-31",
       "title": "Aoandon: Hearn's ghost stories in Japanese, retold at five JLPT levels",
+      "source": "devto"
+    },
+    "5ee6c85034d7c99e": {
+      "date": "2026-11-01",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "source": "hackernews"
+    },
+    "f32f16bde58a6b48": {
+      "date": "2026-11-01",
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "source": "hackernews"
+    },
+    "dcc959418216706f": {
+      "date": "2026-11-01",
+      "title": "Surviving \"The Graduate\"",
+      "source": "hackernews"
+    },
+    "ace8a6b3d58e6b5e": {
+      "date": "2026-11-01",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "source": "hackernews"
+    },
+    "5a2a8f7bfacc0081": {
+      "date": "2026-11-01",
+      "title": "When electric cars were for women",
+      "source": "hackernews"
+    },
+    "1955b85dc12e5f12": {
+      "date": "2026-11-01",
+      "title": "First response from the Project Suncatcher prototype satellite",
+      "source": "hackernews"
+    },
+    "afc1ae3930775956": {
+      "date": "2026-11-01",
+      "title": "Altoids Project",
+      "source": "hackernews"
+    },
+    "7cafbebe6ae63f92": {
+      "date": "2026-11-01",
+      "title": "Mo",
+      "source": "producthunt"
+    },
+    "0146e19309333f0f": {
+      "date": "2026-11-01",
+      "title": "Trick or Type Guard? Surviving `unknown` with is-kit 🎃",
       "source": "devto"
     }
   }
