@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-01T00:37:12.238272",
+  "last_updated": "2026-11-01T06:49:09.521712",
   "sent_items": {
     "11ad6e13661a4d8c": {
       "date": "2026-10-02",
@@ -5585,6 +5585,51 @@
     "0146e19309333f0f": {
       "date": "2026-11-01",
       "title": "Trick or Type Guard? Surviving `unknown` with is-kit 🎃",
+      "source": "devto"
+    },
+    "d08aa708650c60c4": {
+      "date": "2026-11-01",
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "source": "hackernews"
+    },
+    "d5b0849d6dfd8c7c": {
+      "date": "2026-11-01",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "source": "hackernews"
+    },
+    "84cf9329714eea16": {
+      "date": "2026-11-01",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "source": "hackernews"
+    },
+    "4e9b6fc83b1ef058": {
+      "date": "2026-11-01",
+      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "source": "hackernews"
+    },
+    "4bbb65f434da13b7": {
+      "date": "2026-11-01",
+      "title": "My Local AI Invented 162 Python Packages. I Reran Everything From Scratch, and 161 Came Back.",
+      "source": "devto"
+    },
+    "3313423f1ce7b079": {
+      "date": "2026-11-01",
+      "title": "Here Lies My Toaster",
+      "source": "devto"
+    },
+    "cdde8fc9709a9b94": {
+      "date": "2026-11-01",
+      "title": "🕯️ Ofrenda: The Ghost in the Machine — An Offering to Abandoned Software",
+      "source": "devto"
+    },
+    "644cbf90641a3206": {
+      "date": "2026-11-01",
+      "title": "Butu 🧸: a friendly browser companion that gets lonely when you leave your work",
+      "source": "devto"
+    },
+    "4a7ccfc8a1c3e960": {
+      "date": "2026-11-01",
+      "title": "We took over ChatGPT accounts: the MathLive postMessage chain, and the 20-line audit for your own li",
       "source": "devto"
     }
   }
