@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-01T18:45:44.803959",
+  "last_updated": "2026-11-01T22:33:31.253945",
   "sent_items": {
     "11ad6e13661a4d8c": {
       "date": "2026-10-02",
@@ -5825,6 +5825,41 @@
     "6c569c78ee154660": {
       "date": "2026-11-01",
       "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "source": "devto"
+    },
+    "8066d6aa1d88a0ad": {
+      "date": "2026-11-01",
+      "title": "Mathematics has changed. Let's act like it",
+      "source": "hackernews"
+    },
+    "ab8e3a821dcd2803": {
+      "date": "2026-11-01",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "source": "hackernews"
+    },
+    "92d13c022ad7bfac": {
+      "date": "2026-11-01",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "source": "hackernews"
+    },
+    "fc52fde1dd538d69": {
+      "date": "2026-11-01",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "source": "hackernews"
+    },
+    "e5bcba082d7275c3": {
+      "date": "2026-11-01",
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "source": "hackernews"
+    },
+    "5f379a6e282abab5": {
+      "date": "2026-11-01",
+      "title": "Fluent 2",
+      "source": "producthunt"
+    },
+    "41043baf876e4c90": {
+      "date": "2026-11-01",
+      "title": "Not every ghost is here to scare you. Ward is the friendly one in your group chat",
       "source": "devto"
     }
   }
