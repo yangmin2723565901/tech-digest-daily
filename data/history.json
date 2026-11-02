@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-02T08:43:03.946031",
+  "last_updated": "2026-11-02T12:48:34.869413",
   "sent_items": {
     "159e8dd3874a8e8c": {
       "date": "2026-10-03",
@@ -5836,6 +5836,91 @@
       "date": "2026-11-02",
       "title": "I Let AI Type the Code and Lost the Map",
       "source": "devto"
+    },
+    "cbc580718eb38c03": {
+      "date": "2026-11-02",
+      "title": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
+      "source": "hackernews"
+    },
+    "87ca30a03cb0eacc": {
+      "date": "2026-11-02",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "source": "hackernews"
+    },
+    "d51dadd0d5601b54": {
+      "date": "2026-11-02",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "source": "hackernews"
+    },
+    "a28138ed6566bdac": {
+      "date": "2026-11-02",
+      "title": "Xmind 2027",
+      "source": "producthunt"
+    },
+    "ecce19939883d176": {
+      "date": "2026-11-02",
+      "title": "Friday Work",
+      "source": "producthunt"
+    },
+    "b2e00e37c1f8f242": {
+      "date": "2026-11-02",
+      "title": "gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features",
+      "source": "devto"
+    },
+    "562d5a833c1601b6": {
+      "date": "2026-11-02",
+      "title": "Codex Was Torching Your SSD and Nobody Noticed for Months",
+      "source": "devto"
+    },
+    "19f509bcc95aced9": {
+      "date": "2026-11-02",
+      "title": "Overbuilding Part 2: Sharing is Caring",
+      "source": "devto"
+    },
+    "f3ff53581488ea83": {
+      "date": "2026-11-02",
+      "title": "vercel-labs / agent-desktop",
+      "source": "github"
+    },
+    "76a267c59bdc6676": {
+      "date": "2026-11-02",
+      "title": "D4Vinci / Scrapling",
+      "source": "github"
+    },
+    "3a0b0b37a392aba3": {
+      "date": "2026-11-02",
+      "title": "hyprwm / Hyprland",
+      "source": "github"
+    },
+    "586dee9a79c184f7": {
+      "date": "2026-11-02",
+      "title": "FlashML-org / FreeToken",
+      "source": "github"
+    },
+    "d8699931bd0d7791": {
+      "date": "2026-11-02",
+      "title": "JustVugg / colibri",
+      "source": "github"
+    },
+    "77049851f70b183b": {
+      "date": "2026-11-02",
+      "title": "max-sixty / worktrunk",
+      "source": "github"
+    },
+    "e596fc31d0dc4f76": {
+      "date": "2026-11-02",
+      "title": "paperclipai / paperclip",
+      "source": "github"
+    },
+    "971dc80d24870e3a": {
+      "date": "2026-11-02",
+      "title": "karpathy / nanochat",
+      "source": "github"
+    },
+    "d2f39386e20eb773": {
+      "date": "2026-11-02",
+      "title": "p-e-w / heretic",
+      "source": "github"
     }
   }
 }
