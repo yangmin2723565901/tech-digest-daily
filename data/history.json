@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-02T12:48:34.869413",
+  "last_updated": "2026-11-02T19:01:10.187317",
   "sent_items": {
     "159e8dd3874a8e8c": {
       "date": "2026-10-03",
@@ -5921,6 +5921,91 @@
       "date": "2026-11-02",
       "title": "p-e-w / heretic",
       "source": "github"
+    },
+    "177947c0cf68a969": {
+      "date": "2026-11-02",
+      "title": "WTF Ubuntu?",
+      "source": "hackernews"
+    },
+    "6e2e635382d98f72": {
+      "date": "2026-11-02",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "source": "hackernews"
+    },
+    "f4425d0b7b417940": {
+      "date": "2026-11-02",
+      "title": "If you love a website, back it up",
+      "source": "hackernews"
+    },
+    "c20faddd0182eec2": {
+      "date": "2026-11-02",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "source": "hackernews"
+    },
+    "676c6f9502305105": {
+      "date": "2026-11-02",
+      "title": "US boy names that became girl names and vice versa",
+      "source": "hackernews"
+    },
+    "f2c704bb3f56f7a9": {
+      "date": "2026-11-02",
+      "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+      "source": "hackernews"
+    },
+    "8c23996cc7fd0dbe": {
+      "date": "2026-11-02",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "source": "hackernews"
+    },
+    "bdf0bd709a7a2c18": {
+      "date": "2026-11-02",
+      "title": "Astra can read and write weights to improve Qwen",
+      "source": "hackernews"
+    },
+    "a849735dbfbb6a58": {
+      "date": "2026-11-02",
+      "title": "Let Me Ch...",
+      "source": "hackernews"
+    },
+    "b978b6892f726b36": {
+      "date": "2026-11-02",
+      "title": "Agentic Backdoors via Pretraining Poisoning",
+      "source": "hackernews"
+    },
+    "ebad180f5aa6f0ea": {
+      "date": "2026-11-02",
+      "title": "This is my first HacktoberFest, and I don't know what to feel.",
+      "source": "devto"
+    },
+    "c8fda89917fbce50": {
+      "date": "2026-11-02",
+      "title": "I shipped my biggest project ever and felt… nothing",
+      "source": "devto"
+    },
+    "a899576c947d78d3": {
+      "date": "2026-11-02",
+      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
+      "source": "devto"
+    },
+    "ef410c033264f1e6": {
+      "date": "2026-11-02",
+      "title": "Butter Scraped Over Too Much Bread",
+      "source": "devto"
+    },
+    "37f5853811a01582": {
+      "date": "2026-11-02",
+      "title": "Does AbortSignal Cancel a Node.js Database Query? 4 Drivers Tested",
+      "source": "devto"
+    },
+    "8291146b94bf1a94": {
+      "date": "2026-11-02",
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthServic",
+      "source": "devto"
+    },
+    "4edd8c13332c654c": {
+      "date": "2026-11-02",
+      "title": "Redis 8.12 RC2's SEXPIRE command cuts a set membership check from two round trips to one",
+      "source": "devto"
     }
   }
 }
