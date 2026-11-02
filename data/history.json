@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-02T01:47:16.647019",
+  "last_updated": "2026-11-02T08:43:03.946031",
   "sent_items": {
     "159e8dd3874a8e8c": {
       "date": "2026-10-03",
@@ -5730,6 +5730,111 @@
     "c0a5263c5fe19cbe": {
       "date": "2026-11-02",
       "title": "Hidden Objects: an escape room where the narrator would rather you stayed",
+      "source": "devto"
+    },
+    "c9b3d9bb5c2dad62": {
+      "date": "2026-11-02",
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "source": "hackernews"
+    },
+    "fbb1cf8501e143ff": {
+      "date": "2026-11-02",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "source": "hackernews"
+    },
+    "ca8385c317d46622": {
+      "date": "2026-11-02",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "source": "hackernews"
+    },
+    "0dcff159fd91cf55": {
+      "date": "2026-11-02",
+      "title": "Trigger.dev customer environment variables exposed",
+      "source": "hackernews"
+    },
+    "fe0b15bf8315d783": {
+      "date": "2026-11-02",
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "source": "hackernews"
+    },
+    "54c92a897a915322": {
+      "date": "2026-11-02",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "source": "hackernews"
+    },
+    "cdea4e05756917ed": {
+      "date": "2026-11-02",
+      "title": "Hera",
+      "source": "producthunt"
+    },
+    "cca0519921fb2d13": {
+      "date": "2026-11-02",
+      "title": "Display 1.0",
+      "source": "producthunt"
+    },
+    "27fcee5edc8bc4fc": {
+      "date": "2026-11-02",
+      "title": "Widgeteer",
+      "source": "producthunt"
+    },
+    "d5a703d2857020be": {
+      "date": "2026-11-02",
+      "title": "Agent Inbox",
+      "source": "producthunt"
+    },
+    "8949acd40ede6643": {
+      "date": "2026-11-02",
+      "title": "diff-tour",
+      "source": "producthunt"
+    },
+    "73a75023de245f18": {
+      "date": "2026-11-02",
+      "title": "Hyperresearch",
+      "source": "producthunt"
+    },
+    "7b0876bf928e96f6": {
+      "date": "2026-11-02",
+      "title": "Help",
+      "source": "producthunt"
+    },
+    "5efa2e88c55fa604": {
+      "date": "2026-11-02",
+      "title": "Cedric AI for Meetings",
+      "source": "producthunt"
+    },
+    "f6adcf536b148773": {
+      "date": "2026-11-02",
+      "title": "I grepped for @ts-ignore and found zero. Then I grepped for the cast nobody bans",
+      "source": "devto"
+    },
+    "5820c291104d2a17": {
+      "date": "2026-11-02",
+      "title": "Can a research review leave a checkable record? Help me break this draft.",
+      "source": "devto"
+    },
+    "2990ae11e1a85cd0": {
+      "date": "2026-11-02",
+      "title": "Overbuilding Part 1: Discord Bot MVP",
+      "source": "devto"
+    },
+    "2a66a2645cf0d235": {
+      "date": "2026-11-02",
+      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
+      "source": "devto"
+    },
+    "4128c54cdf584047": {
+      "date": "2026-11-02",
+      "title": "I hid instructions in my server logs to see which models would follow them",
+      "source": "devto"
+    },
+    "e5989bee5a1c1483": {
+      "date": "2026-11-02",
+      "title": "My reflections on raising a daughter in the age of AI",
+      "source": "devto"
+    },
+    "c2469870e606a9f6": {
+      "date": "2026-11-02",
+      "title": "I Let AI Type the Code and Lost the Map",
       "source": "devto"
     }
   }
