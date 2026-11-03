@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-03T08:32:49.095060",
+  "last_updated": "2026-11-03T12:15:17.149994",
   "sent_items": {
     "acd05619cf666288": {
       "date": "2026-10-04",
@@ -5981,6 +5981,81 @@
       "date": "2026-11-03",
       "title": "I Built a Visual System Design Reference — Switch Any Architecture Between AWS, Azure, GCP & Open So",
       "source": "devto"
+    },
+    "bb81e18676097368": {
+      "date": "2026-11-03",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "source": "hackernews"
+    },
+    "39d352f2b33e7953": {
+      "date": "2026-11-03",
+      "title": "Katamari Damacy but it's The Met collection",
+      "source": "hackernews"
+    },
+    "160abb1e1f7da811": {
+      "date": "2026-11-03",
+      "title": "Vathographs: Photographic depth maps as creative expression",
+      "source": "hackernews"
+    },
+    "073b9e4e0e1b96aa": {
+      "date": "2026-11-03",
+      "title": "Prism",
+      "source": "producthunt"
+    },
+    "77afef12a618e670": {
+      "date": "2026-11-03",
+      "title": "nana",
+      "source": "producthunt"
+    },
+    "f58da6f79b2aa1f0": {
+      "date": "2026-11-03",
+      "title": "NEXUPIRA",
+      "source": "producthunt"
+    },
+    "2727314f39052f5f": {
+      "date": "2026-11-03",
+      "title": "Remote Gaze",
+      "source": "producthunt"
+    },
+    "a73f8d45977aeb76": {
+      "date": "2026-11-03",
+      "title": "People Search by Context.dev",
+      "source": "producthunt"
+    },
+    "bda3239c11f1130b": {
+      "date": "2026-11-03",
+      "title": "BRCKS Chat",
+      "source": "producthunt"
+    },
+    "63310d2895ea1f32": {
+      "date": "2026-11-03",
+      "title": "Use it, or lose it 🧠",
+      "source": "devto"
+    },
+    "b69151a6e6b427a0": {
+      "date": "2026-11-03",
+      "title": "FastAPI 0.162.0 fixes a required checkbox that was never actually required",
+      "source": "devto"
+    },
+    "718f925418e13cd0": {
+      "date": "2026-11-03",
+      "title": "My homepage took 8 seconds to load. I threw a CDN, a cache, and lazy-loading at it. It was still slo",
+      "source": "devto"
+    },
+    "76d7fff5eff11c64": {
+      "date": "2026-11-03",
+      "title": "spotify / portal-ai-plugins",
+      "source": "github"
+    },
+    "eeaf9b0a846d0e4c": {
+      "date": "2026-11-03",
+      "title": "floci-io / floci",
+      "source": "github"
+    },
+    "e693c29af62039d3": {
+      "date": "2026-11-03",
+      "title": "Usagi-org / ai-goofish-monitor",
+      "source": "github"
     }
   }
 }
