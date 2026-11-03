@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-03T12:15:17.149994",
+  "last_updated": "2026-11-03T16:29:38.521325",
   "sent_items": {
     "acd05619cf666288": {
       "date": "2026-10-04",
@@ -6056,6 +6056,96 @@
       "date": "2026-11-03",
       "title": "Usagi-org / ai-goofish-monitor",
       "source": "github"
+    },
+    "6a5b7e099adb321a": {
+      "date": "2026-11-03",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "source": "hackernews"
+    },
+    "a4df15e2609a100e": {
+      "date": "2026-11-03",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "source": "hackernews"
+    },
+    "cc29dcf2941a322e": {
+      "date": "2026-11-03",
+      "title": "AI is destroying my CS degree",
+      "source": "hackernews"
+    },
+    "70ab689058cef839": {
+      "date": "2026-11-03",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "source": "hackernews"
+    },
+    "37b3119423f2edb7": {
+      "date": "2026-11-03",
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "source": "hackernews"
+    },
+    "e819141e3a92b7e7": {
+      "date": "2026-11-03",
+      "title": "Designing responsible AI for learning",
+      "source": "hackernews"
+    },
+    "1e3a27489755bad2": {
+      "date": "2026-11-03",
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "source": "hackernews"
+    },
+    "fcad98301edf103b": {
+      "date": "2026-11-03",
+      "title": "Tiny Basic for Arduino",
+      "source": "hackernews"
+    },
+    "9ff3668708d648cb": {
+      "date": "2026-11-03",
+      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+      "source": "hackernews"
+    },
+    "388eee898204c124": {
+      "date": "2026-11-03",
+      "title": "Beamfy",
+      "source": "producthunt"
+    },
+    "4b17c2086b323453": {
+      "date": "2026-11-03",
+      "title": "Testifly",
+      "source": "producthunt"
+    },
+    "cfcc5fbebe1f0461": {
+      "date": "2026-11-03",
+      "title": "Scrawl",
+      "source": "producthunt"
+    },
+    "66b86240e4992322": {
+      "date": "2026-11-03",
+      "title": "Peji",
+      "source": "producthunt"
+    },
+    "7035c5e465652209": {
+      "date": "2026-11-03",
+      "title": "kwant",
+      "source": "producthunt"
+    },
+    "2e8f081678e0e7c5": {
+      "date": "2026-11-03",
+      "title": "I lost half a day to an n8n workflow that was \"working.\" It never ran.",
+      "source": "devto"
+    },
+    "834073b9e69ce4d5": {
+      "date": "2026-11-03",
+      "title": "I Let AI Build a Feature Without Giving It the Full Context",
+      "source": "devto"
+    },
+    "31b7ad4b44e7c68f": {
+      "date": "2026-11-03",
+      "title": "OpenRouter Alternatives: 5 AI API Gateways Worth Considering in 2026",
+      "source": "devto"
+    },
+    "6e15e90f248685fc": {
+      "date": "2026-11-03",
+      "title": "Rack Before You Remember",
+      "source": "devto"
     }
   }
 }
