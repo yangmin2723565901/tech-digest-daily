@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-03T16:29:38.521325",
+  "last_updated": "2026-11-03T21:57:27.902581",
   "sent_items": {
     "acd05619cf666288": {
       "date": "2026-10-04",
@@ -6145,6 +6145,81 @@
     "6e15e90f248685fc": {
       "date": "2026-11-03",
       "title": "Rack Before You Remember",
+      "source": "devto"
+    },
+    "3893f38c25d1778b": {
+      "date": "2026-11-03",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "source": "hackernews"
+    },
+    "ab1728508583fdde": {
+      "date": "2026-11-03",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "source": "hackernews"
+    },
+    "bc764ed3b8fcd533": {
+      "date": "2026-11-03",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "source": "hackernews"
+    },
+    "3bc1b0b8eaac3153": {
+      "date": "2026-11-03",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "source": "hackernews"
+    },
+    "08270449f54384dd": {
+      "date": "2026-11-03",
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "source": "hackernews"
+    },
+    "6df3218d19ba4435": {
+      "date": "2026-11-03",
+      "title": "Introduction to Programming in ATS",
+      "source": "hackernews"
+    },
+    "957f56d221d95890": {
+      "date": "2026-11-03",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "source": "hackernews"
+    },
+    "f6211dd695228fcc": {
+      "date": "2026-11-03",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "source": "hackernews"
+    },
+    "9d7f7fc17f84364a": {
+      "date": "2026-11-03",
+      "title": "Flockbay",
+      "source": "producthunt"
+    },
+    "7ddee2c719d0d0dc": {
+      "date": "2026-11-03",
+      "title": "asklog",
+      "source": "producthunt"
+    },
+    "49f88910cc3b2007": {
+      "date": "2026-11-03",
+      "title": "VinSage",
+      "source": "producthunt"
+    },
+    "79aa0428cbe2b115": {
+      "date": "2026-11-03",
+      "title": "One Last Post, and a Proper Goodbye",
+      "source": "devto"
+    },
+    "802ffcb44ef54f8b": {
+      "date": "2026-11-03",
+      "title": "Let's see where you code!",
+      "source": "devto"
+    },
+    "59e8908bdafadb37": {
+      "date": "2026-11-03",
+      "title": "You're Still Writing CSS Like It's 2015: The Modern Architecture Guide That Fixes Specificity Foreve",
+      "source": "devto"
+    },
+    "610b57a4978086fd": {
+      "date": "2026-11-03",
+      "title": "Your Database Has Backups. Have You Ever Tried Restoring One?",
       "source": "devto"
     }
   }
