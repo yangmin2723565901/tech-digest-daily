@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-03T01:37:07.747224",
+  "last_updated": "2026-11-03T08:32:49.095060",
   "sent_items": {
     "acd05619cf666288": {
       "date": "2026-10-04",
@@ -5900,6 +5900,86 @@
     "5bc257d3b0c37cd6": {
       "date": "2026-11-03",
       "title": "I Built LLM Explained: 43 Interactive Pages That Take You From Tokens to AI Agents",
+      "source": "devto"
+    },
+    "32aa225393363bd0": {
+      "date": "2026-11-03",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "source": "hackernews"
+    },
+    "3c1e8db58a3eb1b9": {
+      "date": "2026-11-03",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "source": "hackernews"
+    },
+    "48e5f3dbc23c4c6e": {
+      "date": "2026-11-03",
+      "title": "Resisting Cognitive Surrender",
+      "source": "hackernews"
+    },
+    "4042778d476a9136": {
+      "date": "2026-11-03",
+      "title": "European RISC-V Industrial Computing Initiative",
+      "source": "hackernews"
+    },
+    "c8f8658972c11327": {
+      "date": "2026-11-03",
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+      "source": "hackernews"
+    },
+    "f834f37a079d5d69": {
+      "date": "2026-11-03",
+      "title": "Toit v2.0.0",
+      "source": "hackernews"
+    },
+    "5fb2a08103b07f65": {
+      "date": "2026-11-03",
+      "title": "Nvidia – open-source auto-ontology",
+      "source": "hackernews"
+    },
+    "6d45bb01491e8f02": {
+      "date": "2026-11-03",
+      "title": "One Roof",
+      "source": "producthunt"
+    },
+    "d5e775c7490a9c42": {
+      "date": "2026-11-03",
+      "title": "Corvo",
+      "source": "producthunt"
+    },
+    "b19656038b33fece": {
+      "date": "2026-11-03",
+      "title": "HoldTalk",
+      "source": "producthunt"
+    },
+    "f7a3f2fdb5ce592e": {
+      "date": "2026-11-03",
+      "title": "MachineMail",
+      "source": "producthunt"
+    },
+    "29baa94d97bb37c4": {
+      "date": "2026-11-03",
+      "title": "Brink",
+      "source": "producthunt"
+    },
+    "a66cd0dc5512bfe2": {
+      "date": "2026-11-03",
+      "title": "Wavefunction",
+      "source": "producthunt"
+    },
+    "fb13a68a373946aa": {
+      "date": "2026-11-03",
+      "title": "IQ",
+      "source": "producthunt"
+    },
+    "fec681b887001ef3": {
+      "date": "2026-11-03",
+      "title": "Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.",
+      "source": "devto"
+    },
+    "0e94fccdd27f00e2": {
+      "date": "2026-11-03",
+      "title": "I Built a Visual System Design Reference — Switch Any Architecture Between AWS, Azure, GCP & Open So",
       "source": "devto"
     }
   }
