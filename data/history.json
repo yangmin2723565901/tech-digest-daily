@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-04T12:27:20.853084",
+  "last_updated": "2026-11-04T16:32:41.721740",
   "sent_items": {
     "cbba30503920c619": {
       "date": "2026-10-05",
@@ -6275,6 +6275,76 @@
     "1b3010101444e047": {
       "date": "2026-11-04",
       "title": "scenario-labs / skills",
+      "source": "github"
+    },
+    "2677871501af1ca8": {
+      "date": "2026-11-04",
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "source": "hackernews"
+    },
+    "0aec9b0a7190a74f": {
+      "date": "2026-11-04",
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "source": "hackernews"
+    },
+    "a50ff7a6697a4857": {
+      "date": "2026-11-04",
+      "title": "Adding Window Functions to a Spreadsheet",
+      "source": "hackernews"
+    },
+    "ea9d3dc2f54f6443": {
+      "date": "2026-11-04",
+      "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+      "source": "hackernews"
+    },
+    "c63caf17c7ce815a": {
+      "date": "2026-11-04",
+      "title": "Sonari",
+      "source": "producthunt"
+    },
+    "b2332349691fc30d": {
+      "date": "2026-11-04",
+      "title": "QualityLayer",
+      "source": "producthunt"
+    },
+    "ebe4e3c037db2e9f": {
+      "date": "2026-11-04",
+      "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework",
+      "source": "devto"
+    },
+    "e879eb7b018a8c6a": {
+      "date": "2026-11-04",
+      "title": "More of the Java API, and an Experiment With Unity Games",
+      "source": "devto"
+    },
+    "ad9d70a0ad219dbe": {
+      "date": "2026-11-04",
+      "title": "PostgreSQL 19's sequence replication only catches up when you tell it to",
+      "source": "devto"
+    },
+    "cf5ffcc58c4126cc": {
+      "date": "2026-11-04",
+      "title": "What I Learned Managing a Full Project with Antigravity",
+      "source": "devto"
+    },
+    "96cdf5eb1a650bad": {
+      "date": "2026-11-04",
+      "title": "How I build products with AI: from a brainstorm to a production release",
+      "source": "devto"
+    },
+    "fe85244c84ec35b1": {
+      "date": "2026-11-04",
+      "title": "Your Login Works. Now Prove Who Did What",
+      "source": "devto"
+    },
+    "40d09c755ed5ba0b": {
+      "date": "2026-11-04",
+      "title": "FareedKhan-dev / kimi-k3-in-c",
+      "source": "github"
+    },
+    "2a4f190b580ce22d": {
+      "date": "2026-11-04",
+      "title": "Thysrael / Horizon",
       "source": "github"
     }
   }
