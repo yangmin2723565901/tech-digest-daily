@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-04T16:32:41.721740",
+  "last_updated": "2026-11-04T22:09:21.879788",
   "sent_items": {
     "cbba30503920c619": {
       "date": "2026-10-05",
@@ -6346,6 +6346,86 @@
       "date": "2026-11-04",
       "title": "Thysrael / Horizon",
       "source": "github"
+    },
+    "e88742ea7574fc3a": {
+      "date": "2026-11-04",
+      "title": "Residential proxies detected on White House network",
+      "source": "hackernews"
+    },
+    "28058186e6404b58": {
+      "date": "2026-11-04",
+      "title": "A new Go API for JSON",
+      "source": "hackernews"
+    },
+    "407b2e87d0a0ae20": {
+      "date": "2026-11-04",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "source": "hackernews"
+    },
+    "3b1f47cdc064a4d8": {
+      "date": "2026-11-04",
+      "title": "Progress on provable inference for large language models",
+      "source": "hackernews"
+    },
+    "796ba5e48b446a4e": {
+      "date": "2026-11-04",
+      "title": "Insects don't swarm at LED lights",
+      "source": "hackernews"
+    },
+    "e4996b3df05736c6": {
+      "date": "2026-11-04",
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "source": "hackernews"
+    },
+    "ba5444cde365c478": {
+      "date": "2026-11-04",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "source": "hackernews"
+    },
+    "c04be0b95ed01246": {
+      "date": "2026-11-04",
+      "title": "Conductor Is Joining Meta",
+      "source": "hackernews"
+    },
+    "a61f4645237ec8c0": {
+      "date": "2026-11-04",
+      "title": "Freeport Markets",
+      "source": "producthunt"
+    },
+    "c1ac03b19c473553": {
+      "date": "2026-11-04",
+      "title": "Virelo",
+      "source": "producthunt"
+    },
+    "f0d158215380ff3c": {
+      "date": "2026-11-04",
+      "title": "TellPip",
+      "source": "producthunt"
+    },
+    "972f26ddb9b47ba5": {
+      "date": "2026-11-04",
+      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
+      "source": "devto"
+    },
+    "9202f262d9085a37": {
+      "date": "2026-11-04",
+      "title": "Meet Necoz! 😸 Small. Simple. Useful.",
+      "source": "devto"
+    },
+    "f959883233d3618a": {
+      "date": "2026-11-04",
+      "title": "\"Mandatory user verification\" on DEV is a scam. Here's how to spot it in 30 seconds.",
+      "source": "devto"
+    },
+    "7babf28183194ee8": {
+      "date": "2026-11-04",
+      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
+      "source": "devto"
+    },
+    "35dd257d908a9b80": {
+      "date": "2026-11-04",
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Scr",
+      "source": "devto"
     }
   }
 }
