@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-04T08:25:53.964821",
+  "last_updated": "2026-11-04T12:27:20.853084",
   "sent_items": {
     "cbba30503920c619": {
       "date": "2026-10-05",
@@ -6200,6 +6200,81 @@
     "f08d8cf2c7baf95f": {
       "date": "2026-11-04",
       "title": "thedotmack / claude-mem",
+      "source": "github"
+    },
+    "f237853eb1a73300": {
+      "date": "2026-11-04",
+      "title": "Kitty 0.50",
+      "source": "hackernews"
+    },
+    "c3c7537eb8aa9962": {
+      "date": "2026-11-04",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "source": "hackernews"
+    },
+    "2096e8ac2bec4ea7": {
+      "date": "2026-11-04",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "source": "hackernews"
+    },
+    "7dce5c954bb444fe": {
+      "date": "2026-11-04",
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "source": "hackernews"
+    },
+    "e0063faa53a43691": {
+      "date": "2026-11-04",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "source": "hackernews"
+    },
+    "63f27d4a292f2827": {
+      "date": "2026-11-04",
+      "title": "Prelulu",
+      "source": "producthunt"
+    },
+    "775015e2aeb03cf5": {
+      "date": "2026-11-04",
+      "title": "Country Filter for X",
+      "source": "producthunt"
+    },
+    "e90731c27cc2cb15": {
+      "date": "2026-11-04",
+      "title": "Eyecon",
+      "source": "producthunt"
+    },
+    "2256ea2b1bce8e3f": {
+      "date": "2026-11-04",
+      "title": "Rungle",
+      "source": "producthunt"
+    },
+    "e03ab0d11ebd42d4": {
+      "date": "2026-11-04",
+      "title": "kosa8",
+      "source": "producthunt"
+    },
+    "8a080a19e7684f78": {
+      "date": "2026-11-04",
+      "title": "github / spec-kit",
+      "source": "github"
+    },
+    "40370f04263de4dd": {
+      "date": "2026-11-04",
+      "title": "The-PR-Agent / pr-agent",
+      "source": "github"
+    },
+    "7c09473f1ffc3548": {
+      "date": "2026-11-04",
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "source": "github"
+    },
+    "e706b9497e72d210": {
+      "date": "2026-11-04",
+      "title": "MichaelCade / 90DaysOfDevOps",
+      "source": "github"
+    },
+    "1b3010101444e047": {
+      "date": "2026-11-04",
+      "title": "scenario-labs / skills",
       "source": "github"
     }
   }
