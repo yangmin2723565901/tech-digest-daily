@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-04T01:53:33.030580",
+  "last_updated": "2026-11-04T08:25:53.964821",
   "sent_items": {
     "cbba30503920c619": {
       "date": "2026-10-05",
@@ -6106,6 +6106,101 @@
       "date": "2026-11-04",
       "title": "My Harness Reported 0 Findings on 100 Files. All 100 Were Ignored.",
       "source": "devto"
+    },
+    "611df1a3ba2ce139": {
+      "date": "2026-11-04",
+      "title": "C++26 Disapproved",
+      "source": "hackernews"
+    },
+    "1d1b20e1fe580acb": {
+      "date": "2026-11-04",
+      "title": "Jelly Sheet",
+      "source": "hackernews"
+    },
+    "f537940759792fbd": {
+      "date": "2026-11-04",
+      "title": "Giant canyon on Mars is still tectonically active",
+      "source": "hackernews"
+    },
+    "346bcc1177740879": {
+      "date": "2026-11-04",
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "source": "hackernews"
+    },
+    "f24afc0f273e19af": {
+      "date": "2026-11-04",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "source": "hackernews"
+    },
+    "483e61dabb02728e": {
+      "date": "2026-11-04",
+      "title": "The lost malloc()",
+      "source": "hackernews"
+    },
+    "549146a591f64183": {
+      "date": "2026-11-04",
+      "title": "Fedora Linux 45",
+      "source": "producthunt"
+    },
+    "75004c376e31f291": {
+      "date": "2026-11-04",
+      "title": "OpusClip 4.0",
+      "source": "producthunt"
+    },
+    "acb82fcbb31a62ae": {
+      "date": "2026-11-04",
+      "title": "TrackEdge",
+      "source": "producthunt"
+    },
+    "d8d82a3b273b92a0": {
+      "date": "2026-11-04",
+      "title": "Hashference",
+      "source": "producthunt"
+    },
+    "34882b47785b0550": {
+      "date": "2026-11-04",
+      "title": "Deployed Yet?",
+      "source": "producthunt"
+    },
+    "9af4b36215090492": {
+      "date": "2026-11-04",
+      "title": "Resum",
+      "source": "producthunt"
+    },
+    "fd5e66cc579994b9": {
+      "date": "2026-11-04",
+      "title": "KREV AI",
+      "source": "producthunt"
+    },
+    "6a27ff4f04c13cb8": {
+      "date": "2026-11-04",
+      "title": "Hira",
+      "source": "producthunt"
+    },
+    "cc09da57f409739c": {
+      "date": "2026-11-04",
+      "title": "I lost half a day to an n8n workflow that was \"working.\" It never ran.",
+      "source": "devto"
+    },
+    "3f7c3394c846e23d": {
+      "date": "2026-11-04",
+      "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
+      "source": "devto"
+    },
+    "650d7b059e4971a0": {
+      "date": "2026-11-04",
+      "title": "Your Agent Has a Side Door: Testing MCP Policy Beyond the Tool List",
+      "source": "devto"
+    },
+    "8dc07f40eb29d0bc": {
+      "date": "2026-11-04",
+      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
+      "source": "devto"
+    },
+    "f08d8cf2c7baf95f": {
+      "date": "2026-11-04",
+      "title": "thedotmack / claude-mem",
+      "source": "github"
     }
   }
 }
