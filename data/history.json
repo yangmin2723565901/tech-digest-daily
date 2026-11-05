@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-05T12:41:01.246296",
+  "last_updated": "2026-11-05T17:48:34.504667",
   "sent_items": {
     "9f3e1d26192750b8": {
       "date": "2026-10-06",
@@ -6461,6 +6461,96 @@
       "date": "2026-11-05",
       "title": "microsoft / VibeVoice",
       "source": "github"
+    },
+    "a36b75d6368ee8f6": {
+      "date": "2026-11-05",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "source": "hackernews"
+    },
+    "69a6104d0a904e24": {
+      "date": "2026-11-05",
+      "title": "Download your favourite YouTube videos",
+      "source": "hackernews"
+    },
+    "4e4712f6a7635f1d": {
+      "date": "2026-11-05",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "source": "hackernews"
+    },
+    "114b9a3993ccb7e1": {
+      "date": "2026-11-05",
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "source": "hackernews"
+    },
+    "31b9146c613bf07c": {
+      "date": "2026-11-05",
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "source": "hackernews"
+    },
+    "6258d65ecf22d9c0": {
+      "date": "2026-11-05",
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "source": "hackernews"
+    },
+    "72648fe1edd1b885": {
+      "date": "2026-11-05",
+      "title": "The Stacks Project, Formalized in Lean",
+      "source": "hackernews"
+    },
+    "445d1f8a4a77e2d6": {
+      "date": "2026-11-05",
+      "title": "Window Sweaters",
+      "source": "hackernews"
+    },
+    "22aa2c65c4b43a15": {
+      "date": "2026-11-05",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "source": "hackernews"
+    },
+    "9d0b103802ed37ed": {
+      "date": "2026-11-05",
+      "title": "TextKit",
+      "source": "producthunt"
+    },
+    "378686a89bace820": {
+      "date": "2026-11-05",
+      "title": "Tencent Hy4",
+      "source": "producthunt"
+    },
+    "d11fe8e7051d2a4e": {
+      "date": "2026-11-05",
+      "title": "SafetyClip",
+      "source": "producthunt"
+    },
+    "6c96ce1049cb7936": {
+      "date": "2026-11-05",
+      "title": "Plan Stamping, for Software",
+      "source": "devto"
+    },
+    "c0b2b7f09f05b9e6": {
+      "date": "2026-11-05",
+      "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
+      "source": "devto"
+    },
+    "4207e8422637ecc5": {
+      "date": "2026-11-05",
+      "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
+      "source": "devto"
+    },
+    "73d5b96204ea7f26": {
+      "date": "2026-11-05",
+      "title": "Find the production agent failures that every health check misses",
+      "source": "devto"
+    },
+    "93e289fb642b855f": {
+      "date": "2026-11-05",
+      "title": "From Google Drive to Syncthing over Tailscale",
+      "source": "devto"
+    },
+    "1862c7d33457e302": {
+      "date": "2026-11-05",
+      "title": "Nuxt CLI v4 Is Great for AI Coding Agents",
+      "source": "devto"
     }
   }
 }
