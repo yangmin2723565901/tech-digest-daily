@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-05T09:49:17.873676",
+  "last_updated": "2026-11-05T12:41:01.246296",
   "sent_items": {
     "9f3e1d26192750b8": {
       "date": "2026-10-06",
@@ -6375,6 +6375,91 @@
     "8ed11f9c07a08ee3": {
       "date": "2026-11-05",
       "title": "garrytan / gstack",
+      "source": "github"
+    },
+    "2caa86b22c2c5c97": {
+      "date": "2026-11-05",
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "source": "hackernews"
+    },
+    "c5b87c42396f4f26": {
+      "date": "2026-11-05",
+      "title": "Partial Operator Precedence",
+      "source": "hackernews"
+    },
+    "3a79ec4f3ae88239": {
+      "date": "2026-11-05",
+      "title": "Awesome repositories are no longer awesome",
+      "source": "hackernews"
+    },
+    "de4a86af4af11b2c": {
+      "date": "2026-11-05",
+      "title": "Sshole",
+      "source": "hackernews"
+    },
+    "96d82d046ec6d7b0": {
+      "date": "2026-11-05",
+      "title": "Glasshand",
+      "source": "producthunt"
+    },
+    "a674004daa754ffa": {
+      "date": "2026-11-05",
+      "title": "CC Auto Review",
+      "source": "producthunt"
+    },
+    "0318700fc043f0b6": {
+      "date": "2026-11-05",
+      "title": "Pushary for Teams",
+      "source": "producthunt"
+    },
+    "835ef976e2f5ec56": {
+      "date": "2026-11-05",
+      "title": "AI Employees by Easy-Peasy.AI",
+      "source": "producthunt"
+    },
+    "1f0486c69f82e34f": {
+      "date": "2026-11-05",
+      "title": "Living Brain",
+      "source": "producthunt"
+    },
+    "9a3ff6e00aa570e9": {
+      "date": "2026-11-05",
+      "title": "Wingmen",
+      "source": "producthunt"
+    },
+    "5dd64baa63eaae17": {
+      "date": "2026-11-05",
+      "title": "ChatGPT Images 2.6",
+      "source": "producthunt"
+    },
+    "4ca7892c81c62e8a": {
+      "date": "2026-11-05",
+      "title": "WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?",
+      "source": "devto"
+    },
+    "193b081c9ab76f54": {
+      "date": "2026-11-05",
+      "title": "lz4 / lz4",
+      "source": "github"
+    },
+    "69c7eb76fe0b1fcc": {
+      "date": "2026-11-05",
+      "title": "google / skills",
+      "source": "github"
+    },
+    "c34811c59d2df7cc": {
+      "date": "2026-11-05",
+      "title": "vercel-labs / agent-browser",
+      "source": "github"
+    },
+    "30408734ead09cf2": {
+      "date": "2026-11-05",
+      "title": "ConardLi / garden-skills",
+      "source": "github"
+    },
+    "104b57e9a4316877": {
+      "date": "2026-11-05",
+      "title": "microsoft / VibeVoice",
       "source": "github"
     }
   }
