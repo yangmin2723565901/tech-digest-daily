@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-05T02:30:25.835515",
+  "last_updated": "2026-11-05T09:49:17.873676",
   "sent_items": {
     "9f3e1d26192750b8": {
       "date": "2026-10-06",
@@ -6306,6 +6306,76 @@
       "date": "2026-11-05",
       "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, ",
       "source": "devto"
+    },
+    "ac6aa35cc60f8f34": {
+      "date": "2026-11-05",
+      "title": "Lemmings CSS Animation",
+      "source": "hackernews"
+    },
+    "036a41a97a025ada": {
+      "date": "2026-11-05",
+      "title": "Spreading Liquid with Three.js",
+      "source": "hackernews"
+    },
+    "9fb0b0467e5a128c": {
+      "date": "2026-11-05",
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "source": "hackernews"
+    },
+    "25bea5b6556f236d": {
+      "date": "2026-11-05",
+      "title": "TextEdit vs. Pages",
+      "source": "hackernews"
+    },
+    "de8aecfb886a203e": {
+      "date": "2026-11-05",
+      "title": "Pinku",
+      "source": "producthunt"
+    },
+    "f55369884d619cbd": {
+      "date": "2026-11-05",
+      "title": "Tao Browser",
+      "source": "producthunt"
+    },
+    "f20c7d05e53cf442": {
+      "date": "2026-11-05",
+      "title": "Keel",
+      "source": "producthunt"
+    },
+    "25a5a665d7431513": {
+      "date": "2026-11-05",
+      "title": "Paws",
+      "source": "producthunt"
+    },
+    "d62cd00073e131a4": {
+      "date": "2026-11-05",
+      "title": "backlane",
+      "source": "producthunt"
+    },
+    "1d105bb00648f731": {
+      "date": "2026-11-05",
+      "title": "Seamcult",
+      "source": "producthunt"
+    },
+    "0f2a91d4a5c3dec5": {
+      "date": "2026-11-05",
+      "title": "ChatNest",
+      "source": "producthunt"
+    },
+    "570d5ae1de68ddb7": {
+      "date": "2026-11-05",
+      "title": "Clocknext",
+      "source": "producthunt"
+    },
+    "20a4fec4d13677f9": {
+      "date": "2026-11-05",
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "source": "devto"
+    },
+    "8ed11f9c07a08ee3": {
+      "date": "2026-11-05",
+      "title": "garrytan / gstack",
+      "source": "github"
     }
   }
 }
