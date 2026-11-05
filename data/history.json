@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-05T17:48:34.504667",
+  "last_updated": "2026-11-05T23:06:56.796584",
   "sent_items": {
     "9f3e1d26192750b8": {
       "date": "2026-10-06",
@@ -6550,6 +6550,71 @@
     "1862c7d33457e302": {
       "date": "2026-11-05",
       "title": "Nuxt CLI v4 Is Great for AI Coding Agents",
+      "source": "devto"
+    },
+    "2d35245106a9a297": {
+      "date": "2026-11-05",
+      "title": "Kagi Search for Everyone",
+      "source": "hackernews"
+    },
+    "140b259f41f08c4d": {
+      "date": "2026-11-05",
+      "title": "Goodbye from Salon",
+      "source": "hackernews"
+    },
+    "513ae11503c4d5a5": {
+      "date": "2026-11-05",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "source": "hackernews"
+    },
+    "502687729cd2f976": {
+      "date": "2026-11-05",
+      "title": "The Hackintosh Reborn",
+      "source": "hackernews"
+    },
+    "6efc00abc1aa13bf": {
+      "date": "2026-11-05",
+      "title": "Claude Code sends your email address to websites",
+      "source": "hackernews"
+    },
+    "277aff7b44d339c1": {
+      "date": "2026-11-05",
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "source": "hackernews"
+    },
+    "89b612fed572ce77": {
+      "date": "2026-11-05",
+      "title": "The Cost of Blogging",
+      "source": "hackernews"
+    },
+    "94d12dc43f38ac46": {
+      "date": "2026-11-05",
+      "title": "Maritime",
+      "source": "producthunt"
+    },
+    "cd7b2708d01d38ce": {
+      "date": "2026-11-05",
+      "title": "Rerun",
+      "source": "producthunt"
+    },
+    "3af311e17e3f8d55": {
+      "date": "2026-11-05",
+      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+      "source": "devto"
+    },
+    "cefaccb89ec69433": {
+      "date": "2026-11-05",
+      "title": "Trocar de provedor não deveria ser uma dor de cabeça",
+      "source": "devto"
+    },
+    "875c681b38496fc1": {
+      "date": "2026-11-05",
+      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
+      "source": "devto"
+    },
+    "6bbb3d4ece3d27d9": {
+      "date": "2026-11-05",
+      "title": "The Fibonacci Spiral Is Secretly a Straight Line",
       "source": "devto"
     }
   }
