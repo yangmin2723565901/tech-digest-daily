@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-06T03:28:37.764594",
+  "last_updated": "2026-11-06T11:27:00.437626",
   "sent_items": {
     "28ee28cc295a9a74": {
       "date": "2026-10-07",
@@ -6481,6 +6481,151 @@
       "date": "2026-11-06",
       "title": "One Markdown File Can Hijack Your AI Coding Agent: The Hidden Cost of Blindly Trusting AGENTS.md",
       "source": "devto"
+    },
+    "7f41cc5d9b2d0d78": {
+      "date": "2026-11-06",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "source": "hackernews"
+    },
+    "6ea76c05c1740585": {
+      "date": "2026-11-06",
+      "title": "Pwn.college",
+      "source": "hackernews"
+    },
+    "bdf3d7d37b43de9b": {
+      "date": "2026-11-06",
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "source": "hackernews"
+    },
+    "67fdb7602cf0b10b": {
+      "date": "2026-11-06",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "source": "hackernews"
+    },
+    "9b06195685cb983d": {
+      "date": "2026-11-06",
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "source": "hackernews"
+    },
+    "cacce48fb973842d": {
+      "date": "2026-11-06",
+      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+      "source": "hackernews"
+    },
+    "33eb3fce9ac125ca": {
+      "date": "2026-11-06",
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "source": "hackernews"
+    },
+    "5618856fa5231cc8": {
+      "date": "2026-11-06",
+      "title": "Koltrix",
+      "source": "producthunt"
+    },
+    "0326bf1e3ac226bc": {
+      "date": "2026-11-06",
+      "title": "Wisp",
+      "source": "producthunt"
+    },
+    "051de43777328a57": {
+      "date": "2026-11-06",
+      "title": "TraceX",
+      "source": "producthunt"
+    },
+    "742e03eac8e8c47d": {
+      "date": "2026-11-06",
+      "title": "Translucent AI",
+      "source": "producthunt"
+    },
+    "63e53a86124b9d4d": {
+      "date": "2026-11-06",
+      "title": "Shipnoted",
+      "source": "producthunt"
+    },
+    "c98af472ca405229": {
+      "date": "2026-11-06",
+      "title": "SafeGrd",
+      "source": "producthunt"
+    },
+    "ea0fe996fdc20211": {
+      "date": "2026-11-06",
+      "title": "pwned.coffee",
+      "source": "producthunt"
+    },
+    "e1b64ed775041aa6": {
+      "date": "2026-11-06",
+      "title": "Cursor Craft",
+      "source": "producthunt"
+    },
+    "b039e548ba425c8d": {
+      "date": "2026-11-06",
+      "title": "Every keyboard is a mechanical keyboard with Klicky",
+      "source": "devto"
+    },
+    "cf8dc50f8749b617": {
+      "date": "2026-11-06",
+      "title": "🤷‍♀️ Soul Searching Amid Tech Frustrations",
+      "source": "devto"
+    },
+    "18817e0638eb0ead": {
+      "date": "2026-11-06",
+      "title": "Will AI Make Abstractions Obsolete?",
+      "source": "devto"
+    },
+    "b492ec56ce07d876": {
+      "date": "2026-11-06",
+      "title": "zed-industries / zed",
+      "source": "github"
+    },
+    "c1697eee13b5b771": {
+      "date": "2026-11-06",
+      "title": "rails / rails",
+      "source": "github"
+    },
+    "ffd8d54208ace1f9": {
+      "date": "2026-11-06",
+      "title": "mpv-player / mpv",
+      "source": "github"
+    },
+    "7d96f7c53b45a7ca": {
+      "date": "2026-11-06",
+      "title": "react / react",
+      "source": "github"
+    },
+    "eea0e619ec07671d": {
+      "date": "2026-11-06",
+      "title": "angular / angular",
+      "source": "github"
+    },
+    "c720012084830783": {
+      "date": "2026-11-06",
+      "title": "symfony / symfony",
+      "source": "github"
+    },
+    "95404ed3901c6532": {
+      "date": "2026-11-06",
+      "title": "prometheus / prometheus",
+      "source": "github"
+    },
+    "429ceefb7bccd659": {
+      "date": "2026-11-06",
+      "title": "microsoft / vscode",
+      "source": "github"
+    },
+    "42200afb38663f77": {
+      "date": "2026-11-06",
+      "title": "nushell / nushell",
+      "source": "github"
+    },
+    "903ceae4648ba855": {
+      "date": "2026-11-06",
+      "title": "etcd-io / etcd",
+      "source": "github"
+    },
+    "9f9847c5cf87fbb5": {
+      "date": "2026-11-06",
+      "title": "openssl / openssl",
+      "source": "github"
     }
   }
 }
