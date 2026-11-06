@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-06T11:27:00.437626",
+  "last_updated": "2026-11-06T12:23:59.740903",
   "sent_items": {
     "28ee28cc295a9a74": {
       "date": "2026-10-07",
@@ -6626,6 +6626,61 @@
       "date": "2026-11-06",
       "title": "openssl / openssl",
       "source": "github"
+    },
+    "a8bccdd3fe281d09": {
+      "date": "2026-11-06",
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "source": "hackernews"
+    },
+    "8e7c92be52404020": {
+      "date": "2026-11-06",
+      "title": "We've built an open-source feature flag server for 11 years",
+      "source": "hackernews"
+    },
+    "ed359bfc19a73a92": {
+      "date": "2026-11-06",
+      "title": "Rankfender v3.0",
+      "source": "producthunt"
+    },
+    "3dd6afb17abb680a": {
+      "date": "2026-11-06",
+      "title": "Enhanced for Todoist",
+      "source": "producthunt"
+    },
+    "864234c9634bc275": {
+      "date": "2026-11-06",
+      "title": "MacDupl",
+      "source": "producthunt"
+    },
+    "1dba4d8a880bb874": {
+      "date": "2026-11-06",
+      "title": "Letterpress-1",
+      "source": "producthunt"
+    },
+    "df729843f375a581": {
+      "date": "2026-11-06",
+      "title": "Native Tasks for Obsidian",
+      "source": "producthunt"
+    },
+    "2027327f5adbd5d5": {
+      "date": "2026-11-06",
+      "title": "AudioCentral",
+      "source": "producthunt"
+    },
+    "3a68e1aaa35c5fc3": {
+      "date": "2026-11-06",
+      "title": "BuildFerry",
+      "source": "producthunt"
+    },
+    "ff0269830e55a111": {
+      "date": "2026-11-06",
+      "title": "PostMyPace",
+      "source": "producthunt"
+    },
+    "948ead2ab61b1a9a": {
+      "date": "2026-11-06",
+      "title": "If Diwali Had a Git Commit History, Mine Would Be Full of Last-Minute Changes",
+      "source": "devto"
     }
   }
 }
