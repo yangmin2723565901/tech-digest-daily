@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-06T18:23:40.647284",
+  "last_updated": "2026-11-06T23:29:34.151226",
   "sent_items": {
     "28ee28cc295a9a74": {
       "date": "2026-10-07",
@@ -6765,6 +6765,76 @@
     "17ce120695ca3883": {
       "date": "2026-11-06",
       "title": "The central challenge of working with AI",
+      "source": "devto"
+    },
+    "73de156b3c59e8ca": {
+      "date": "2026-11-06",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "source": "hackernews"
+    },
+    "7574b93a4909fb0d": {
+      "date": "2026-11-06",
+      "title": "AI is dramatically accelerating AI research",
+      "source": "hackernews"
+    },
+    "8dac27b5d3632217": {
+      "date": "2026-11-06",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "source": "hackernews"
+    },
+    "5e526872025e9a49": {
+      "date": "2026-11-06",
+      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+      "source": "hackernews"
+    },
+    "280218cb71b524f4": {
+      "date": "2026-11-06",
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "source": "hackernews"
+    },
+    "9f9c8072457e090a": {
+      "date": "2026-11-06",
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "source": "hackernews"
+    },
+    "171058d9a08ea5db": {
+      "date": "2026-11-06",
+      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+      "source": "hackernews"
+    },
+    "9922ee3e9ad2f689": {
+      "date": "2026-11-06",
+      "title": "Textwhisk",
+      "source": "producthunt"
+    },
+    "a8bfac0de95c1a4d": {
+      "date": "2026-11-06",
+      "title": "axel.md",
+      "source": "producthunt"
+    },
+    "fbbb5b2cbd5bd639": {
+      "date": "2026-11-06",
+      "title": "Releasebeam",
+      "source": "producthunt"
+    },
+    "606e6cc01e90c80f": {
+      "date": "2026-11-06",
+      "title": "Alysis Code",
+      "source": "producthunt"
+    },
+    "9d82f56bda21d186": {
+      "date": "2026-11-06",
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "source": "devto"
+    },
+    "cc852b0b448f8b44": {
+      "date": "2026-11-06",
+      "title": "Ad Pulse Lab",
+      "source": "devto"
+    },
+    "4489f34b3f98b81c": {
+      "date": "2026-11-06",
+      "title": "Retro Techno Generator: Your Pulse Plays 90s Acid Techno, Your Dancing Plays the Filters",
       "source": "devto"
     }
   }
