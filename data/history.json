@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-06T12:23:59.740903",
+  "last_updated": "2026-11-06T18:23:40.647284",
   "sent_items": {
     "28ee28cc295a9a74": {
       "date": "2026-10-07",
@@ -6680,6 +6680,91 @@
     "948ead2ab61b1a9a": {
       "date": "2026-11-06",
       "title": "If Diwali Had a Git Commit History, Mine Would Be Full of Last-Minute Changes",
+      "source": "devto"
+    },
+    "e896324e5e8b7801": {
+      "date": "2026-11-06",
+      "title": "Tesla to wind down Cybertruck production",
+      "source": "hackernews"
+    },
+    "93df83b8b9016f3f": {
+      "date": "2026-11-06",
+      "title": "Deus Ex",
+      "source": "hackernews"
+    },
+    "4eabb5f27738ceda": {
+      "date": "2026-11-06",
+      "title": "Gemini Omni 1.2 Flash",
+      "source": "hackernews"
+    },
+    "64649f0cfd14dbf5": {
+      "date": "2026-11-06",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "source": "hackernews"
+    },
+    "f1ef0ecbbb3895e4": {
+      "date": "2026-11-06",
+      "title": "First steps in bare-metal programming using UEFI",
+      "source": "hackernews"
+    },
+    "8bf6029768b8d6d7": {
+      "date": "2026-11-06",
+      "title": "Anthropic IPO valuation talks drop to $1.3T",
+      "source": "hackernews"
+    },
+    "9331981e2bbc1b20": {
+      "date": "2026-11-06",
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "source": "hackernews"
+    },
+    "778cf63b85754d5f": {
+      "date": "2026-11-06",
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "source": "hackernews"
+    },
+    "b420d7588e3987bc": {
+      "date": "2026-11-06",
+      "title": "Magic Wonders",
+      "source": "producthunt"
+    },
+    "a2c2fc66f5d7ea7f": {
+      "date": "2026-11-06",
+      "title": "refern.",
+      "source": "producthunt"
+    },
+    "3262633d75d92dab": {
+      "date": "2026-11-06",
+      "title": "Openroster",
+      "source": "producthunt"
+    },
+    "939d924bd585d3ef": {
+      "date": "2026-11-06",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "08807ae610467972": {
+      "date": "2026-11-06",
+      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
+      "source": "devto"
+    },
+    "ebab2d4f86643b77": {
+      "date": "2026-11-06",
+      "title": "One word in a chat took my shop offline. I built it that way.",
+      "source": "devto"
+    },
+    "972a4785d9e846e1": {
+      "date": "2026-11-06",
+      "title": "Prisma ORM 7's Rust-free query engine speeds up queries and slows down cold starts",
+      "source": "devto"
+    },
+    "a27f72bae76ee486": {
+      "date": "2026-11-06",
+      "title": "Retro :: Spider-Paint",
+      "source": "devto"
+    },
+    "17ce120695ca3883": {
+      "date": "2026-11-06",
+      "title": "The central challenge of working with AI",
       "source": "devto"
     }
   }
