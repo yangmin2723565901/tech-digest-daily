@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-07T20:28:10.929342",
+  "last_updated": "2026-11-07T23:55:42.795247",
   "sent_items": {
     "3903ecbd93718f7d": {
       "date": "2026-10-08",
@@ -6995,6 +6995,36 @@
     "7be4586092ca45d5": {
       "date": "2026-11-07",
       "title": "Exhale: A Breathing Guide That Reads Your Breath While Claude Code Works",
+      "source": "devto"
+    },
+    "58446340156dd2d4": {
+      "date": "2026-11-07",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "source": "hackernews"
+    },
+    "ba9e82b9d7e08d4e": {
+      "date": "2026-11-07",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "source": "hackernews"
+    },
+    "69780c6727001f7a": {
+      "date": "2026-11-07",
+      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "source": "hackernews"
+    },
+    "b9116326703f90a7": {
+      "date": "2026-11-07",
+      "title": "GitHub New pull request overview page in public preview",
+      "source": "hackernews"
+    },
+    "0a9036608ad9e09e": {
+      "date": "2026-11-07",
+      "title": "I Never Thought I'd Be a Programmer. Yet Here I Am.",
+      "source": "devto"
+    },
+    "59f2ef312dad671f": {
+      "date": "2026-11-07",
+      "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
       "source": "devto"
     }
   }
