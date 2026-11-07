@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-06T23:29:34.151226",
+  "last_updated": "2026-11-07T03:10:25.284224",
   "sent_items": {
-    "28ee28cc295a9a74": {
-      "date": "2026-10-07",
-      "title": "Mistral Large 4",
-      "source": "hackernews"
-    },
-    "97d1ddb511708196": {
-      "date": "2026-10-07",
-      "title": "Sharing AI progress in mathematics",
-      "source": "hackernews"
-    },
-    "ac70e0181fb601b8": {
-      "date": "2026-10-07",
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "source": "hackernews"
-    },
-    "2b394de14f674391": {
-      "date": "2026-10-07",
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "source": "hackernews"
-    },
-    "329dc33bb7e8d5ff": {
-      "date": "2026-10-07",
-      "title": "Decisions API is in public beta",
-      "source": "hackernews"
-    },
-    "a46520c0821d8ae1": {
-      "date": "2026-10-07",
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "source": "hackernews"
-    },
-    "b4ea01193c26016d": {
-      "date": "2026-10-07",
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "source": "hackernews"
-    },
-    "466802ea2ebe0f96": {
-      "date": "2026-10-07",
-      "title": "State of Devs 2026 survey results: developers are exhausted",
-      "source": "hackernews"
-    },
-    "460e87c53d1406bd": {
-      "date": "2026-10-07",
-      "title": "Integer multiplication below n log n",
-      "source": "hackernews"
-    },
-    "2b200959c25eb87a": {
-      "date": "2026-10-07",
-      "title": "Fuse AI",
-      "source": "producthunt"
-    },
-    "539162db76de40ad": {
-      "date": "2026-10-07",
-      "title": "Customer Service AI for Etsy",
-      "source": "producthunt"
-    },
-    "96a82f0389ecd5e1": {
-      "date": "2026-10-07",
-      "title": "Chunk",
-      "source": "producthunt"
-    },
-    "21eda12b40489cc8": {
-      "date": "2026-10-07",
-      "title": "Rill Browser",
-      "source": "producthunt"
-    },
-    "b6083762a9364ab0": {
-      "date": "2026-10-07",
-      "title": "Brnch",
-      "source": "producthunt"
-    },
-    "29ba26e0adb53992": {
-      "date": "2026-10-07",
-      "title": "Cosmic AI Support Agent",
-      "source": "producthunt"
-    },
-    "6ab851d5d93f27fe": {
-      "date": "2026-10-07",
-      "title": "ruOS",
-      "source": "producthunt"
-    },
-    "8ed42408b18af15c": {
-      "date": "2026-10-07",
-      "title": "Scumble",
-      "source": "producthunt"
-    },
-    "1ae169fb23a902a7": {
-      "date": "2026-10-07",
-      "title": "mattpocock / skills",
-      "source": "github"
-    },
-    "0135e142dae80432": {
-      "date": "2026-10-07",
-      "title": "morluto / rea",
-      "source": "github"
-    },
-    "30d8214c97f5f5b2": {
-      "date": "2026-10-07",
-      "title": "deepseek-ai / DeepGEMM",
-      "source": "github"
-    },
-    "f0faec98f86e4fde": {
-      "date": "2026-10-07",
-      "title": "cathrynlavery / diagram-design",
-      "source": "github"
-    },
-    "4825aec882fff4b8": {
-      "date": "2026-10-07",
-      "title": "Your GitHub README Isn't a Profile. It's a Storefront. (Here Are the 5 Rules I Used",
-      "source": "devto"
-    },
-    "6cd7d52e161c8a76": {
-      "date": "2026-10-07",
-      "title": "Why Your TypeScript Code Still Crashes in Production",
-      "source": "devto"
-    },
-    "d1141fe291eba5f2": {
-      "date": "2026-10-07",
-      "title": "🌿 AI Nature Quest: I Built an AI That Wants You to Stop Using It",
-      "source": "devto"
-    },
-    "c66eff1dc2df4d21": {
-      "date": "2026-10-07",
-      "title": "Your AI Agent Will Do Something Terrible. Here's How to Survive It.",
-      "source": "devto"
-    },
-    "d1e94bc3618cd419": {
-      "date": "2026-10-07",
-      "title": "Redis vs Dragonfly: A Hands-On Comparison",
-      "source": "devto"
-    },
-    "b6e041909b29865a": {
-      "date": "2026-10-07",
-      "title": "Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second",
-      "source": "devto"
-    },
-    "eaaf1e3e94f3680d": {
-      "date": "2026-10-07",
-      "title": "Ontological Shock at Altitude",
-      "source": "devto"
-    },
-    "67b453024a33cdaf": {
-      "date": "2026-10-07",
-      "title": "Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.",
-      "source": "devto"
-    },
-    "9c3421f357861b3d": {
-      "date": "2026-10-07",
-      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
-      "source": "devto"
-    },
-    "f5df0f638ba19755": {
-      "date": "2026-10-07",
-      "title": "My OSS Projects: Netpack",
-      "source": "devto"
-    },
     "3903ecbd93718f7d": {
       "date": "2026-10-08",
       "title": "Unprompt",
@@ -6835,6 +6680,56 @@
     "4489f34b3f98b81c": {
       "date": "2026-11-06",
       "title": "Retro Techno Generator: Your Pulse Plays 90s Acid Techno, Your Dancing Plays the Filters",
+      "source": "devto"
+    },
+    "fbc1c235706b5216": {
+      "date": "2026-11-07",
+      "title": "Libghostty 1.0",
+      "source": "hackernews"
+    },
+    "55654de4911be37a": {
+      "date": "2026-11-07",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "source": "hackernews"
+    },
+    "5f08810afc7027ee": {
+      "date": "2026-11-07",
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "source": "hackernews"
+    },
+    "13d1347ec1d18c84": {
+      "date": "2026-11-07",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "source": "hackernews"
+    },
+    "be12da89bf57652c": {
+      "date": "2026-11-07",
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "source": "hackernews"
+    },
+    "9bbce3f92186556c": {
+      "date": "2026-11-07",
+      "title": "EdgeBar",
+      "source": "producthunt"
+    },
+    "ab26ff8418f0b539": {
+      "date": "2026-11-07",
+      "title": "Plainmail",
+      "source": "producthunt"
+    },
+    "0f916bb93505e6c6": {
+      "date": "2026-11-07",
+      "title": "Pressure",
+      "source": "producthunt"
+    },
+    "7f341ed60b873e55": {
+      "date": "2026-11-07",
+      "title": "Mmory",
+      "source": "producthunt"
+    },
+    "b181e4e329e6e014": {
+      "date": "2026-11-07",
+      "title": "Fine-Tuning with a Handful of Examples",
       "source": "devto"
     }
   }
