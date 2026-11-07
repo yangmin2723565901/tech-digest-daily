@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-07T10:18:14.867503",
+  "last_updated": "2026-11-07T11:16:30.259557",
   "sent_items": {
     "3903ecbd93718f7d": {
       "date": "2026-10-08",
@@ -6806,6 +6806,76 @@
       "date": "2026-11-07",
       "title": "Windows won't let you own Win+Shift+S. So I hooked the keyboard in Python.",
       "source": "devto"
+    },
+    "323bc1611bbdbbac": {
+      "date": "2026-11-07",
+      "title": "Upload Your RAM",
+      "source": "hackernews"
+    },
+    "e9e8226e1b6aa0ab": {
+      "date": "2026-11-07",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "source": "hackernews"
+    },
+    "26c9e1023a7f6472": {
+      "date": "2026-11-07",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "source": "hackernews"
+    },
+    "24fdde9b8f87dc85": {
+      "date": "2026-11-07",
+      "title": "Enterprise Brain – Memory that learns from work",
+      "source": "hackernews"
+    },
+    "a3da6af2e94487c3": {
+      "date": "2026-11-07",
+      "title": "Rex (Beta)",
+      "source": "producthunt"
+    },
+    "5683888444496794": {
+      "date": "2026-11-07",
+      "title": "Standflow",
+      "source": "producthunt"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-11-07",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "31817dfd77ef0b8a": {
+      "date": "2026-11-07",
+      "title": "meta / astryx",
+      "source": "github"
+    },
+    "be490188feb3a8f7": {
+      "date": "2026-11-07",
+      "title": "sherlock-project / sherlock",
+      "source": "github"
+    },
+    "ad2ba4fee94e3555": {
+      "date": "2026-11-07",
+      "title": "astral-sh / ruff",
+      "source": "github"
+    },
+    "3612263b02aa7e3a": {
+      "date": "2026-11-07",
+      "title": "tailwindlabs / tailwindcss",
+      "source": "github"
+    },
+    "5a6031603e23f51b": {
+      "date": "2026-11-07",
+      "title": "mbillow / localthings",
+      "source": "github"
+    },
+    "a38f6be756e7becb": {
+      "date": "2026-11-07",
+      "title": "ranxianglei / billion-context",
+      "source": "github"
+    },
+    "86d75ee29cf15e9f": {
+      "date": "2026-11-07",
+      "title": "dsx-ai-factory / nvke",
+      "source": "github"
     }
   }
 }
