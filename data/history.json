@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-07T16:31:12.950715",
+  "last_updated": "2026-11-07T20:28:10.929342",
   "sent_items": {
     "3903ecbd93718f7d": {
       "date": "2026-10-08",
@@ -6920,6 +6920,81 @@
     "35f1c6601f1d62aa": {
       "date": "2026-11-07",
       "title": "4 money bugs that bite AI agents (and how I fixed them in PurseString)",
+      "source": "devto"
+    },
+    "be4d91b5c9794e78": {
+      "date": "2026-11-07",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "source": "hackernews"
+    },
+    "9409b8e123f399af": {
+      "date": "2026-11-07",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "source": "hackernews"
+    },
+    "b0f675ddb9e395df": {
+      "date": "2026-11-07",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "source": "hackernews"
+    },
+    "f0271476e2c61e58": {
+      "date": "2026-11-07",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "source": "hackernews"
+    },
+    "1dd53774aab21584": {
+      "date": "2026-11-07",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "source": "hackernews"
+    },
+    "5e9a11d2687f3732": {
+      "date": "2026-11-07",
+      "title": "How Long Can Life Wait?",
+      "source": "hackernews"
+    },
+    "2b413bec69807976": {
+      "date": "2026-11-07",
+      "title": "Five memorable books about programming (2008)",
+      "source": "hackernews"
+    },
+    "83fb39042f262b89": {
+      "date": "2026-11-07",
+      "title": "The Typo Generation Is Damaging Literature",
+      "source": "hackernews"
+    },
+    "7d79209ccecb01a3": {
+      "date": "2026-11-07",
+      "title": "Switchy",
+      "source": "producthunt"
+    },
+    "a03e7934e4bda879": {
+      "date": "2026-11-07",
+      "title": "Sendoff",
+      "source": "producthunt"
+    },
+    "f726f481e0111db6": {
+      "date": "2026-11-07",
+      "title": "kayet",
+      "source": "producthunt"
+    },
+    "2d0b575874b5dc05": {
+      "date": "2026-11-07",
+      "title": "Dino Kids",
+      "source": "producthunt"
+    },
+    "2b5fb741e67c7675": {
+      "date": "2026-11-07",
+      "title": "Ubuntu Core Desktop Is Coming in 27.04 - And It Kills sudo apt (But Maybe That Is the Point?)",
+      "source": "devto"
+    },
+    "e600190fbfe49525": {
+      "date": "2026-11-07",
+      "title": "Containerd 2.4's switch to klauspost's gzip decoder speeds up real image layers by 18%",
+      "source": "devto"
+    },
+    "7be4586092ca45d5": {
+      "date": "2026-11-07",
+      "title": "Exhale: A Breathing Guide That Reads Your Breath While Claude Code Works",
       "source": "devto"
     }
   }
