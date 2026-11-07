@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-07T03:10:25.284224",
+  "last_updated": "2026-11-07T10:18:14.867503",
   "sent_items": {
     "3903ecbd93718f7d": {
       "date": "2026-10-08",
@@ -6730,6 +6730,81 @@
     "b181e4e329e6e014": {
       "date": "2026-11-07",
       "title": "Fine-Tuning with a Handful of Examples",
+      "source": "devto"
+    },
+    "54e64f267a6fc448": {
+      "date": "2026-11-07",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "source": "hackernews"
+    },
+    "90b9a34769f8c63e": {
+      "date": "2026-11-07",
+      "title": "The Components of Agent Memory",
+      "source": "hackernews"
+    },
+    "ccf260e6e0be4685": {
+      "date": "2026-11-07",
+      "title": "PostgreSQL Internals [pdf]",
+      "source": "hackernews"
+    },
+    "fae1cb5274ae8dd2": {
+      "date": "2026-11-07",
+      "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+      "source": "hackernews"
+    },
+    "8b6e960091c3d1bd": {
+      "date": "2026-11-07",
+      "title": "Sequence Tool",
+      "source": "producthunt"
+    },
+    "40c1bdd10d6c5ae4": {
+      "date": "2026-11-07",
+      "title": "Google Omni 1.2 Flash",
+      "source": "producthunt"
+    },
+    "faf78be641c94766": {
+      "date": "2026-11-07",
+      "title": "Fleeep",
+      "source": "producthunt"
+    },
+    "f413fa6a020fa871": {
+      "date": "2026-11-07",
+      "title": "Deal Pilot",
+      "source": "producthunt"
+    },
+    "844f0f84299dedc8": {
+      "date": "2026-11-07",
+      "title": "Instagram Edits for Desktop",
+      "source": "producthunt"
+    },
+    "c94f88ffc1ad9607": {
+      "date": "2026-11-07",
+      "title": "Exa Monitors v2",
+      "source": "producthunt"
+    },
+    "958358551e19e6f7": {
+      "date": "2026-11-07",
+      "title": "Capnot",
+      "source": "producthunt"
+    },
+    "304e5b7383883cd7": {
+      "date": "2026-11-07",
+      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud R",
+      "source": "devto"
+    },
+    "62446fbe45594560": {
+      "date": "2026-11-07",
+      "title": "I ran 3 Claude Code architecture diagram tools on my repo. Here's what each one got right",
+      "source": "devto"
+    },
+    "4a6066d34567698e": {
+      "date": "2026-11-07",
+      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+      "source": "devto"
+    },
+    "c3d11016e0b5c092": {
+      "date": "2026-11-07",
+      "title": "Windows won't let you own Win+Shift+S. So I hooked the keyboard in Python.",
       "source": "devto"
     }
   }
