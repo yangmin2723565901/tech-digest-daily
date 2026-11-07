@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-07T11:16:30.259557",
+  "last_updated": "2026-11-07T16:31:12.950715",
   "sent_items": {
     "3903ecbd93718f7d": {
       "date": "2026-10-08",
@@ -6876,6 +6876,51 @@
       "date": "2026-11-07",
       "title": "dsx-ai-factory / nvke",
       "source": "github"
+    },
+    "376592862a9298d4": {
+      "date": "2026-11-07",
+      "title": "Running a law firm on Free software",
+      "source": "hackernews"
+    },
+    "ada3c8cee6130d9d": {
+      "date": "2026-11-07",
+      "title": "The $8 Linux Computer (2022)",
+      "source": "hackernews"
+    },
+    "0f0f325cc348e7be": {
+      "date": "2026-11-07",
+      "title": "ToothPaste",
+      "source": "hackernews"
+    },
+    "4e0e178d52c0eed6": {
+      "date": "2026-11-07",
+      "title": "Building the NBC News Big Board",
+      "source": "hackernews"
+    },
+    "c33cc2043b18f1cd": {
+      "date": "2026-11-07",
+      "title": "British Library Legal deposit and web archiving",
+      "source": "hackernews"
+    },
+    "0416a23888b95da8": {
+      "date": "2026-11-07",
+      "title": "Tasfer: a text editor drawn on a 2D canvas",
+      "source": "hackernews"
+    },
+    "223b296686375f00": {
+      "date": "2026-11-07",
+      "title": "You tried git-lrc. Meet LiveReview 👀",
+      "source": "devto"
+    },
+    "8220c834ce3d12ac": {
+      "date": "2026-11-07",
+      "title": "There's a Pattern Hidden in Qwen3.5-0.8B's Neurons That Training Can't Explain",
+      "source": "devto"
+    },
+    "35f1c6601f1d62aa": {
+      "date": "2026-11-07",
+      "title": "4 money bugs that bite AI agents (and how I fixed them in PurseString)",
+      "source": "devto"
     }
   }
 }
