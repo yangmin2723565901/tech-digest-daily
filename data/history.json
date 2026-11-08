@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-08T03:46:57.031967",
+  "last_updated": "2026-11-08T10:58:33.945986",
   "sent_items": {
     "a1f51c8dbdf89fde": {
       "date": "2026-10-09",
@@ -6890,6 +6890,101 @@
     "14f502feec421fdb": {
       "date": "2026-11-08",
       "title": "How to Master AWS for AI?",
+      "source": "devto"
+    },
+    "fd76eb13ab293994": {
+      "date": "2026-11-08",
+      "title": "Goodbye Claude, Hello Pi",
+      "source": "hackernews"
+    },
+    "17fcd025b0654fdf": {
+      "date": "2026-11-08",
+      "title": "GitHub Down Again?",
+      "source": "hackernews"
+    },
+    "de9ac2546f54c3d6": {
+      "date": "2026-11-08",
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "source": "hackernews"
+    },
+    "18728764bc8b999c": {
+      "date": "2026-11-08",
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "source": "hackernews"
+    },
+    "d2ac7c707cf16248": {
+      "date": "2026-11-08",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "source": "hackernews"
+    },
+    "2e9471ce76debd81": {
+      "date": "2026-11-08",
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "source": "hackernews"
+    },
+    "c3a3d7066b3ff113": {
+      "date": "2026-11-08",
+      "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+      "source": "hackernews"
+    },
+    "163bc6737b1b9b79": {
+      "date": "2026-11-08",
+      "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+      "source": "hackernews"
+    },
+    "ba3eac388614990e": {
+      "date": "2026-11-08",
+      "title": "Frameboy by World Labs",
+      "source": "producthunt"
+    },
+    "4d38d614739886c4": {
+      "date": "2026-11-08",
+      "title": "Keypause",
+      "source": "producthunt"
+    },
+    "771dcc949faf1d54": {
+      "date": "2026-11-08",
+      "title": "Zigzag Browser",
+      "source": "producthunt"
+    },
+    "b94ceb6bc3333533": {
+      "date": "2026-11-08",
+      "title": "NotchIsland",
+      "source": "producthunt"
+    },
+    "d557334bb1895d70": {
+      "date": "2026-11-08",
+      "title": "Tilde ",
+      "source": "producthunt"
+    },
+    "1b6e4ea6cd7b4d25": {
+      "date": "2026-11-08",
+      "title": "DocsAlot for customer support",
+      "source": "producthunt"
+    },
+    "295519286459c624": {
+      "date": "2026-11-08",
+      "title": "Inkling 2 Small",
+      "source": "producthunt"
+    },
+    "ab33b3ca0150128b": {
+      "date": "2026-11-08",
+      "title": "Agent Clan",
+      "source": "producthunt"
+    },
+    "36311c1c6e53e4a1": {
+      "date": "2026-11-08",
+      "title": "Your “Private” Search Engine Might Run on Bing. This One Builds Its Own Index",
+      "source": "devto"
+    },
+    "3a2e1a4a36f3c51a": {
+      "date": "2026-11-08",
+      "title": "The Correct Timestamp Was in My Agent's Prompt. It Still Said We Were Talking.",
+      "source": "devto"
+    },
+    "15917eceab4207b9": {
+      "date": "2026-11-08",
+      "title": "An agent told me it deployed. I asked the server, and the containers were a day old",
       "source": "devto"
     }
   }
