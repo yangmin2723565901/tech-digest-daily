@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-08T11:28:37.843199",
+  "last_updated": "2026-11-08T16:56:14.498432",
   "sent_items": {
     "a1f51c8dbdf89fde": {
       "date": "2026-10-09",
@@ -7025,6 +7025,91 @@
     "f8e337bcddf75d9c": {
       "date": "2026-11-08",
       "title": "A Builder in CDMX: Flu Edition",
+      "source": "devto"
+    },
+    "d86624c8bda24fcc": {
+      "date": "2026-11-08",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "source": "hackernews"
+    },
+    "54f6cf4df594dfeb": {
+      "date": "2026-11-08",
+      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "source": "hackernews"
+    },
+    "68dda9590590f48d": {
+      "date": "2026-11-08",
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "source": "hackernews"
+    },
+    "26e008892f43fa47": {
+      "date": "2026-11-08",
+      "title": "Writing as a thinking tool",
+      "source": "hackernews"
+    },
+    "ff3c0ab6f054824e": {
+      "date": "2026-11-08",
+      "title": "Porting Android 16 to my blind mother's keypad phone",
+      "source": "hackernews"
+    },
+    "23a96ced728f9349": {
+      "date": "2026-11-08",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "source": "hackernews"
+    },
+    "57d5e447fcc143f1": {
+      "date": "2026-11-08",
+      "title": "The Reconstruction of Torn Documents",
+      "source": "hackernews"
+    },
+    "e3ee55049fc1f797": {
+      "date": "2026-11-08",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "source": "hackernews"
+    },
+    "1f5d5db013e707db": {
+      "date": "2026-11-08",
+      "title": "Zigzag Browser",
+      "source": "producthunt"
+    },
+    "13df77a00c234c33": {
+      "date": "2026-11-08",
+      "title": "anthropics / claude-quickstarts",
+      "source": "github"
+    },
+    "685c56ef2ba74370": {
+      "date": "2026-11-08",
+      "title": "google-deepmind / mujoco",
+      "source": "github"
+    },
+    "bbcb19269f944482": {
+      "date": "2026-11-08",
+      "title": "Necoz Has a New Home on DEV! 🐈🎉",
+      "source": "devto"
+    },
+    "12b592fa90d43ae4": {
+      "date": "2026-11-08",
+      "title": "Don't Write More Prompts. Install These 10 Trending 'Skills' Instead",
+      "source": "devto"
+    },
+    "0d953eabeeaa59e7": {
+      "date": "2026-11-08",
+      "title": "Freeing AI from the Terminal: How We Built SwitchWarRoom to Turn Coding Agents into SRE Teammates in",
+      "source": "devto"
+    },
+    "cdd403835efbb017": {
+      "date": "2026-11-08",
+      "title": "I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.",
+      "source": "devto"
+    },
+    "b929df64f903baac": {
+      "date": "2026-11-08",
+      "title": "Agent memory: how Claude repairs wrong notes with dreaming",
+      "source": "devto"
+    },
+    "26c26634af8a20ab": {
+      "date": "2026-11-08",
+      "title": "Breathe as One: a two-phone co-op game you win by breathing together",
       "source": "devto"
     }
   }
