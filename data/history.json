@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-08T16:56:14.498432",
+  "last_updated": "2026-11-08T20:56:34.573265",
   "sent_items": {
     "a1f51c8dbdf89fde": {
       "date": "2026-10-09",
@@ -7110,6 +7110,61 @@
     "26c26634af8a20ab": {
       "date": "2026-11-08",
       "title": "Breathe as One: a two-phone co-op game you win by breathing together",
+      "source": "devto"
+    },
+    "a5f23dd24d671fe3": {
+      "date": "2026-11-08",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "source": "hackernews"
+    },
+    "685e075f61d87ba6": {
+      "date": "2026-11-08",
+      "title": "Declarative Dragging",
+      "source": "hackernews"
+    },
+    "3658a6c2127a878f": {
+      "date": "2026-11-08",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "source": "hackernews"
+    },
+    "a1fdbd28bea1a276": {
+      "date": "2026-11-08",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "source": "hackernews"
+    },
+    "5f7f7d5b4dd0c406": {
+      "date": "2026-11-08",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "source": "hackernews"
+    },
+    "a550c998d7507431": {
+      "date": "2026-11-08",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "source": "hackernews"
+    },
+    "4f905989086d018b": {
+      "date": "2026-11-08",
+      "title": "How I Fight AI Brain Fry",
+      "source": "hackernews"
+    },
+    "0c0ca2968e76c9e2": {
+      "date": "2026-11-08",
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "source": "hackernews"
+    },
+    "0087a93d9f73b19d": {
+      "date": "2026-11-08",
+      "title": "Engine Off: My 2026 Hackathon Run Is Over",
+      "source": "devto"
+    },
+    "ec2c5ab0e1e44b7f": {
+      "date": "2026-11-08",
+      "title": "🐾 DEV Pet Corner #5: Show Us Your Pets!",
+      "source": "devto"
+    },
+    "77b3b29c02f63aa3": {
+      "date": "2026-11-08",
+      "title": "Your Swing and JavaFX Code on iPhone, Android and the Web",
       "source": "devto"
     }
   }
