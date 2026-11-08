@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-07T23:55:42.795247",
+  "last_updated": "2026-11-08T03:46:57.031967",
   "sent_items": {
-    "3903ecbd93718f7d": {
-      "date": "2026-10-08",
-      "title": "Unprompt",
-      "source": "producthunt"
-    },
-    "98462ab3f24c3836": {
-      "date": "2026-10-08",
-      "title": "Zavi",
-      "source": "producthunt"
-    },
-    "ff6594c813123292": {
-      "date": "2026-10-08",
-      "title": "Figma Agent",
-      "source": "producthunt"
-    },
-    "38917af5ce4adbf9": {
-      "date": "2026-10-08",
-      "title": "Ana by Vertice",
-      "source": "producthunt"
-    },
-    "e6a6d6406902db6f": {
-      "date": "2026-10-08",
-      "title": "Introducing Video Editor in Manus 2.0",
-      "source": "producthunt"
-    },
-    "0ffdd30290dcaa69": {
-      "date": "2026-10-08",
-      "title": "DevAlly AI Agent",
-      "source": "producthunt"
-    },
-    "744abf3bc4f11450": {
-      "date": "2026-10-08",
-      "title": "Rhem Labs",
-      "source": "producthunt"
-    },
-    "bcfe1ce182f08750": {
-      "date": "2026-10-08",
-      "title": "ParakeetAI 2.0",
-      "source": "producthunt"
-    },
-    "4b5537308716f1d5": {
-      "date": "2026-10-08",
-      "title": "Margaret Hamilton has died",
-      "source": "hackernews"
-    },
-    "2cf28a1a9302bc8a": {
-      "date": "2026-10-08",
-      "title": "Claude Haiku 5.5",
-      "source": "hackernews"
-    },
-    "9a75e27349d9fab3": {
-      "date": "2026-10-08",
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "source": "hackernews"
-    },
-    "fa10d31279182475": {
-      "date": "2026-10-08",
-      "title": "Shipping JPEG XL in Chrome",
-      "source": "hackernews"
-    },
-    "274e0b08f86022cb": {
-      "date": "2026-10-08",
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "source": "hackernews"
-    },
-    "9431d44978f11754": {
-      "date": "2026-10-08",
-      "title": "Docker Agent",
-      "source": "hackernews"
-    },
-    "89a3fcb5a4585702": {
-      "date": "2026-10-08",
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "source": "hackernews"
-    },
-    "0f95f8e7b3fe02a2": {
-      "date": "2026-10-08",
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "source": "hackernews"
-    },
-    "ecbe81e522692839": {
-      "date": "2026-10-08",
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "source": "hackernews"
-    },
-    "9e7b27812fe1d2b7": {
-      "date": "2026-10-08",
-      "title": "Cleo (Mathematician)",
-      "source": "hackernews"
-    },
-    "8147512940a72563": {
-      "date": "2026-10-08",
-      "title": "I Think We're Forgetting How to Be Bored",
-      "source": "devto"
-    },
-    "3217347e41c4ce9e": {
-      "date": "2026-10-08",
-      "title": "Bash Isn't a Programming Language. It's a Text Substitution Engine.",
-      "source": "devto"
-    },
-    "d46ece4427cf332d": {
-      "date": "2026-10-08",
-      "title": "The job market is absolutely disgusting - I'm doing something about it!",
-      "source": "devto"
-    },
-    "685369b13ec2a69f": {
-      "date": "2026-10-08",
-      "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
-      "source": "devto"
-    },
-    "5febf32060d13f52": {
-      "date": "2026-10-08",
-      "title": "Single line CV",
-      "source": "devto"
-    },
-    "bbe3eab16db98f8e": {
-      "date": "2026-10-08",
-      "title": "I built an AI that only works when my phone is in my pocket",
-      "source": "devto"
-    },
-    "0dd8c656b44bcff1": {
-      "date": "2026-10-08",
-      "title": "Migrating a Real TypeScript OSS Library from tsup to tsdown",
-      "source": "devto"
-    },
-    "eb8e780b1f17a907": {
-      "date": "2026-10-08",
-      "title": "Touch Grass, Pack Your Docs: An Offline Coding Agent on a 4 GB Laptop GPU",
-      "source": "devto"
-    },
-    "13f63b300bb4e61a": {
-      "date": "2026-10-08",
-      "title": "What email APIs cost in 2026: 7 workloads priced on 6 providers",
-      "source": "devto"
-    },
-    "c9a39b9edf4714e0": {
-      "date": "2026-10-08",
-      "title": "Brunch Gem: Isolated Development Environments for Git Branches and Worktrees",
-      "source": "devto"
-    },
-    "c76be726818a083c": {
-      "date": "2026-10-08",
-      "title": "EpicGames / raddebugger",
-      "source": "github"
-    },
-    "0483299a7e22039b": {
-      "date": "2026-10-08",
-      "title": "manaflow-ai / cmux",
-      "source": "github"
-    },
     "a1f51c8dbdf89fde": {
       "date": "2026-10-09",
       "title": "Whistle: Speech to Text in 16.9 MB",
@@ -7025,6 +6875,21 @@
     "59f2ef312dad671f": {
       "date": "2026-11-07",
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
+      "source": "devto"
+    },
+    "9e21cade4343fdd6": {
+      "date": "2026-11-08",
+      "title": "Making any integer with four 2s (2025)",
+      "source": "hackernews"
+    },
+    "f125758bf1676853": {
+      "date": "2026-11-08",
+      "title": "Amsterdam School",
+      "source": "hackernews"
+    },
+    "14f502feec421fdb": {
+      "date": "2026-11-08",
+      "title": "How to Master AWS for AI?",
       "source": "devto"
     }
   }
