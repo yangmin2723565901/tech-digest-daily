@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-08T10:58:33.945986",
+  "last_updated": "2026-11-08T11:28:37.843199",
   "sent_items": {
     "a1f51c8dbdf89fde": {
       "date": "2026-10-09",
@@ -6985,6 +6985,46 @@
     "15917eceab4207b9": {
       "date": "2026-11-08",
       "title": "An agent told me it deployed. I asked the server, and the containers were a day old",
+      "source": "devto"
+    },
+    "04bdbe6173d260d4": {
+      "date": "2026-11-08",
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "source": "hackernews"
+    },
+    "5a9dfe3a25ab72d4": {
+      "date": "2026-11-08",
+      "title": "Petered (what happens after the Peter Principle)",
+      "source": "hackernews"
+    },
+    "02213e80548b5253": {
+      "date": "2026-11-08",
+      "title": "Deduplication",
+      "source": "producthunt"
+    },
+    "b8ecec6568829ffe": {
+      "date": "2026-11-08",
+      "title": "Textly",
+      "source": "producthunt"
+    },
+    "e7da33b73cfc5e6f": {
+      "date": "2026-11-08",
+      "title": "NotchX",
+      "source": "producthunt"
+    },
+    "b3eb8aa33167cef7": {
+      "date": "2026-11-08",
+      "title": "Sage2 by Levanto Labs",
+      "source": "producthunt"
+    },
+    "3c1ea37104303a75": {
+      "date": "2026-11-08",
+      "title": "Redis 8.12-rc1's roaring bitmap type shrinks a sparse bitmap from 24MB to 239KB",
+      "source": "devto"
+    },
+    "f8e337bcddf75d9c": {
+      "date": "2026-11-08",
+      "title": "A Builder in CDMX: Flu Edition",
       "source": "devto"
     }
   }
