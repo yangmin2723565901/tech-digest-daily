@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-09T07:07:38.261487",
+  "last_updated": "2026-11-09T13:15:51.831351",
   "sent_items": {
     "e6b9cee054ea4394": {
       "date": "2026-10-10",
@@ -7096,6 +7096,116 @@
       "date": "2026-11-09",
       "title": "I'd stopped reviewing the basics, so I built a small site to practice them",
       "source": "devto"
+    },
+    "44102b1f75f42545": {
+      "date": "2026-11-09",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "source": "hackernews"
+    },
+    "8818073d2b806733": {
+      "date": "2026-11-09",
+      "title": "Fold Epic Paper Airplanes",
+      "source": "hackernews"
+    },
+    "1920affe5b228775": {
+      "date": "2026-11-09",
+      "title": "Humans will never again create a project like Wikipedia",
+      "source": "hackernews"
+    },
+    "da5a5a51cd2adff0": {
+      "date": "2026-11-09",
+      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+      "source": "hackernews"
+    },
+    "f6b2905c6e2050fe": {
+      "date": "2026-11-09",
+      "title": "Try Gleam",
+      "source": "hackernews"
+    },
+    "14a58a114627815e": {
+      "date": "2026-11-09",
+      "title": "What is malloc doing, anyway?",
+      "source": "hackernews"
+    },
+    "32e60999ea668aa7": {
+      "date": "2026-11-09",
+      "title": "Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "source": "hackernews"
+    },
+    "8006d3e4cb29e19a": {
+      "date": "2026-11-09",
+      "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+      "source": "hackernews"
+    },
+    "2d8ba6c5594fbe49": {
+      "date": "2026-11-09",
+      "title": "Arcjet AI security models",
+      "source": "producthunt"
+    },
+    "3ecd540c44030c88": {
+      "date": "2026-11-09",
+      "title": "MCP1",
+      "source": "producthunt"
+    },
+    "63129673577111ee": {
+      "date": "2026-11-09",
+      "title": "Egoist AI Passport",
+      "source": "producthunt"
+    },
+    "f088a30cb6b3275d": {
+      "date": "2026-11-09",
+      "title": "Flic Cue",
+      "source": "producthunt"
+    },
+    "9947424a8dc0c6cd": {
+      "date": "2026-11-09",
+      "title": "Terse - Durable Actors",
+      "source": "producthunt"
+    },
+    "35fdf0a9dd25bd8d": {
+      "date": "2026-11-09",
+      "title": "ClipsPal",
+      "source": "producthunt"
+    },
+    "d18cd8a9f9c3b014": {
+      "date": "2026-11-09",
+      "title": "Dageno AI 2.0",
+      "source": "producthunt"
+    },
+    "d514201ec401ad6c": {
+      "date": "2026-11-09",
+      "title": "Jotform App for Shopify",
+      "source": "producthunt"
+    },
+    "c559b007beeebd25": {
+      "date": "2026-11-09",
+      "title": "Small Contributions Matter Too 🐈",
+      "source": "devto"
+    },
+    "7f8935d662a74acf": {
+      "date": "2026-11-09",
+      "title": "Microserver Updated with Mini Catbot! ✨😻 mew!",
+      "source": "devto"
+    },
+    "74026f0f8d224027": {
+      "date": "2026-11-09",
+      "title": "We Built Opsville, a Free Pixel-Art Town Where You Fix DevOps Incidents",
+      "source": "devto"
+    },
+    "701a11531ae62e40": {
+      "date": "2026-11-09",
+      "title": "garrytan / gbrain",
+      "source": "github"
+    },
+    "4ec6d5af71eebc5a": {
+      "date": "2026-11-09",
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "source": "github"
+    },
+    "8af7f6287fd66388": {
+      "date": "2026-11-09",
+      "title": "homeassistant-ai / ha-mcp",
+      "source": "github"
     }
   }
 }
