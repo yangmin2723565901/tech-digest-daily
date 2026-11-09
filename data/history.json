@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-09T00:28:22.333825",
+  "last_updated": "2026-11-09T07:07:38.261487",
   "sent_items": {
     "e6b9cee054ea4394": {
       "date": "2026-10-10",
@@ -7065,6 +7065,36 @@
     "ff32b7e989fd02bd": {
       "date": "2026-11-09",
       "title": "Measuring Gemma & On-Device Latency on 16GB Apple Silicon for Agent Workflows",
+      "source": "devto"
+    },
+    "1472017d26fb9efa": {
+      "date": "2026-11-09",
+      "title": "Unlocking any car from X brand in most of the world",
+      "source": "hackernews"
+    },
+    "e283208cf41a5249": {
+      "date": "2026-11-09",
+      "title": "I'm not convinced the AI bubble exists",
+      "source": "hackernews"
+    },
+    "589502f4fa4f4763": {
+      "date": "2026-11-09",
+      "title": "A Critique of GPUI",
+      "source": "hackernews"
+    },
+    "cbc4154cd869103b": {
+      "date": "2026-11-09",
+      "title": "Apple capped engineers at a $200 daily AI budget",
+      "source": "hackernews"
+    },
+    "16a41da5ff30f2d5": {
+      "date": "2026-11-09",
+      "title": "PHP Dies After Every Request. How the Zend Engine Actually Runs Your Code.",
+      "source": "devto"
+    },
+    "8f86ebc149b36761": {
+      "date": "2026-11-09",
+      "title": "I'd stopped reviewing the basics, so I built a small site to practice them",
       "source": "devto"
     }
   }
