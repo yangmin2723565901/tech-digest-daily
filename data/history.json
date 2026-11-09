@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-09T13:15:51.831351",
+  "last_updated": "2026-11-09T17:35:44.011369",
   "sent_items": {
     "e6b9cee054ea4394": {
       "date": "2026-10-10",
@@ -7206,6 +7206,71 @@
       "date": "2026-11-09",
       "title": "homeassistant-ai / ha-mcp",
       "source": "github"
+    },
+    "a220fd42903fba31": {
+      "date": "2026-11-09",
+      "title": "I Saw Your HN Comment",
+      "source": "hackernews"
+    },
+    "e6ad94a93b262442": {
+      "date": "2026-11-09",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "source": "hackernews"
+    },
+    "0c58d21fba3a33c2": {
+      "date": "2026-11-09",
+      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "source": "hackernews"
+    },
+    "234ebbd79d93bfc7": {
+      "date": "2026-11-09",
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "source": "hackernews"
+    },
+    "043c1990fe1c0339": {
+      "date": "2026-11-09",
+      "title": "Zebkit – Chromium as an embeddable library",
+      "source": "hackernews"
+    },
+    "2edfa6f91503b24b": {
+      "date": "2026-11-09",
+      "title": "Castration extends life span, but in a surprising way, mouse study suggests",
+      "source": "hackernews"
+    },
+    "facc9d3c6697f76c": {
+      "date": "2026-11-09",
+      "title": "Higgsfield Miracle",
+      "source": "producthunt"
+    },
+    "eb7ec663a0744a0c": {
+      "date": "2026-11-09",
+      "title": "KIKUmap",
+      "source": "producthunt"
+    },
+    "06758e791ebf32f8": {
+      "date": "2026-11-09",
+      "title": "If You Read This",
+      "source": "producthunt"
+    },
+    "f5fea519b5d486e3": {
+      "date": "2026-11-09",
+      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
+      "source": "devto"
+    },
+    "427412c591ac4f07": {
+      "date": "2026-11-09",
+      "title": "How do you truly stand out in Tech?",
+      "source": "devto"
+    },
+    "4f9359f89bbfcd13": {
+      "date": "2026-11-09",
+      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️",
+      "source": "devto"
+    },
+    "e0a37874961711e0": {
+      "date": "2026-11-09",
+      "title": "A Day In The Life of A Random Coder: A Save Button And a Forward Slash Almost Ruined It",
+      "source": "devto"
     }
   }
 }
