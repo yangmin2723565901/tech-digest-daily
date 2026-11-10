@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-10T12:54:25.588647",
+  "last_updated": "2026-11-10T16:03:10.634292",
   "sent_items": {
     "30a6b8254c2a5ea9": {
       "date": "2026-10-11",
@@ -7316,6 +7316,71 @@
       "date": "2026-11-10",
       "title": "tokio-rs / topcoat",
       "source": "github"
+    },
+    "fdb953c9b8111670": {
+      "date": "2026-11-10",
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "source": "hackernews"
+    },
+    "342170ea6c71b671": {
+      "date": "2026-11-10",
+      "title": "The Hardest Tarball?",
+      "source": "hackernews"
+    },
+    "5b0b88a4984a212c": {
+      "date": "2026-11-10",
+      "title": "Taking another shot at the cheap IP camera, part 2",
+      "source": "hackernews"
+    },
+    "5c8f9f26e2c24602": {
+      "date": "2026-11-10",
+      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+      "source": "hackernews"
+    },
+    "7834a76ae718b260": {
+      "date": "2026-11-10",
+      "title": "The Death Knell of Digital Search",
+      "source": "hackernews"
+    },
+    "b493fb6f1f984bac": {
+      "date": "2026-11-10",
+      "title": "Seldon",
+      "source": "producthunt"
+    },
+    "e650a6f50f6aa8a4": {
+      "date": "2026-11-10",
+      "title": "Opal Reader",
+      "source": "producthunt"
+    },
+    "0acf08f18517c333": {
+      "date": "2026-11-10",
+      "title": "Tokens by UI Colors",
+      "source": "producthunt"
+    },
+    "efe260db106bbd52": {
+      "date": "2026-11-10",
+      "title": "Lottie AI",
+      "source": "producthunt"
+    },
+    "e69e56e2120f04f3": {
+      "date": "2026-11-10",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "b553c173660bc260": {
+      "date": "2026-11-10",
+      "title": "I Built a Tiny Cat That Breathes With You, Using Just a Webcam 🐈",
+      "source": "devto"
+    },
+    "671abe49670a2448": {
+      "date": "2026-11-10",
+      "title": "Developers Swear AI Makes Them Faster. A Stopwatch Says They're 19% Slower",
+      "source": "devto"
+    },
+    "36d452c40d386547": {
+      "date": "2026-11-10",
+      "title": "Dev Log # 28 A Quiet Week on the OSS Front",
+      "source": "devto"
     }
   }
 }
