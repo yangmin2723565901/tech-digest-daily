@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-10T00:51:01.808537",
+  "last_updated": "2026-11-10T07:56:24.892725",
   "sent_items": {
     "30a6b8254c2a5ea9": {
       "date": "2026-10-11",
@@ -7185,6 +7185,41 @@
     "d8e1cf07554d5a22": {
       "date": "2026-11-10",
       "title": "I Gave My Startup 6 AI Employees. They Talked More Than They Worked.",
+      "source": "devto"
+    },
+    "b20e22a5ecb9888d": {
+      "date": "2026-11-10",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "source": "hackernews"
+    },
+    "fde676034889d36b": {
+      "date": "2026-11-10",
+      "title": "Horible public key tricks",
+      "source": "hackernews"
+    },
+    "35e753e57ab25524": {
+      "date": "2026-11-10",
+      "title": "Locating the source of a mysterious beep",
+      "source": "hackernews"
+    },
+    "f790ec1a76bc8db0": {
+      "date": "2026-11-10",
+      "title": "Your TV can see through walls",
+      "source": "hackernews"
+    },
+    "37e3e0ecd4b4662e": {
+      "date": "2026-11-10",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "source": "hackernews"
+    },
+    "033ed9e24cb92547": {
+      "date": "2026-11-10",
+      "title": "Everyone Is Building AI to Replace Developers. Nobody Is Building the Plan for What Comes After.",
+      "source": "devto"
+    },
+    "34c2c5eb22f41327": {
+      "date": "2026-11-10",
+      "title": "Darkroom Heist: turning a darkroom timer into a daily safe-cracking game",
       "source": "devto"
     }
   }
