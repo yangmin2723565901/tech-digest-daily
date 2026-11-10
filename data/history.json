@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-10T16:03:10.634292",
+  "last_updated": "2026-11-10T21:49:52.527020",
   "sent_items": {
     "30a6b8254c2a5ea9": {
       "date": "2026-10-11",
@@ -7380,6 +7380,96 @@
     "36d452c40d386547": {
       "date": "2026-11-10",
       "title": "Dev Log # 28 A Quiet Week on the OSS Front",
+      "source": "devto"
+    },
+    "edc7b2c806a1214b": {
+      "date": "2026-11-10",
+      "title": ".name Grandfathered",
+      "source": "hackernews"
+    },
+    "02c06849379ad938": {
+      "date": "2026-11-10",
+      "title": "Smart home devices should work without the internet",
+      "source": "hackernews"
+    },
+    "b632914608ed5e92": {
+      "date": "2026-11-10",
+      "title": "Val Town is winding down",
+      "source": "hackernews"
+    },
+    "d22fb940c34b1bcc": {
+      "date": "2026-11-10",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "source": "hackernews"
+    },
+    "0738ab9234a0f83c": {
+      "date": "2026-11-10",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "source": "hackernews"
+    },
+    "78206a9a7a64268f": {
+      "date": "2026-11-10",
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "source": "hackernews"
+    },
+    "99a80a31c7f3c97d": {
+      "date": "2026-11-10",
+      "title": "What objective is reasoning solving?",
+      "source": "hackernews"
+    },
+    "8975816963d86db8": {
+      "date": "2026-11-10",
+      "title": "Six Math Essentials by Terence Tao",
+      "source": "hackernews"
+    },
+    "79ee504a4d97a179": {
+      "date": "2026-11-10",
+      "title": "Sherman Anti-Trust Act (1890",
+      "source": "hackernews"
+    },
+    "c575d9bb2601e3ca": {
+      "date": "2026-11-10",
+      "title": "Levo",
+      "source": "producthunt"
+    },
+    "5e25b618c03f1573": {
+      "date": "2026-11-10",
+      "title": "Ember",
+      "source": "producthunt"
+    },
+    "d70401a7d1b543ee": {
+      "date": "2026-11-10",
+      "title": "Kata Send",
+      "source": "producthunt"
+    },
+    "277b349ca5f48c79": {
+      "date": "2026-11-10",
+      "title": "I built a macOS app that makes your screen feel like paper!",
+      "source": "devto"
+    },
+    "f7b6f07e254dd8f8": {
+      "date": "2026-11-10",
+      "title": "Django 6.1's FETCH_PEERS against my own select_related",
+      "source": "devto"
+    },
+    "60d8aaf7a92e156a": {
+      "date": "2026-11-10",
+      "title": "Once Upon Agentic AI (Part 1): Create your own agent and forge its tools with Strands Agents",
+      "source": "devto"
+    },
+    "93e07a617c4e2a9d": {
+      "date": "2026-11-10",
+      "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rota",
+      "source": "devto"
+    },
+    "0fed50e3ba9d8fc7": {
+      "date": "2026-11-10",
+      "title": "Node.js 26's Map.getOrInsertComputed is slower than the get-and-set it replaces",
+      "source": "devto"
+    },
+    "8408cd3c4b4c95d2": {
+      "date": "2026-11-10",
+      "title": "Dev log # 29 The Review Marathon: Hardening libp2p across C# and Python",
       "source": "devto"
     }
   }
