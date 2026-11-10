@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-10T07:56:24.892725",
+  "last_updated": "2026-11-10T12:54:25.588647",
   "sent_items": {
     "30a6b8254c2a5ea9": {
       "date": "2026-10-11",
@@ -7221,6 +7221,101 @@
       "date": "2026-11-10",
       "title": "Darkroom Heist: turning a darkroom timer into a daily safe-cracking game",
       "source": "devto"
+    },
+    "dd875e3abb805b46": {
+      "date": "2026-11-10",
+      "title": "AlphaProof Code",
+      "source": "hackernews"
+    },
+    "dbd95550e9b7832a": {
+      "date": "2026-11-10",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "source": "hackernews"
+    },
+    "58e572436f74d815": {
+      "date": "2026-11-10",
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "source": "hackernews"
+    },
+    "7ec811dcbf644f5a": {
+      "date": "2026-11-10",
+      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+      "source": "hackernews"
+    },
+    "a713d2b30838563e": {
+      "date": "2026-11-10",
+      "title": "Billion Watts in the Speaker [video]",
+      "source": "hackernews"
+    },
+    "ddf2117a77117c5b": {
+      "date": "2026-11-10",
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "source": "hackernews"
+    },
+    "b6f4ae3cc71a16a3": {
+      "date": "2026-11-10",
+      "title": "gitmanual",
+      "source": "producthunt"
+    },
+    "43bdb09b1bcfb8a9": {
+      "date": "2026-11-10",
+      "title": "ChromePing",
+      "source": "producthunt"
+    },
+    "c588d6e6be2e3fa1": {
+      "date": "2026-11-10",
+      "title": "Coffee",
+      "source": "producthunt"
+    },
+    "4b1881608dab193a": {
+      "date": "2026-11-10",
+      "title": "TK by Medium",
+      "source": "producthunt"
+    },
+    "6fc252072e103870": {
+      "date": "2026-11-10",
+      "title": "ZUS",
+      "source": "producthunt"
+    },
+    "1c1ca502722523df": {
+      "date": "2026-11-10",
+      "title": "Obsiva",
+      "source": "producthunt"
+    },
+    "dcb419c0c328216d": {
+      "date": "2026-11-10",
+      "title": "Daytwo",
+      "source": "producthunt"
+    },
+    "7c5d0c13f5b1af0d": {
+      "date": "2026-11-10",
+      "title": "Wipecraft",
+      "source": "producthunt"
+    },
+    "239ee4883b3a2009": {
+      "date": "2026-11-10",
+      "title": "When to Skip Your Gem Cooldown",
+      "source": "devto"
+    },
+    "ae61fda675d866c1": {
+      "date": "2026-11-10",
+      "title": "I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features",
+      "source": "devto"
+    },
+    "0d1bd25a3199bf22": {
+      "date": "2026-11-10",
+      "title": "addyosmani / agent-skills",
+      "source": "github"
+    },
+    "8ca276b505c32f2e": {
+      "date": "2026-11-10",
+      "title": "we-promise / sure",
+      "source": "github"
+    },
+    "76bd5c2a949748d0": {
+      "date": "2026-11-10",
+      "title": "tokio-rs / topcoat",
+      "source": "github"
     }
   }
 }
