@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-11T12:04:30.752638",
+  "last_updated": "2026-11-11T16:33:17.564839",
   "sent_items": {
     "ac2cf4c31cbf2496": {
       "date": "2026-10-12",
@@ -7516,6 +7516,86 @@
       "date": "2026-11-11",
       "title": "TheAlgorithms / Java",
       "source": "github"
+    },
+    "a7625bc6a39c4105": {
+      "date": "2026-11-11",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "source": "hackernews"
+    },
+    "3e6324f6e137e2e7": {
+      "date": "2026-11-11",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "source": "hackernews"
+    },
+    "814621c8d1544a3a": {
+      "date": "2026-11-11",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "source": "hackernews"
+    },
+    "779f11a4a54e31dc": {
+      "date": "2026-11-11",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "source": "hackernews"
+    },
+    "1402e0e9e7e3dbe0": {
+      "date": "2026-11-11",
+      "title": "Apple is killing its Support Community forum next week",
+      "source": "hackernews"
+    },
+    "7c1c9e826d50ca96": {
+      "date": "2026-11-11",
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "source": "hackernews"
+    },
+    "7d66b72f6b186298": {
+      "date": "2026-11-11",
+      "title": "Pharo in the Browser with WebAssembly",
+      "source": "hackernews"
+    },
+    "c25ab59a91e8663e": {
+      "date": "2026-11-11",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "source": "hackernews"
+    },
+    "9ef36c14e218a8c6": {
+      "date": "2026-11-11",
+      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+      "source": "hackernews"
+    },
+    "9fc1c2ba32c4960e": {
+      "date": "2026-11-11",
+      "title": "Valin",
+      "source": "producthunt"
+    },
+    "27bc2b71a591a3cd": {
+      "date": "2026-11-11",
+      "title": "Seedream 5.5 by ByteDance",
+      "source": "producthunt"
+    },
+    "c798fb366aa20928": {
+      "date": "2026-11-11",
+      "title": "Shot.video",
+      "source": "producthunt"
+    },
+    "b62fb656243cef1c": {
+      "date": "2026-11-11",
+      "title": "One Year on DEV.to, 109 Articles Later",
+      "source": "devto"
+    },
+    "351bb6b4d59f07c2": {
+      "date": "2026-11-11",
+      "title": "AI can write code, but the magic of a first project is unmatched! 🗽",
+      "source": "devto"
+    },
+    "d3db686f6f3ca48f": {
+      "date": "2026-11-11",
+      "title": "You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM",
+      "source": "devto"
+    },
+    "0c147f89ebdb18d7": {
+      "date": "2026-11-11",
+      "title": "You're Spawning Goroutines Wrong: The Visual Architecture Guide That Fixes Go Concurrency Forever",
+      "source": "devto"
     }
   }
 }
