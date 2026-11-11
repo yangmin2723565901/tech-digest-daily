@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-11T01:38:56.900728",
+  "last_updated": "2026-11-11T08:22:42.354983",
   "sent_items": {
     "ac2cf4c31cbf2496": {
       "date": "2026-10-12",
@@ -7370,6 +7370,86 @@
     "c5e0d348768bb47e": {
       "date": "2026-11-11",
       "title": "AI Agents Need a Runtime, Not Another Framework",
+      "source": "devto"
+    },
+    "0b3f875d0d4294f9": {
+      "date": "2026-11-11",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "source": "hackernews"
+    },
+    "1c5d57c2b830d43a": {
+      "date": "2026-11-11",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "source": "hackernews"
+    },
+    "caac9727bc98d963": {
+      "date": "2026-11-11",
+      "title": "A great old-timey game-programming hack (2013)",
+      "source": "hackernews"
+    },
+    "91eccb5241dd17e0": {
+      "date": "2026-11-11",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "source": "hackernews"
+    },
+    "02f55d372a96e74f": {
+      "date": "2026-11-11",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "source": "hackernews"
+    },
+    "efd09263ca036ac6": {
+      "date": "2026-11-11",
+      "title": "A Compendium of Abandoned Greenhouses",
+      "source": "hackernews"
+    },
+    "ac8ba058a1c59745": {
+      "date": "2026-11-11",
+      "title": "Stiro",
+      "source": "producthunt"
+    },
+    "68c7fda9864eb3c7": {
+      "date": "2026-11-11",
+      "title": "RigSpark",
+      "source": "producthunt"
+    },
+    "1792d327dc2a6472": {
+      "date": "2026-11-11",
+      "title": "Scribe v3 by ElevenLabs",
+      "source": "producthunt"
+    },
+    "6114dd28a1649d06": {
+      "date": "2026-11-11",
+      "title": "Mister Blocks",
+      "source": "producthunt"
+    },
+    "9a7b6de0735359be": {
+      "date": "2026-11-11",
+      "title": "Reddit Reviews",
+      "source": "producthunt"
+    },
+    "cacad0167667ff3e": {
+      "date": "2026-11-11",
+      "title": "Nod by n8n",
+      "source": "producthunt"
+    },
+    "41eb2f6fda1d49b1": {
+      "date": "2026-11-11",
+      "title": "StableBar",
+      "source": "producthunt"
+    },
+    "c9f4e6c1b6deb220": {
+      "date": "2026-11-11",
+      "title": "Ask More of Your UI",
+      "source": "devto"
+    },
+    "058e5a370ad44b57": {
+      "date": "2026-11-11",
+      "title": "A Small Laptop Is a Full Build Kit: Bootstrapping with a Chromebook, Claude, and GitHub",
+      "source": "devto"
+    },
+    "226ce815165874e7": {
+      "date": "2026-11-11",
+      "title": "Part 5: The Control That Protected an Empty Bucket",
       "source": "devto"
     }
   }
