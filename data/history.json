@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-11T16:33:17.564839",
+  "last_updated": "2026-11-11T22:59:48.604476",
   "sent_items": {
     "ac2cf4c31cbf2496": {
       "date": "2026-10-12",
@@ -7595,6 +7595,81 @@
     "0c147f89ebdb18d7": {
       "date": "2026-11-11",
       "title": "You're Spawning Goroutines Wrong: The Visual Architecture Guide That Fixes Go Concurrency Forever",
+      "source": "devto"
+    },
+    "a3b6d3576c64c532": {
+      "date": "2026-11-11",
+      "title": "Earlybird",
+      "source": "producthunt"
+    },
+    "4f859d952168b72e": {
+      "date": "2026-11-11",
+      "title": "Kippy AI",
+      "source": "producthunt"
+    },
+    "2b0cdf3cc8657ab5": {
+      "date": "2026-11-11",
+      "title": "Xolace",
+      "source": "producthunt"
+    },
+    "d2326d2e7198d941": {
+      "date": "2026-11-11",
+      "title": "Tim Peters has died",
+      "source": "hackernews"
+    },
+    "73a4a1dba762aa0d": {
+      "date": "2026-11-11",
+      "title": "AWS emulator",
+      "source": "hackernews"
+    },
+    "8eb77d04e7d3c0b9": {
+      "date": "2026-11-11",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "source": "hackernews"
+    },
+    "026c2471f320e298": {
+      "date": "2026-11-11",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "source": "hackernews"
+    },
+    "3586fd5cc361f204": {
+      "date": "2026-11-11",
+      "title": "Gemini Decisions API",
+      "source": "hackernews"
+    },
+    "13fb720370ed5431": {
+      "date": "2026-11-11",
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "source": "hackernews"
+    },
+    "8f3a64125abad0ac": {
+      "date": "2026-11-11",
+      "title": "Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang",
+      "source": "hackernews"
+    },
+    "6c5da4fab6578b69": {
+      "date": "2026-11-11",
+      "title": "Emacs in the Age of Magic",
+      "source": "hackernews"
+    },
+    "01e7ae3781a6b77a": {
+      "date": "2026-11-11",
+      "title": "Lock Your GitHub Actions",
+      "source": "hackernews"
+    },
+    "adca83eb64ecdccd": {
+      "date": "2026-11-11",
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "source": "hackernews"
+    },
+    "83c272dace29d6ee": {
+      "date": "2026-11-11",
+      "title": "Meet type-tune! 🦀 Give Your TypeScript Types a Better Home! 😸",
+      "source": "devto"
+    },
+    "c383ac5a53dd4642": {
+      "date": "2026-11-11",
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exa",
       "source": "devto"
     }
   }
