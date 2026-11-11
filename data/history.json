@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-11T08:22:42.354983",
+  "last_updated": "2026-11-11T12:04:30.752638",
   "sent_items": {
     "ac2cf4c31cbf2496": {
       "date": "2026-10-12",
@@ -7451,6 +7451,71 @@
       "date": "2026-11-11",
       "title": "Part 5: The Control That Protected an Empty Bucket",
       "source": "devto"
+    },
+    "11048932939b9cab": {
+      "date": "2026-11-11",
+      "title": "Plane lifted into back garden as bunker takes shape",
+      "source": "hackernews"
+    },
+    "493c507b93791bf2": {
+      "date": "2026-11-11",
+      "title": "The Zig project is going nowhere",
+      "source": "hackernews"
+    },
+    "837eddf5a9c8b6f3": {
+      "date": "2026-11-11",
+      "title": "MiniMax H3-Image",
+      "source": "producthunt"
+    },
+    "e6107065d9a150b5": {
+      "date": "2026-11-11",
+      "title": "Skillbox",
+      "source": "producthunt"
+    },
+    "1d2b6a02bef7d9ed": {
+      "date": "2026-11-11",
+      "title": "nizima ACTION!!",
+      "source": "producthunt"
+    },
+    "3578cfdc0ad38a93": {
+      "date": "2026-11-11",
+      "title": "Padrail",
+      "source": "producthunt"
+    },
+    "86ef9e374174dbee": {
+      "date": "2026-11-11",
+      "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+      "source": "devto"
+    },
+    "b0d8ed016d225aa5": {
+      "date": "2026-11-11",
+      "title": "What Are Human Code Reviews For?",
+      "source": "devto"
+    },
+    "b4a564d3cc335327": {
+      "date": "2026-11-11",
+      "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
+      "source": "devto"
+    },
+    "6985e00d3276b360": {
+      "date": "2026-11-11",
+      "title": "GoogleChrome / modern-web-guidance-src",
+      "source": "github"
+    },
+    "dd14c325a18e7150": {
+      "date": "2026-11-11",
+      "title": "shadcn / improve",
+      "source": "github"
+    },
+    "2a9bb2bf7afb0f86": {
+      "date": "2026-11-11",
+      "title": "openai / codex-security",
+      "source": "github"
+    },
+    "3b3554ed972a0563": {
+      "date": "2026-11-11",
+      "title": "TheAlgorithms / Java",
+      "source": "github"
     }
   }
 }
