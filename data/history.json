@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-12T13:08:31.263493",
+  "last_updated": "2026-11-12T19:59:17.368253",
   "sent_items": {
     "e6b665da4145ac96": {
       "date": "2026-10-13",
@@ -7685,6 +7685,96 @@
     "725943933fd29c9a": {
       "date": "2026-11-12",
       "title": "Ultimate AI Roast! 😂😹",
+      "source": "devto"
+    },
+    "47db48a6701966fc": {
+      "date": "2026-11-12",
+      "title": "Didit MCP",
+      "source": "producthunt"
+    },
+    "b147d169ee80eedb": {
+      "date": "2026-11-12",
+      "title": "Adobe AI Assistant",
+      "source": "producthunt"
+    },
+    "2f8bc01d76209a20": {
+      "date": "2026-11-12",
+      "title": "three.dev",
+      "source": "producthunt"
+    },
+    "935fdc5cbcc4fa6d": {
+      "date": "2026-11-12",
+      "title": "Jensen Huang resigns",
+      "source": "hackernews"
+    },
+    "e0898924d465c0f2": {
+      "date": "2026-11-12",
+      "title": "Gemini 4 Hydrogen",
+      "source": "hackernews"
+    },
+    "489303ece1e5cfe0": {
+      "date": "2026-11-12",
+      "title": "Rust 1.100.0",
+      "source": "hackernews"
+    },
+    "a9bce8e547c5109d": {
+      "date": "2026-11-12",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "source": "hackernews"
+    },
+    "9d1945604d13bfe9": {
+      "date": "2026-11-12",
+      "title": "Outlook is down, and so is Microsoft's status page",
+      "source": "hackernews"
+    },
+    "9b21f3a705c158a6": {
+      "date": "2026-11-12",
+      "title": "I'm making LLMs work on small and old devices",
+      "source": "hackernews"
+    },
+    "52716148917ed7a1": {
+      "date": "2026-11-12",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "source": "hackernews"
+    },
+    "250664fb650f3738": {
+      "date": "2026-11-12",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "source": "hackernews"
+    },
+    "e4f4d929d413bc3d": {
+      "date": "2026-11-12",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "source": "hackernews"
+    },
+    "bacd584038ac0dc2": {
+      "date": "2026-11-12",
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "source": "hackernews"
+    },
+    "1851ef2912e3f420": {
+      "date": "2026-11-12",
+      "title": "Long Live Rails",
+      "source": "devto"
+    },
+    "7f6e89a05a67fd71": {
+      "date": "2026-11-12",
+      "title": "Can you merge at agent speed?",
+      "source": "devto"
+    },
+    "ea62311c2d509cb3": {
+      "date": "2026-11-12",
+      "title": "A 10 years old developer who has become a DEV.to Trusted Member! 😱",
+      "source": "devto"
+    },
+    "45409b73b0370a5b": {
+      "date": "2026-11-12",
+      "title": "How To Review Pull Requests with Kiro CLI and GitHub Actions",
+      "source": "devto"
+    },
+    "b969f13e950ddf0e": {
+      "date": "2026-11-12",
+      "title": "A2UI 1.0 on AWS: a Strands Currency Agent with Amazon Nova, AgentCore Runtime and ECS Express Mode",
       "source": "devto"
     }
   }
