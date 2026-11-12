@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-12T03:41:37.903381",
+  "last_updated": "2026-11-12T12:02:55.484731",
   "sent_items": {
     "e6b665da4145ac96": {
       "date": "2026-10-13",
@@ -7546,6 +7546,111 @@
       "date": "2026-11-12",
       "title": "AI Code Is Unmaintainable? So Is Ours.",
       "source": "devto"
+    },
+    "db9b42956ad42b22": {
+      "date": "2026-11-12",
+      "title": "Jane Street: Socratic Tutor",
+      "source": "hackernews"
+    },
+    "5edd9c25b2ce7a6f": {
+      "date": "2026-11-12",
+      "title": "A live tree of systemd jobs on the boot console",
+      "source": "hackernews"
+    },
+    "9ab5bdd7216d50ed": {
+      "date": "2026-11-12",
+      "title": "Why Writing Correct Software Is Hard",
+      "source": "hackernews"
+    },
+    "346cd55de1e2ae0b": {
+      "date": "2026-11-12",
+      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "source": "hackernews"
+    },
+    "778c614d75bdf669": {
+      "date": "2026-11-12",
+      "title": "Anthropic IPO",
+      "source": "hackernews"
+    },
+    "5d70414025109544": {
+      "date": "2026-11-12",
+      "title": "Klang",
+      "source": "producthunt"
+    },
+    "6a6924303f83d375": {
+      "date": "2026-11-12",
+      "title": "YouArt Desktop App",
+      "source": "producthunt"
+    },
+    "eca0f10005136bd5": {
+      "date": "2026-11-12",
+      "title": "Crossfade",
+      "source": "producthunt"
+    },
+    "9b77b2aec1a14312": {
+      "date": "2026-11-12",
+      "title": "Foxpit",
+      "source": "producthunt"
+    },
+    "14b37f55730a0f33": {
+      "date": "2026-11-12",
+      "title": "Gnista",
+      "source": "producthunt"
+    },
+    "5eed9a475b5a5fdc": {
+      "date": "2026-11-12",
+      "title": "⌘+L",
+      "source": "producthunt"
+    },
+    "642bcfe448989dfc": {
+      "date": "2026-11-12",
+      "title": "Hoy for Mac",
+      "source": "producthunt"
+    },
+    "91b3b838036614d6": {
+      "date": "2026-11-12",
+      "title": "Jot 2.0",
+      "source": "producthunt"
+    },
+    "559ebf7cb15f1438": {
+      "date": "2026-11-12",
+      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+      "source": "devto"
+    },
+    "19c77df36884764a": {
+      "date": "2026-11-12",
+      "title": "Temporal & AI: Agent Memory & Execution State",
+      "source": "devto"
+    },
+    "58bb3da2e829b413": {
+      "date": "2026-11-12",
+      "title": "How emulators might catch what you might miss",
+      "source": "devto"
+    },
+    "91c5d67439ce2d83": {
+      "date": "2026-11-12",
+      "title": "Monuments of India, Part 2: Domes, Arches, Realistic Stone and Finer Details in three.js",
+      "source": "devto"
+    },
+    "292c08b62b8b2aac": {
+      "date": "2026-11-12",
+      "title": "pookjw / HermesEnabler",
+      "source": "github"
+    },
+    "5a31de5224f44403": {
+      "date": "2026-11-12",
+      "title": "QwenLM / qwen-code",
+      "source": "github"
+    },
+    "1974e4a3544a332f": {
+      "date": "2026-11-12",
+      "title": "ashhart / TensorFold",
+      "source": "github"
+    },
+    "087dae28b6e341d1": {
+      "date": "2026-11-12",
+      "title": "ggml-org / llama.cpp",
+      "source": "github"
     }
   }
 }
