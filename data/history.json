@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-13T15:41:38.167462",
+  "last_updated": "2026-11-13T21:45:29.295599",
   "sent_items": {
     "a615b4c8f9b3f966": {
       "date": "2026-10-14",
@@ -7900,6 +7900,86 @@
     "9a1762a97a2797c1": {
       "date": "2026-11-13",
       "title": "Keeping a software factory stable at 1,000 PRs a week",
+      "source": "devto"
+    },
+    "ccba74f1f6794f04": {
+      "date": "2026-11-13",
+      "title": "FAA Issues National Ground Stop",
+      "source": "hackernews"
+    },
+    "aaaf2b08f96e0258": {
+      "date": "2026-11-13",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "source": "hackernews"
+    },
+    "1d37ac45b3d67cbb": {
+      "date": "2026-11-13",
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "source": "hackernews"
+    },
+    "ee7e102764580541": {
+      "date": "2026-11-13",
+      "title": "Big tech is here to let us down",
+      "source": "hackernews"
+    },
+    "f1770de1aac3af39": {
+      "date": "2026-11-13",
+      "title": "FM-1 Workbench",
+      "source": "hackernews"
+    },
+    "4896ad8cefb9d78d": {
+      "date": "2026-11-13",
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "source": "hackernews"
+    },
+    "240a7fa7f2526215": {
+      "date": "2026-11-13",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "source": "hackernews"
+    },
+    "9fc80f992a42e206": {
+      "date": "2026-11-13",
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "source": "hackernews"
+    },
+    "f01ec49668224c3e": {
+      "date": "2026-11-13",
+      "title": "StockRip",
+      "source": "producthunt"
+    },
+    "2c1f9529afe11275": {
+      "date": "2026-11-13",
+      "title": "Willo",
+      "source": "producthunt"
+    },
+    "2fb4daae9eba005b": {
+      "date": "2026-11-13",
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+      "source": "devto"
+    },
+    "d06a3c8256502598": {
+      "date": "2026-11-13",
+      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
+      "source": "devto"
+    },
+    "98c840e373b37738": {
+      "date": "2026-11-13",
+      "title": "remove.bg Is Shutting Down — Here's a Free, No-Upload Alternative",
+      "source": "devto"
+    },
+    "b55576c0c084c7c4": {
+      "date": "2026-11-13",
+      "title": "Git 2.56's history drop command replays commits 40 to 77 times faster than rebase",
+      "source": "devto"
+    },
+    "4f9518dae0be401d": {
+      "date": "2026-11-13",
+      "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
+      "source": "devto"
+    },
+    "d271dc72a5bac3f1": {
+      "date": "2026-11-13",
+      "title": "AWS Extended Support: what it costs and how to find everything you're about to pay for",
       "source": "devto"
     }
   }
