@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-13T12:32:35.852001",
+  "last_updated": "2026-11-13T15:41:38.167462",
   "sent_items": {
     "a615b4c8f9b3f966": {
       "date": "2026-10-14",
@@ -7846,6 +7846,61 @@
       "date": "2026-11-13",
       "title": "ChromeDevTools / chrome-devtools-mcp",
       "source": "github"
+    },
+    "a9645b02fa427a91": {
+      "date": "2026-11-13",
+      "title": "Trainn MCP",
+      "source": "producthunt"
+    },
+    "c61b275b43390a61": {
+      "date": "2026-11-13",
+      "title": "Pocket Studio for Supabase",
+      "source": "producthunt"
+    },
+    "875c3a504f3c2e82": {
+      "date": "2026-11-13",
+      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+      "source": "hackernews"
+    },
+    "7880a4e139bdc22a": {
+      "date": "2026-11-13",
+      "title": "Why Zig over C for Systems Programming",
+      "source": "hackernews"
+    },
+    "c0ef8c5ff342b83c": {
+      "date": "2026-11-13",
+      "title": "A technical vision for the Haskell ecosystem",
+      "source": "hackernews"
+    },
+    "6ddda598e682b05c": {
+      "date": "2026-11-13",
+      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "source": "hackernews"
+    },
+    "5e65a567f0c0994d": {
+      "date": "2026-11-13",
+      "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+      "source": "hackernews"
+    },
+    "a246f33bae1f695c": {
+      "date": "2026-11-13",
+      "title": "🛸 Necoz: The UFO Kingdom Python Loops 🐱",
+      "source": "devto"
+    },
+    "eaac91f96bd0f0e7": {
+      "date": "2026-11-13",
+      "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
+      "source": "devto"
+    },
+    "168aff149923efcb": {
+      "date": "2026-11-13",
+      "title": "Make the most of your hackathon",
+      "source": "devto"
+    },
+    "9a1762a97a2797c1": {
+      "date": "2026-11-13",
+      "title": "Keeping a software factory stable at 1,000 PRs a week",
+      "source": "devto"
     }
   }
 }
