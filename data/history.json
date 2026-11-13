@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-13T07:38:30.901985",
+  "last_updated": "2026-11-13T12:32:35.852001",
   "sent_items": {
     "a615b4c8f9b3f966": {
       "date": "2026-10-14",
@@ -7730,6 +7730,121 @@
     "8e0001db8f8344fb": {
       "date": "2026-11-13",
       "title": "Alishahryar1 / free-claude-code",
+      "source": "github"
+    },
+    "e5ed060f683219a9": {
+      "date": "2026-11-13",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "source": "hackernews"
+    },
+    "65c7db6bef9fad07": {
+      "date": "2026-11-13",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "source": "hackernews"
+    },
+    "ff7243e769cf2e73": {
+      "date": "2026-11-13",
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "source": "hackernews"
+    },
+    "3ca273bfd7012c51": {
+      "date": "2026-11-13",
+      "title": "Replicate",
+      "source": "producthunt"
+    },
+    "db0e76466dc21fce": {
+      "date": "2026-11-13",
+      "title": "Google Pixel Tag",
+      "source": "producthunt"
+    },
+    "c79dd6ee06bc3aef": {
+      "date": "2026-11-13",
+      "title": "Kairos",
+      "source": "producthunt"
+    },
+    "2bc3d62bc425db35": {
+      "date": "2026-11-13",
+      "title": "WHOOP Humans",
+      "source": "producthunt"
+    },
+    "8f08f207c70142d6": {
+      "date": "2026-11-13",
+      "title": "GAtrends",
+      "source": "producthunt"
+    },
+    "b53a788fcad67ff3": {
+      "date": "2026-11-13",
+      "title": "Burnstate",
+      "source": "producthunt"
+    },
+    "c97789889ad74363": {
+      "date": "2026-11-13",
+      "title": "Hoverine",
+      "source": "producthunt"
+    },
+    "ade35c998d0e89b4": {
+      "date": "2026-11-13",
+      "title": "Paxper",
+      "source": "producthunt"
+    },
+    "a128c69c38f67188": {
+      "date": "2026-11-13",
+      "title": "A VS Code extension to turn ANY free chatbot website into an AI agent (kind of)",
+      "source": "devto"
+    },
+    "58672bc035ace712": {
+      "date": "2026-11-13",
+      "title": "Four Applications and One Ask. Guess Which One Scared Me.",
+      "source": "devto"
+    },
+    "77f3e009c5d9cf5c": {
+      "date": "2026-11-13",
+      "title": "[AI in Action] First Time Using Herdr: Collaborating with Claude Code and agy for Go Backend Code Re",
+      "source": "devto"
+    },
+    "f4ce9faac156c252": {
+      "date": "2026-11-13",
+      "title": "A Day in the Life of Someone Who Just Wanted to Open LinkedIn in Peace",
+      "source": "devto"
+    },
+    "9cd514d03f14c102": {
+      "date": "2026-11-13",
+      "title": "alibaba / open-code-review",
+      "source": "github"
+    },
+    "bf0815b5d73d4343": {
+      "date": "2026-11-13",
+      "title": "backnotprop / plannotator",
+      "source": "github"
+    },
+    "3bed7958e9a9206d": {
+      "date": "2026-11-13",
+      "title": "louislam / uptime-kuma",
+      "source": "github"
+    },
+    "f8fd1424e453d1b4": {
+      "date": "2026-11-13",
+      "title": "block / buzz",
+      "source": "github"
+    },
+    "51dd484e22ce94fe": {
+      "date": "2026-11-13",
+      "title": "tradermonty / claude-trading-skills",
+      "source": "github"
+    },
+    "2e99c10b71a947d8": {
+      "date": "2026-11-13",
+      "title": "tailscale / tailcat",
+      "source": "github"
+    },
+    "a74e6f8ad10e0fc9": {
+      "date": "2026-11-13",
+      "title": "Likely7 / Veyra-NRVideo",
+      "source": "github"
+    },
+    "b4212d4b4d442e7e": {
+      "date": "2026-11-13",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
       "source": "github"
     }
   }
