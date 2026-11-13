@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-12T19:59:17.368253",
+  "last_updated": "2026-11-13T00:57:44.253380",
   "sent_items": {
-    "e6b665da4145ac96": {
-      "date": "2026-10-13",
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "source": "hackernews"
-    },
-    "63841978d9b21d9d": {
-      "date": "2026-10-13",
-      "title": "GLM-Legal",
-      "source": "hackernews"
-    },
-    "d50867c6acb5ca63": {
-      "date": "2026-10-13",
-      "title": "A Modern Web App in C",
-      "source": "hackernews"
-    },
-    "5e842789981d329c": {
-      "date": "2026-10-13",
-      "title": "Who is vfmaddrnd231pd?",
-      "source": "hackernews"
-    },
-    "2325bc8df3a54929": {
-      "date": "2026-10-13",
-      "title": "Making big downloads resumable in Firefox",
-      "source": "hackernews"
-    },
-    "e8881de420a0eb8f": {
-      "date": "2026-10-13",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "source": "hackernews"
-    },
-    "a64d4c794baec9aa": {
-      "date": "2026-10-13",
-      "title": "The baffling intelligence of a single cell (2024)",
-      "source": "hackernews"
-    },
-    "938820eba5541831": {
-      "date": "2026-10-13",
-      "title": "Leaving Tech",
-      "source": "hackernews"
-    },
-    "2285f424d71b147b": {
-      "date": "2026-10-13",
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "source": "hackernews"
-    },
-    "cc23b9af386a2f63": {
-      "date": "2026-10-13",
-      "title": "Auto Research: Integer multiplication below n log n",
-      "source": "hackernews"
-    },
-    "a11e79331eb91946": {
-      "date": "2026-10-13",
-      "title": "Google EmbeddingGemma 2",
-      "source": "producthunt"
-    },
-    "52b4c6efd716fce2": {
-      "date": "2026-10-13",
-      "title": "Manifold MCP",
-      "source": "producthunt"
-    },
-    "50b5acd3cc70e471": {
-      "date": "2026-10-13",
-      "title": "Cube Forms",
-      "source": "producthunt"
-    },
-    "beccda73984e13b3": {
-      "date": "2026-10-13",
-      "title": "SquadRoom",
-      "source": "producthunt"
-    },
-    "b3a827fce1e16b25": {
-      "date": "2026-10-13",
-      "title": "guilds.run",
-      "source": "producthunt"
-    },
-    "8024eb89fa0b152b": {
-      "date": "2026-10-13",
-      "title": "ExcaliClaw",
-      "source": "producthunt"
-    },
-    "026b3c9a7c1bd188": {
-      "date": "2026-10-13",
-      "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
-      "source": "devto"
-    },
-    "81b5c7766923da2a": {
-      "date": "2026-10-13",
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "source": "devto"
-    },
-    "c93804168e0f5fb2": {
-      "date": "2026-10-13",
-      "title": "Step Away From the Terminal: I Built BreakPoint with Entire to Disconnect Burned-Out Developers in 1",
-      "source": "devto"
-    },
-    "13fa23e7343b2dde": {
-      "date": "2026-10-13",
-      "title": "You’re a Real Python Developer Only If...",
-      "source": "devto"
-    },
-    "b04358cb44f18795": {
-      "date": "2026-10-13",
-      "title": "Solodesk-Ai",
-      "source": "devto"
-    },
-    "5a8b8c1b107a3992": {
-      "date": "2026-10-13",
-      "title": "I was chasing the job market. One comment on DEV.to made me rethink everything",
-      "source": "devto"
-    },
-    "a35f10eb248400e0": {
-      "date": "2026-10-13",
-      "title": "One Glue Job, Zero Orchestrators — My First Spark Declarative Pipeline on AWS Glue",
-      "source": "devto"
-    },
-    "b9461715fd2fd4b7": {
-      "date": "2026-10-13",
-      "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
-      "source": "devto"
-    },
-    "fb75b02bb887894d": {
-      "date": "2026-10-13",
-      "title": "We Built a Blender Render Farm Out of Four Laptops",
-      "source": "devto"
-    },
-    "4c751bf17db4157b": {
-      "date": "2026-10-13",
-      "title": "A single console.log was costing us $40,000 a year. I found it by accident.",
-      "source": "devto"
-    },
-    "5c33f43b602ec1d6": {
-      "date": "2026-10-13",
-      "title": "open-webui / open-webui",
-      "source": "github"
-    },
-    "33b0d84c745e52f3": {
-      "date": "2026-10-13",
-      "title": "microsoft / BitNet",
-      "source": "github"
-    },
-    "8e0001db8f8344fb": {
-      "date": "2026-10-13",
-      "title": "Alishahryar1 / free-claude-code",
-      "source": "github"
-    },
     "a615b4c8f9b3f966": {
       "date": "2026-10-14",
       "title": "Gemini 4 Argon",
@@ -7775,6 +7630,51 @@
     "b969f13e950ddf0e": {
       "date": "2026-11-12",
       "title": "A2UI 1.0 on AWS: a Strands Currency Agent with Amazon Nova, AgentCore Runtime and ECS Express Mode",
+      "source": "devto"
+    },
+    "e7252408c0eec17b": {
+      "date": "2026-11-13",
+      "title": "Service degradation on Microsoft 365",
+      "source": "hackernews"
+    },
+    "9cf8bbc5fcb0bceb": {
+      "date": "2026-11-13",
+      "title": "Rust 1.100",
+      "source": "hackernews"
+    },
+    "76021858357497fb": {
+      "date": "2026-11-13",
+      "title": "Foundation Models framework",
+      "source": "hackernews"
+    },
+    "bc6668176f723856": {
+      "date": "2026-11-13",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "source": "hackernews"
+    },
+    "d8624c05c476e259": {
+      "date": "2026-11-13",
+      "title": "Insight7 Voice AI Agents",
+      "source": "producthunt"
+    },
+    "c5cf108497f2f203": {
+      "date": "2026-11-13",
+      "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
+      "source": "devto"
+    },
+    "f23c8167666bd70d": {
+      "date": "2026-11-13",
+      "title": "AI is getting better. Here is my plan to stay ahead.",
+      "source": "devto"
+    },
+    "575ddd14370791be": {
+      "date": "2026-11-13",
+      "title": "The Case for Smart Software",
+      "source": "devto"
+    },
+    "eec55bb855f8a4b7": {
+      "date": "2026-11-13",
+      "title": "What Changes With the A2UI 1.0 Release",
       "source": "devto"
     }
   }
