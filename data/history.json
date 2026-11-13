@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-13T00:57:44.253380",
+  "last_updated": "2026-11-13T07:38:30.901985",
   "sent_items": {
     "a615b4c8f9b3f966": {
       "date": "2026-10-14",
@@ -7676,6 +7676,61 @@
       "date": "2026-11-13",
       "title": "What Changes With the A2UI 1.0 Release",
       "source": "devto"
+    },
+    "dffbfea5c08048fc": {
+      "date": "2026-11-13",
+      "title": "Cloudways Velocity",
+      "source": "producthunt"
+    },
+    "fa57f895be35af45": {
+      "date": "2026-11-13",
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "source": "hackernews"
+    },
+    "1e7a3aca4115992a": {
+      "date": "2026-11-13",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "source": "hackernews"
+    },
+    "a34598d6f21ddfc0": {
+      "date": "2026-11-13",
+      "title": "IceWM",
+      "source": "hackernews"
+    },
+    "b9c1e8d26ae1d9a2": {
+      "date": "2026-11-13",
+      "title": "Switcher (2004)",
+      "source": "hackernews"
+    },
+    "f23c6953ad8b9879": {
+      "date": "2026-11-13",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "source": "hackernews"
+    },
+    "e90c6744282aa459": {
+      "date": "2026-11-13",
+      "title": "Scientists claim the universe is twice as old as believed",
+      "source": "hackernews"
+    },
+    "1c67f8e2cd51f848": {
+      "date": "2026-11-13",
+      "title": "AWS Extended Support: what it costs and how to find everything you're about to pay for",
+      "source": "devto"
+    },
+    "0bd017e1298640c6": {
+      "date": "2026-11-13",
+      "title": "Enterprise SSO for B2B SaaS: How to Prepare Before Your First Big Customer Asks",
+      "source": "devto"
+    },
+    "d1191b92e4b38ece": {
+      "date": "2026-11-13",
+      "title": "I turned my GitHub profile into a Doctor Doom vs Avengers fight",
+      "source": "devto"
+    },
+    "8e0001db8f8344fb": {
+      "date": "2026-11-13",
+      "title": "Alishahryar1 / free-claude-code",
+      "source": "github"
     }
   }
 }
