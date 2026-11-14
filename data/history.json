@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-14T15:19:15.493812",
+  "last_updated": "2026-11-14T19:58:21.664599",
   "sent_items": {
     "63656400f4807a94": {
       "date": "2026-10-15",
@@ -8096,6 +8096,66 @@
       "date": "2026-11-14",
       "title": "martin-olivier / airgorah",
       "source": "github"
+    },
+    "a29c77309e43cf78": {
+      "date": "2026-11-14",
+      "title": "Blender 5.3",
+      "source": "producthunt"
+    },
+    "2db116e6dbdc7f56": {
+      "date": "2026-11-14",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "source": "hackernews"
+    },
+    "db971d89fb188eac": {
+      "date": "2026-11-14",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "source": "hackernews"
+    },
+    "8a041f21c4bbb88f": {
+      "date": "2026-11-14",
+      "title": "A Family Tree of Software Job Titles",
+      "source": "hackernews"
+    },
+    "26aa40395d7df0f3": {
+      "date": "2026-11-14",
+      "title": "US IRS free online tax filing open source repo",
+      "source": "hackernews"
+    },
+    "3665189f4dd13ede": {
+      "date": "2026-11-14",
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "source": "hackernews"
+    },
+    "852fe56060a9326b": {
+      "date": "2026-11-14",
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "source": "hackernews"
+    },
+    "bda5dbd0e90087c9": {
+      "date": "2026-11-14",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "source": "hackernews"
+    },
+    "b4d4d6bf484d06bf": {
+      "date": "2026-11-14",
+      "title": "Avengers: Doomsday is 5 weeks away, so I built hexagon README badges. What are you building?",
+      "source": "devto"
+    },
+    "7392c665ffa35fa8": {
+      "date": "2026-11-14",
+      "title": "nginx 1.31's json_set directive rejects a bad webhook payload about 13 times faster than forwarding ",
+      "source": "devto"
+    },
+    "1c08946e8c0ca565": {
+      "date": "2026-11-14",
+      "title": "Granny Is Watching: A Reactive Horror Experience Using SmartPectra",
+      "source": "devto"
+    },
+    "dfe73f09a874f000": {
+      "date": "2026-11-14",
+      "title": "I Replaced $3,000 Eye-Trackers with a Laptop Webcam: Building a Hands-Free Spatial Communicator with",
+      "source": "devto"
     }
   }
 }
