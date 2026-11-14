@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-14T08:27:48.838609",
+  "last_updated": "2026-11-14T11:41:41.859972",
   "sent_items": {
     "63656400f4807a94": {
       "date": "2026-10-15",
@@ -7936,6 +7936,56 @@
       "date": "2026-11-14",
       "title": "Uber Parking",
       "source": "producthunt"
+    },
+    "1abe764f6860bf28": {
+      "date": "2026-11-14",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "source": "hackernews"
+    },
+    "5d822cad88e1096e": {
+      "date": "2026-11-14",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "source": "hackernews"
+    },
+    "db3f5d4f02e1746e": {
+      "date": "2026-11-14",
+      "title": "FreeFlow Dictation",
+      "source": "producthunt"
+    },
+    "169b67c865879c96": {
+      "date": "2026-11-14",
+      "title": "ScreenGo",
+      "source": "producthunt"
+    },
+    "4d1a3ea89a2cd730": {
+      "date": "2026-11-14",
+      "title": "Horef Rings",
+      "source": "producthunt"
+    },
+    "a639aaacd4f2d3f3": {
+      "date": "2026-11-14",
+      "title": "CodeMesh",
+      "source": "producthunt"
+    },
+    "e6b9cee054ea4394": {
+      "date": "2026-11-14",
+      "title": "Tabletop by Google Labs",
+      "source": "producthunt"
+    },
+    "61f14e1a707ab222": {
+      "date": "2026-11-14",
+      "title": "One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the ",
+      "source": "devto"
+    },
+    "6d62cf752498f004": {
+      "date": "2026-11-14",
+      "title": "iPhone + Linux = pain. So I built Rollcopy 🦀📸",
+      "source": "devto"
+    },
+    "18fb5f1bae0be030": {
+      "date": "2026-11-14",
+      "title": "Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)",
+      "source": "devto"
     }
   }
 }
