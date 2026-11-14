@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-14T01:55:51.487881",
+  "last_updated": "2026-11-14T08:27:48.838609",
   "sent_items": {
     "63656400f4807a94": {
       "date": "2026-10-15",
@@ -7876,6 +7876,66 @@
       "date": "2026-11-14",
       "title": "How Open-Source LLMs Differ: Comparing 130+ Model Architectures",
       "source": "devto"
+    },
+    "367373c4dbf85137": {
+      "date": "2026-11-14",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "source": "hackernews"
+    },
+    "41d0464371e9ffcd": {
+      "date": "2026-11-14",
+      "title": "Ggml v1.0.0",
+      "source": "hackernews"
+    },
+    "efaddb66212cc958": {
+      "date": "2026-11-14",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "source": "hackernews"
+    },
+    "c0513a3e99e04f3b": {
+      "date": "2026-11-14",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "source": "hackernews"
+    },
+    "15d001c523abd8ba": {
+      "date": "2026-11-14",
+      "title": "Monkey Island: all 13 versions side by side",
+      "source": "hackernews"
+    },
+    "accbd392d1a7b732": {
+      "date": "2026-11-14",
+      "title": "Gemini Robotics 2.5",
+      "source": "producthunt"
+    },
+    "9ffe877a610d4f3e": {
+      "date": "2026-11-14",
+      "title": "Restoration Scope",
+      "source": "producthunt"
+    },
+    "ef01fcd3b2e0993f": {
+      "date": "2026-11-14",
+      "title": "Antelog",
+      "source": "producthunt"
+    },
+    "33c408c31730a5ff": {
+      "date": "2026-11-14",
+      "title": "Dynamic Edge",
+      "source": "producthunt"
+    },
+    "88f0dfef41ef2197": {
+      "date": "2026-11-14",
+      "title": "Drops",
+      "source": "producthunt"
+    },
+    "666883e2dd6cf8b4": {
+      "date": "2026-11-14",
+      "title": "inread.app",
+      "source": "producthunt"
+    },
+    "7a9ab5ffc491a344": {
+      "date": "2026-11-14",
+      "title": "Uber Parking",
+      "source": "producthunt"
     }
   }
 }
