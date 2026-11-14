@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-14T11:41:41.859972",
+  "last_updated": "2026-11-14T15:19:15.493812",
   "sent_items": {
     "63656400f4807a94": {
       "date": "2026-10-15",
@@ -7986,6 +7986,116 @@
       "date": "2026-11-14",
       "title": "Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)",
       "source": "devto"
+    },
+    "92b01cf94674a787": {
+      "date": "2026-11-14",
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "source": "hackernews"
+    },
+    "7188d60973dfef89": {
+      "date": "2026-11-14",
+      "title": "Generative AI uses more energy on non-English text",
+      "source": "hackernews"
+    },
+    "7c1df96274441d22": {
+      "date": "2026-11-14",
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "source": "hackernews"
+    },
+    "a7bf15b028ea72d9": {
+      "date": "2026-11-14",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "source": "hackernews"
+    },
+    "4148763e90983a2a": {
+      "date": "2026-11-14",
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "source": "hackernews"
+    },
+    "dc416feccf0b13ce": {
+      "date": "2026-11-14",
+      "title": "Testing a Trash Can Faraday Cage",
+      "source": "hackernews"
+    },
+    "f06f8a80681ae027": {
+      "date": "2026-11-14",
+      "title": "KDE: The Documentary on Free Software [video]",
+      "source": "hackernews"
+    },
+    "f4a9a9a0e1dcc175": {
+      "date": "2026-11-14",
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "source": "hackernews"
+    },
+    "2f0753415820619d": {
+      "date": "2026-11-14",
+      "title": "Thunder",
+      "source": "producthunt"
+    },
+    "770866798b441193": {
+      "date": "2026-11-14",
+      "title": "Dex Semantics",
+      "source": "producthunt"
+    },
+    "3d88e38cd71867be": {
+      "date": "2026-11-14",
+      "title": "Default Tamer",
+      "source": "producthunt"
+    },
+    "88a6b5e18d65999b": {
+      "date": "2026-11-14",
+      "title": "AnyoneHiring.today",
+      "source": "producthunt"
+    },
+    "d21925be82668979": {
+      "date": "2026-11-14",
+      "title": "Tacie",
+      "source": "producthunt"
+    },
+    "cd93feb4aab0e5f6": {
+      "date": "2026-11-14",
+      "title": "Devcon 8 Mumbai: Four Days at Ethereum's Biggest Builder Gathering",
+      "source": "devto"
+    },
+    "732e821dca896596": {
+      "date": "2026-11-14",
+      "title": "Biology's Best Algorithms Aren't Just for Scientists Anymore",
+      "source": "devto"
+    },
+    "11db59d3db9f008e": {
+      "date": "2026-11-14",
+      "title": "Anyone need a Linux sandbox with its own public IPv6?",
+      "source": "devto"
+    },
+    "5968966a8359345d": {
+      "date": "2026-11-14",
+      "title": "Snapshotting a DigitalOcean Droplet while it's running",
+      "source": "devto"
+    },
+    "dd3f7c0b511db930": {
+      "date": "2026-11-14",
+      "title": "dream-num / univer",
+      "source": "github"
+    },
+    "dc6cbbda1a8ce8ca": {
+      "date": "2026-11-14",
+      "title": "ag-ui-protocol / ag-ui",
+      "source": "github"
+    },
+    "021dcfb5e16a50cf": {
+      "date": "2026-11-14",
+      "title": "JuliusBrussee / caveman",
+      "source": "github"
+    },
+    "26dd9a85c7cf6168": {
+      "date": "2026-11-14",
+      "title": "Tencent / LoopForge",
+      "source": "github"
+    },
+    "71190164274a067e": {
+      "date": "2026-11-14",
+      "title": "martin-olivier / airgorah",
+      "source": "github"
     }
   }
 }
