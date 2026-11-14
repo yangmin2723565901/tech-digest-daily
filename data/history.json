@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-14T19:58:21.664599",
+  "last_updated": "2026-11-14T23:42:33.573310",
   "sent_items": {
     "63656400f4807a94": {
       "date": "2026-10-15",
@@ -8155,6 +8155,46 @@
     "dfe73f09a874f000": {
       "date": "2026-11-14",
       "title": "I Replaced $3,000 Eye-Trackers with a Laptop Webcam: Building a Hands-Free Spatial Communicator with",
+      "source": "devto"
+    },
+    "ccbd0c2348ebd9ed": {
+      "date": "2026-11-14",
+      "title": "SpaceX Catches the Starship to end Flight 15",
+      "source": "hackernews"
+    },
+    "d304d701e756e40e": {
+      "date": "2026-11-14",
+      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+      "source": "hackernews"
+    },
+    "d140dbe2bb6cad8b": {
+      "date": "2026-11-14",
+      "title": "Possible Futures",
+      "source": "hackernews"
+    },
+    "661d0b07a67c4e51": {
+      "date": "2026-11-14",
+      "title": "L3Harris Statement on the Nov. 13 Ground Stop",
+      "source": "hackernews"
+    },
+    "f2599aa7e16cf805": {
+      "date": "2026-11-14",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "source": "hackernews"
+    },
+    "191f97b20bca8dac": {
+      "date": "2026-11-14",
+      "title": "Blocking an AI agent's shortcuts with tools: what verifying code comments taught me about steering a",
+      "source": "devto"
+    },
+    "787789f6196f715b": {
+      "date": "2026-11-14",
+      "title": "Dash: An Endless Runner That Races Through Your City",
+      "source": "devto"
+    },
+    "cdd57b89bdae0f5a": {
+      "date": "2026-11-14",
+      "title": "I built a workspace that reads my body, then asked it to leave me alone",
       "source": "devto"
     }
   }
