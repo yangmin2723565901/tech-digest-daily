@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-15T18:38:54.626054",
+  "last_updated": "2026-11-15T23:10:38.362136",
   "sent_items": {
     "3b44f1f13adced97": {
       "date": "2026-10-16",
@@ -8255,6 +8255,41 @@
     "1f2772da9efee4dd": {
       "date": "2026-11-15",
       "title": "How I Built an 8-Skill Research Engineering Plugin, Studio MCP Server & Vector Comic Studio for Goog",
+      "source": "devto"
+    },
+    "58a867f57f03ee00": {
+      "date": "2026-11-15",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source": "hackernews"
+    },
+    "2f381630686734f8": {
+      "date": "2026-11-15",
+      "title": "Handwriting, as a Font",
+      "source": "hackernews"
+    },
+    "dc75436c077e3dc4": {
+      "date": "2026-11-15",
+      "title": "Your Agent Will Pick the Hackable One",
+      "source": "hackernews"
+    },
+    "5791bd992a12c3b5": {
+      "date": "2026-11-15",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "source": "hackernews"
+    },
+    "a33482db3f253ac2": {
+      "date": "2026-11-15",
+      "title": "Old Bitly Links Are Being Hijacked",
+      "source": "hackernews"
+    },
+    "4df7d9f64469cbe2": {
+      "date": "2026-11-15",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "source": "hackernews"
+    },
+    "b705701ffd72c62c": {
+      "date": "2026-11-15",
+      "title": "Day 83: Two Files and Four Parts",
       "source": "devto"
     }
   }
