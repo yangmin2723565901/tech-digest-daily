@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-15T04:12:29.973687",
+  "last_updated": "2026-11-15T11:59:16.840305",
   "sent_items": {
     "3b44f1f13adced97": {
       "date": "2026-10-16",
@@ -8060,6 +8060,106 @@
     "478d1e86d00d088a": {
       "date": "2026-11-15",
       "title": "One Tool Call Instead of Four Pages: Adding WebMCP to My Site",
+      "source": "devto"
+    },
+    "c28c0b3c68a4434c": {
+      "date": "2026-11-15",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "source": "hackernews"
+    },
+    "919552dbbc700b9c": {
+      "date": "2026-11-15",
+      "title": "My favourite modern NES games",
+      "source": "hackernews"
+    },
+    "798308081ff63a33": {
+      "date": "2026-11-15",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "source": "hackernews"
+    },
+    "0eda216e7986e536": {
+      "date": "2026-11-15",
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "source": "hackernews"
+    },
+    "63ab61e48b2903fd": {
+      "date": "2026-11-15",
+      "title": "Semicircle Packing",
+      "source": "hackernews"
+    },
+    "2a4a5f997b925974": {
+      "date": "2026-11-15",
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "source": "hackernews"
+    },
+    "53067f71ede0354c": {
+      "date": "2026-11-15",
+      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+      "source": "hackernews"
+    },
+    "543852d1bdb65275": {
+      "date": "2026-11-15",
+      "title": "Emayler",
+      "source": "producthunt"
+    },
+    "0f1fa4ccd8fb853c": {
+      "date": "2026-11-15",
+      "title": "Rakazo",
+      "source": "producthunt"
+    },
+    "9cf5892b358d2fe3": {
+      "date": "2026-11-15",
+      "title": "Pixel Office",
+      "source": "producthunt"
+    },
+    "d80acc9cff4a0a21": {
+      "date": "2026-11-15",
+      "title": "Frevana Multiplayer",
+      "source": "producthunt"
+    },
+    "b8e20632178c64c9": {
+      "date": "2026-11-15",
+      "title": "Privacyboard",
+      "source": "producthunt"
+    },
+    "d5529e00b9c73e9d": {
+      "date": "2026-11-15",
+      "title": "Talyn",
+      "source": "producthunt"
+    },
+    "91dc6354f6b47873": {
+      "date": "2026-11-15",
+      "title": "Remindly",
+      "source": "producthunt"
+    },
+    "1690037ba33916ef": {
+      "date": "2026-11-15",
+      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+      "source": "devto"
+    },
+    "0406119503da67b0": {
+      "date": "2026-11-15",
+      "title": "Cat Mutilation Successful!! 🛸 Welcome New Members!! 🐈🎉",
+      "source": "devto"
+    },
+    "18288a221f730c35": {
+      "date": "2026-11-15",
+      "title": "Jira said Done. It wasn't, and the bug showed up later. So I made Jira check first.",
+      "source": "devto"
+    },
+    "3e7adbcf1ede6c4e": {
+      "date": "2026-11-15",
+      "title": "SHENRON's durability numbers didn't survive review. Here's what did.",
+      "source": "devto"
+    },
+    "6cae62d144ca1a63": {
+      "date": "2026-11-15",
+      "title": "Your AI Coding Agent Wrote a 600-Word Summary. What It Skipped Is in the Fine Print.",
+      "source": "devto"
+    },
+    "4eb27aeb9d06cd88": {
+      "date": "2026-11-15",
+      "title": "Zombies, a Gunship and a Judgment Model: What Could Go Wrong?",
       "source": "devto"
     }
   }
