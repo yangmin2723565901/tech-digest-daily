@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-15T11:59:16.840305",
+  "last_updated": "2026-11-15T12:11:14.061585",
   "sent_items": {
     "3b44f1f13adced97": {
       "date": "2026-10-16",
@@ -8161,6 +8161,11 @@
       "date": "2026-11-15",
       "title": "Zombies, a Gunship and a Judgment Model: What Could Go Wrong?",
       "source": "devto"
+    },
+    "2d42bfa88e6caa00": {
+      "date": "2026-11-15",
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "source": "hackernews"
     }
   }
 }
