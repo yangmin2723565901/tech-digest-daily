@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-15T12:11:14.061585",
+  "last_updated": "2026-11-15T18:38:54.626054",
   "sent_items": {
     "3b44f1f13adced97": {
       "date": "2026-10-16",
@@ -8166,6 +8166,96 @@
       "date": "2026-11-15",
       "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
       "source": "hackernews"
+    },
+    "370c927f568a4452": {
+      "date": "2026-11-15",
+      "title": "All AI-generated code should be Open Source",
+      "source": "hackernews"
+    },
+    "7ead853d39e0cb8d": {
+      "date": "2026-11-15",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "source": "hackernews"
+    },
+    "d3009b468fe3fba6": {
+      "date": "2026-11-15",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "source": "hackernews"
+    },
+    "df4a5f2959166576": {
+      "date": "2026-11-15",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "source": "hackernews"
+    },
+    "fe534d93d0d424bb": {
+      "date": "2026-11-15",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "source": "hackernews"
+    },
+    "52b354371057d81d": {
+      "date": "2026-11-15",
+      "title": "Emacs Is My Browser",
+      "source": "hackernews"
+    },
+    "ba23c2d1176ff725": {
+      "date": "2026-11-15",
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "source": "hackernews"
+    },
+    "469684b33fd4a9d5": {
+      "date": "2026-11-15",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "source": "hackernews"
+    },
+    "e1a7492298b8988a": {
+      "date": "2026-11-15",
+      "title": "A short explainer on how El Niño works [video]",
+      "source": "hackernews"
+    },
+    "f73b7c861bcc0e09": {
+      "date": "2026-11-15",
+      "title": "google-labs-code / stitch-skills",
+      "source": "github"
+    },
+    "4c6e2b5d342dc532": {
+      "date": "2026-11-15",
+      "title": "ggml-org / ggml",
+      "source": "github"
+    },
+    "5e38703f2df37de8": {
+      "date": "2026-11-15",
+      "title": "elementalsouls / Claude-BugHunter",
+      "source": "github"
+    },
+    "882ce923c486c28e": {
+      "date": "2026-11-15",
+      "title": "NVIDIA / SkillEvaluator",
+      "source": "github"
+    },
+    "cdd60111564623b6": {
+      "date": "2026-11-15",
+      "title": "🐱 The Great Cat Party on necoz Planet! 🚀Python variable",
+      "source": "devto"
+    },
+    "1a8c49466513963c": {
+      "date": "2026-11-15",
+      "title": "🐾 DEV Pet Corner #6: Show Us Your Pets!",
+      "source": "devto"
+    },
+    "1890280e956b09d0": {
+      "date": "2026-11-15",
+      "title": ".NET 11 Unpacked: Why I'm Recommending STS This Time",
+      "source": "devto"
+    },
+    "59d87a376b7eeb09": {
+      "date": "2026-11-15",
+      "title": "Zombie Sweep: A Daily Serverless Hunt for Unused AWS Resources",
+      "source": "devto"
+    },
+    "1f2772da9efee4dd": {
+      "date": "2026-11-15",
+      "title": "How I Built an 8-Skill Research Engineering Plugin, Studio MCP Server & Vector Comic Studio for Goog",
+      "source": "devto"
     }
   }
 }
