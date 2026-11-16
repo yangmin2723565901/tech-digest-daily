@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-16T10:29:06.884807",
+  "last_updated": "2026-11-16T13:04:20.052044",
   "sent_items": {
     "b2f13e264e62240b": {
       "date": "2026-10-17",
@@ -8246,6 +8246,81 @@
       "date": "2026-11-16",
       "title": "Introducing Sawala Mono: An Ergonomic Coding Font Built for Code Reviews and Terminal Workflows",
       "source": "devto"
+    },
+    "15c2d95bf6c2bea9": {
+      "date": "2026-11-16",
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "source": "hackernews"
+    },
+    "97fc39f66f783a10": {
+      "date": "2026-11-16",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "source": "hackernews"
+    },
+    "912096b0f28cca81": {
+      "date": "2026-11-16",
+      "title": "OOS – an open operating system for the Rigol Scopes",
+      "source": "hackernews"
+    },
+    "ae19d064633c88b6": {
+      "date": "2026-11-16",
+      "title": "Exact Gradients Through a BRep Kernel",
+      "source": "hackernews"
+    },
+    "06b407e52492ae87": {
+      "date": "2026-11-16",
+      "title": "Freebuff",
+      "source": "producthunt"
+    },
+    "8153f3c799821a42": {
+      "date": "2026-11-16",
+      "title": "LingoMic",
+      "source": "producthunt"
+    },
+    "2e874f2bae4b91a7": {
+      "date": "2026-11-16",
+      "title": "UI SDK by Vercel",
+      "source": "producthunt"
+    },
+    "eb5bd0e0159a1fb2": {
+      "date": "2026-11-16",
+      "title": "Glifa",
+      "source": "producthunt"
+    },
+    "702e9d6b1f2a6642": {
+      "date": "2026-11-16",
+      "title": "Puffin",
+      "source": "producthunt"
+    },
+    "8cf8cdd6642699ab": {
+      "date": "2026-11-16",
+      "title": "getarcaneapp / arcane",
+      "source": "github"
+    },
+    "8b235f88e20fd260": {
+      "date": "2026-11-16",
+      "title": "DeanChensj / jiangshan-map",
+      "source": "github"
+    },
+    "cb3eddfe11b539d1": {
+      "date": "2026-11-16",
+      "title": "mvanhorn / last30days-skill",
+      "source": "github"
+    },
+    "486c77414293b921": {
+      "date": "2026-11-16",
+      "title": "google-research / paper-orchestra",
+      "source": "github"
+    },
+    "f43dc28dacfdd0a3": {
+      "date": "2026-11-16",
+      "title": "sveltejs / svelte",
+      "source": "github"
+    },
+    "a4f2eba28135a7fc": {
+      "date": "2026-11-16",
+      "title": "kajisho5 / ffmpeg-skill",
+      "source": "github"
     }
   }
 }
