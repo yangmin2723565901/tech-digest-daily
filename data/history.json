@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-16T13:04:20.052044",
+  "last_updated": "2026-11-16T20:39:49.639657",
   "sent_items": {
     "b2f13e264e62240b": {
       "date": "2026-10-17",
@@ -8321,6 +8321,116 @@
       "date": "2026-11-16",
       "title": "kajisho5 / ffmpeg-skill",
       "source": "github"
+    },
+    "8fddac8c187a9ebe": {
+      "date": "2026-11-16",
+      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "source": "hackernews"
+    },
+    "f5b157ff25381782": {
+      "date": "2026-11-16",
+      "title": "Software is breaking down at a systemic level",
+      "source": "hackernews"
+    },
+    "4dcb9e2a13b54233": {
+      "date": "2026-11-16",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "source": "hackernews"
+    },
+    "58dec51a0fe37d9e": {
+      "date": "2026-11-16",
+      "title": "Frame – 31.5\" color ePaper display",
+      "source": "hackernews"
+    },
+    "2e7ee656e324cda9": {
+      "date": "2026-11-16",
+      "title": "Grazing sheep in fields with solar arrays",
+      "source": "hackernews"
+    },
+    "df5ef89f075239c6": {
+      "date": "2026-11-16",
+      "title": "Aristotle Expands into Rust",
+      "source": "hackernews"
+    },
+    "795261b255e28209": {
+      "date": "2026-11-16",
+      "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+      "source": "hackernews"
+    },
+    "1418436dd7135b4b": {
+      "date": "2026-11-16",
+      "title": "Squircles",
+      "source": "hackernews"
+    },
+    "0fea9fd4ed1272fe": {
+      "date": "2026-11-16",
+      "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+      "source": "hackernews"
+    },
+    "520e1e2fefdc4c1e": {
+      "date": "2026-11-16",
+      "title": "Cal.com v7",
+      "source": "producthunt"
+    },
+    "f5e44d8064d6f070": {
+      "date": "2026-11-16",
+      "title": "Punchcutter",
+      "source": "producthunt"
+    },
+    "7e940b70891df98a": {
+      "date": "2026-11-16",
+      "title": "Curates",
+      "source": "producthunt"
+    },
+    "7561f9d2093e27d4": {
+      "date": "2026-11-16",
+      "title": "Fluid",
+      "source": "producthunt"
+    },
+    "9458b19987b47536": {
+      "date": "2026-11-16",
+      "title": "Papyras",
+      "source": "producthunt"
+    },
+    "f638a484930de068": {
+      "date": "2026-11-16",
+      "title": "What does DEV stand for?",
+      "source": "devto"
+    },
+    "4861450825f4da70": {
+      "date": "2026-11-16",
+      "title": "10 Things Every Coder Has Blamed at Least Once (at Least I Have)",
+      "source": "devto"
+    },
+    "506ab20e280d2f9d": {
+      "date": "2026-11-16",
+      "title": "PostgreSQL 19's pg_plan_advice turned a 28ms query into 264ms under load",
+      "source": "devto"
+    },
+    "8f902d8aca285735": {
+      "date": "2026-11-16",
+      "title": "PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)",
+      "source": "devto"
+    },
+    "92c69359b962a220": {
+      "date": "2026-11-16",
+      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
+      "source": "devto"
+    },
+    "5d5cec979a4ce98a": {
+      "date": "2026-11-16",
+      "title": "One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys",
+      "source": "devto"
+    },
+    "6f0bb61398ee45d4": {
+      "date": "2026-11-16",
+      "title": "Your Webcam Is Your Health Check-Up",
+      "source": "devto"
+    },
+    "720bf83d462b840e": {
+      "date": "2026-11-16",
+      "title": "An MCP Tool Call Can Resolve and Still Fail",
+      "source": "devto"
     }
   }
 }
