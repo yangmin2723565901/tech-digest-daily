@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-16T02:46:57.680361",
+  "last_updated": "2026-11-16T10:29:06.884807",
   "sent_items": {
     "b2f13e264e62240b": {
       "date": "2026-10-17",
@@ -8156,6 +8156,96 @@
       "date": "2026-11-16",
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
       "source": "hackernews"
+    },
+    "9a66e5d8e0acdafc": {
+      "date": "2026-11-16",
+      "title": "Qwen4-Max",
+      "source": "hackernews"
+    },
+    "19ec54f86173dab5": {
+      "date": "2026-11-16",
+      "title": "How to make almost anything",
+      "source": "hackernews"
+    },
+    "a8d1ffab09423ca5": {
+      "date": "2026-11-16",
+      "title": "What's Next for Nvidia?",
+      "source": "hackernews"
+    },
+    "7f8cf94c7e0459eb": {
+      "date": "2026-11-16",
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "source": "hackernews"
+    },
+    "3e7eafc36a550be0": {
+      "date": "2026-11-16",
+      "title": "The Lasting Influence of John Berger",
+      "source": "hackernews"
+    },
+    "a944d0e03bd66e1a": {
+      "date": "2026-11-16",
+      "title": "ByteVoice",
+      "source": "producthunt"
+    },
+    "e740bbcfb21b981d": {
+      "date": "2026-11-16",
+      "title": "StateWeave",
+      "source": "producthunt"
+    },
+    "0aacff3e8dd8390a": {
+      "date": "2026-11-16",
+      "title": "Findy",
+      "source": "producthunt"
+    },
+    "bc0a04f99d674ba3": {
+      "date": "2026-11-16",
+      "title": "Blomma for Organizations",
+      "source": "producthunt"
+    },
+    "59cce29415600da1": {
+      "date": "2026-11-16",
+      "title": "Notebook to Notes",
+      "source": "producthunt"
+    },
+    "1ce59db1b9253d6d": {
+      "date": "2026-11-16",
+      "title": "Pharen Hub",
+      "source": "producthunt"
+    },
+    "109198db254b4097": {
+      "date": "2026-11-16",
+      "title": "Trusty CSV",
+      "source": "producthunt"
+    },
+    "1d40c9f18b9cf26e": {
+      "date": "2026-11-16",
+      "title": "Degla AI",
+      "source": "producthunt"
+    },
+    "7e1d7914ad40d28b": {
+      "date": "2026-11-16",
+      "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
+      "source": "devto"
+    },
+    "191e09e9742b8dd5": {
+      "date": "2026-11-16",
+      "title": "Using AI for Anonymity",
+      "source": "devto"
+    },
+    "98905cc8cf5b607d": {
+      "date": "2026-11-16",
+      "title": "Give Your Voice Agent Hands: Let It Act Across Sales and Marketing",
+      "source": "devto"
+    },
+    "5684a00a26a14af8": {
+      "date": "2026-11-16",
+      "title": "Correcting \"897 Fake Followers\": What My Own Follower Data Actually Shows",
+      "source": "devto"
+    },
+    "320fa03c0838a335": {
+      "date": "2026-11-16",
+      "title": "Introducing Sawala Mono: An Ergonomic Coding Font Built for Code Reviews and Terminal Workflows",
+      "source": "devto"
     }
   }
 }
