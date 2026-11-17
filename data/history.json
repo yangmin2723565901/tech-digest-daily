@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-17T13:45:45.106953",
+  "last_updated": "2026-11-17T20:29:23.484005",
   "sent_items": {
     "f3132748f6fdc29c": {
       "date": "2026-10-18",
@@ -8510,6 +8510,106 @@
     "9e7a13505beedb98": {
       "date": "2026-11-17",
       "title": "Stratagem #35: Lena Made the Promises Interlock. The AI Still Can't See ACL's Full Reach.",
+      "source": "devto"
+    },
+    "1b3bff35fb1158b4": {
+      "date": "2026-11-17",
+      "title": "WispOS",
+      "source": "producthunt"
+    },
+    "ce744b8d9996fea5": {
+      "date": "2026-11-17",
+      "title": "Retriever",
+      "source": "producthunt"
+    },
+    "be7d752441c92b3f": {
+      "date": "2026-11-17",
+      "title": "GPT‑6.2 Astra and Sol",
+      "source": "hackernews"
+    },
+    "f013c9db144b9e25": {
+      "date": "2026-11-17",
+      "title": "Apple Services Down",
+      "source": "hackernews"
+    },
+    "4e5b122a6f9d3ee7": {
+      "date": "2026-11-17",
+      "title": "What is the best harness for each model?",
+      "source": "hackernews"
+    },
+    "c8f9cd8e0d1b9ed0": {
+      "date": "2026-11-17",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "source": "hackernews"
+    },
+    "d3d57b54d878041c": {
+      "date": "2026-11-17",
+      "title": "Phrack 73 Released",
+      "source": "hackernews"
+    },
+    "868d67d5707519a0": {
+      "date": "2026-11-17",
+      "title": "Solid 2.0",
+      "source": "hackernews"
+    },
+    "99000071c104a341": {
+      "date": "2026-11-17",
+      "title": "Israel vs. Wikipedia",
+      "source": "hackernews"
+    },
+    "51cfde802f90ab7d": {
+      "date": "2026-11-17",
+      "title": "350 years ago, this man discovered that light has a finite speed",
+      "source": "hackernews"
+    },
+    "a13d8edb602c7abd": {
+      "date": "2026-11-17",
+      "title": "jQuery 4.1.0",
+      "source": "hackernews"
+    },
+    "1dc660b55e75b61a": {
+      "date": "2026-11-17",
+      "title": "Web Browser Engineering",
+      "source": "hackernews"
+    },
+    "2467c0f179cc30c0": {
+      "date": "2026-11-17",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "b07a413132798f4c": {
+      "date": "2026-11-17",
+      "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar 🚀",
+      "source": "devto"
+    },
+    "987817ca490bd8da": {
+      "date": "2026-11-17",
+      "title": "Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio",
+      "source": "devto"
+    },
+    "fe567f53f66f6f16": {
+      "date": "2026-11-17",
+      "title": "Could I Still Do This From Scratch?",
+      "source": "devto"
+    },
+    "d52bad10d53a2ce3": {
+      "date": "2026-11-17",
+      "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
+      "source": "devto"
+    },
+    "a0c06193d4771884": {
+      "date": "2026-11-17",
+      "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
+      "source": "devto"
+    },
+    "cccafde4808c7a07": {
+      "date": "2026-11-17",
+      "title": "Day 85: A Task That Always Changes and Two Halves",
+      "source": "devto"
+    },
+    "5c3421bad95b445b": {
+      "date": "2026-11-17",
+      "title": "The Arrogance of Having Outgrown Arrogance",
       "source": "devto"
     }
   }
