@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-17T03:10:13.389112",
+  "last_updated": "2026-11-17T11:57:37.973751",
   "sent_items": {
     "f3132748f6fdc29c": {
       "date": "2026-10-18",
@@ -8345,6 +8345,116 @@
     "eba624d12839392c": {
       "date": "2026-11-17",
       "title": "What are your goals for the week? #205",
+      "source": "devto"
+    },
+    "ea3e76e96114d7f0": {
+      "date": "2026-11-17",
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "source": "hackernews"
+    },
+    "757898b2b12cb488": {
+      "date": "2026-11-17",
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "source": "hackernews"
+    },
+    "4dc5ae0965dd47e7": {
+      "date": "2026-11-17",
+      "title": "Nimony: A New Compiler for Nim",
+      "source": "hackernews"
+    },
+    "168425d9fd93864f": {
+      "date": "2026-11-17",
+      "title": "Japan's Hometown Tax (2018)",
+      "source": "hackernews"
+    },
+    "5d1c3e812d7cecdf": {
+      "date": "2026-11-17",
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "source": "hackernews"
+    },
+    "654b49e71bc05232": {
+      "date": "2026-11-17",
+      "title": "How the Claude Code team thinks about verification",
+      "source": "hackernews"
+    },
+    "bc8214fb7a1b3788": {
+      "date": "2026-11-17",
+      "title": "VINC",
+      "source": "producthunt"
+    },
+    "1a8ff02699629121": {
+      "date": "2026-11-17",
+      "title": "Superhands",
+      "source": "producthunt"
+    },
+    "3bc065fa965bbd2e": {
+      "date": "2026-11-17",
+      "title": "Inbox Hero",
+      "source": "producthunt"
+    },
+    "ec8f50dbf7d75994": {
+      "date": "2026-11-17",
+      "title": "infaiw",
+      "source": "producthunt"
+    },
+    "099be174d846b2f2": {
+      "date": "2026-11-17",
+      "title": "ExtraDock 5",
+      "source": "producthunt"
+    },
+    "729ce0c9645be4b3": {
+      "date": "2026-11-17",
+      "title": "BASE Studio",
+      "source": "producthunt"
+    },
+    "6c4479e6539eaef0": {
+      "date": "2026-11-17",
+      "title": "Lampa Camera",
+      "source": "producthunt"
+    },
+    "55475054c04ff77f": {
+      "date": "2026-11-17",
+      "title": "Clamor",
+      "source": "producthunt"
+    },
+    "21302fb12d0b2e2d": {
+      "date": "2026-11-17",
+      "title": "cursor / plugins",
+      "source": "github"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-11-17",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "a90d342e2181a927": {
+      "date": "2026-11-17",
+      "title": "affaan-m / ECC",
+      "source": "github"
+    },
+    "73c10ecbf681fc5a": {
+      "date": "2026-11-17",
+      "title": "jingyaogong / minimind",
+      "source": "github"
+    },
+    "487802095d8af38c": {
+      "date": "2026-11-17",
+      "title": "Killed by Acronyms",
+      "source": "devto"
+    },
+    "5b52fafa2ae7991c": {
+      "date": "2026-11-17",
+      "title": "LLMs are compressors. So I chatted with gzip",
+      "source": "devto"
+    },
+    "1c509dff4c4fc87d": {
+      "date": "2026-11-17",
+      "title": "Strands to Strands over A2A on Bedrock AgentCore, With IAM as the Only Credential",
+      "source": "devto"
+    },
+    "e40c8144ee13b786": {
+      "date": "2026-11-17",
+      "title": "When an import becomes a zip bomb: bundle regressions in Next.js",
       "source": "devto"
     }
   }
