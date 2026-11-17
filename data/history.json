@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-17T11:57:37.973751",
+  "last_updated": "2026-11-17T13:45:45.106953",
   "sent_items": {
     "f3132748f6fdc29c": {
       "date": "2026-10-18",
@@ -8455,6 +8455,61 @@
     "e40c8144ee13b786": {
       "date": "2026-11-17",
       "title": "When an import becomes a zip bomb: bundle regressions in Next.js",
+      "source": "devto"
+    },
+    "d6c5d0c0f87bc606": {
+      "date": "2026-11-17",
+      "title": "Pinecall",
+      "source": "producthunt"
+    },
+    "fbdc8389b6aa3fe5": {
+      "date": "2026-11-17",
+      "title": "superlog",
+      "source": "producthunt"
+    },
+    "4c8c88e1e285dc25": {
+      "date": "2026-11-17",
+      "title": "RankSpot",
+      "source": "producthunt"
+    },
+    "b9edda0a8b45a430": {
+      "date": "2026-11-17",
+      "title": "GatherHQ Agent Research",
+      "source": "producthunt"
+    },
+    "4d8883b018d72d2c": {
+      "date": "2026-11-17",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "source": "hackernews"
+    },
+    "9f1a63900b251283": {
+      "date": "2026-11-17",
+      "title": "My Empire of Dirt",
+      "source": "hackernews"
+    },
+    "0aa64f1c5c5ffa9d": {
+      "date": "2026-11-17",
+      "title": "Rows vs. Columns: How different are they, really?",
+      "source": "hackernews"
+    },
+    "bb550ebe25cee33a": {
+      "date": "2026-11-17",
+      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
+      "source": "hackernews"
+    },
+    "1978f48f675b8472": {
+      "date": "2026-11-17",
+      "title": "Regulatory Capture by Anthropic Through METR",
+      "source": "hackernews"
+    },
+    "cae4083d17845580": {
+      "date": "2026-11-17",
+      "title": "Why sending notifications is a nightmare for engineers",
+      "source": "hackernews"
+    },
+    "9e7a13505beedb98": {
+      "date": "2026-11-17",
+      "title": "Stratagem #35: Lena Made the Promises Interlock. The AI Still Can't See ACL's Full Reach.",
       "source": "devto"
     }
   }
