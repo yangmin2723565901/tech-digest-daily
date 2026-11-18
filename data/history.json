@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-18T10:39:35.557421",
+  "last_updated": "2026-11-18T13:21:26.737075",
   "sent_items": {
     "1d3ebabc210fdaa2": {
       "date": "2026-10-19",
@@ -8586,6 +8586,76 @@
       "date": "2026-11-18",
       "title": "Git 2.56's git add --resolved only checks conflict markers while git still calls a file unmerged",
       "source": "devto"
+    },
+    "c99bf96c1b194a08": {
+      "date": "2026-11-18",
+      "title": "S.Space",
+      "source": "producthunt"
+    },
+    "3927e39625b62c9e": {
+      "date": "2026-11-18",
+      "title": "dusk bot",
+      "source": "producthunt"
+    },
+    "f23ef8cd1e260171": {
+      "date": "2026-11-18",
+      "title": "ICONS",
+      "source": "producthunt"
+    },
+    "44f31b7abff30b95": {
+      "date": "2026-11-18",
+      "title": "OX212",
+      "source": "producthunt"
+    },
+    "efbd3fd2a468089d": {
+      "date": "2026-11-18",
+      "title": "A Perfect SimCity",
+      "source": "hackernews"
+    },
+    "ef6ca5c8453243b4": {
+      "date": "2026-11-18",
+      "title": "IPv6 delegation, an unusually subtle failure mode",
+      "source": "hackernews"
+    },
+    "4a01bc12e65abc42": {
+      "date": "2026-11-18",
+      "title": "Rust Doesn't Have a Garbage Collector. It Has Something Stranger.",
+      "source": "devto"
+    },
+    "8255d5e22232cdce": {
+      "date": "2026-11-18",
+      "title": "Kubernetes Under the Hood: What Actually Happens When You Run kubectl apply",
+      "source": "devto"
+    },
+    "12e9527951797ad0": {
+      "date": "2026-11-18",
+      "title": "HKUDS / CLI-Anything",
+      "source": "github"
+    },
+    "e2e3cda3fa2e6709": {
+      "date": "2026-11-18",
+      "title": "nvm-sh / nvm",
+      "source": "github"
+    },
+    "11604bd2a851951e": {
+      "date": "2026-11-18",
+      "title": "astral-sh / uv",
+      "source": "github"
+    },
+    "1ee198102b89b069": {
+      "date": "2026-11-18",
+      "title": "jquery / jquery",
+      "source": "github"
+    },
+    "84f5bd39e1dea73e": {
+      "date": "2026-11-18",
+      "title": "appwrite / appwrite",
+      "source": "github"
+    },
+    "713e9e5ca9380149": {
+      "date": "2026-11-18",
+      "title": "openvinotoolkit / openvino",
+      "source": "github"
     }
   }
 }
