@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-18T13:21:26.737075",
+  "last_updated": "2026-11-18T19:02:47.196018",
   "sent_items": {
     "1d3ebabc210fdaa2": {
       "date": "2026-10-19",
@@ -8656,6 +8656,106 @@
       "date": "2026-11-18",
       "title": "openvinotoolkit / openvino",
       "source": "github"
+    },
+    "5076d6e49bdde790": {
+      "date": "2026-11-18",
+      "title": "Dippr",
+      "source": "producthunt"
+    },
+    "d22b1d0c6d6200a7": {
+      "date": "2026-11-18",
+      "title": "AI Canvas",
+      "source": "producthunt"
+    },
+    "61d62eea5077b328": {
+      "date": "2026-11-18",
+      "title": "Replay QA Self-healing Mode",
+      "source": "producthunt"
+    },
+    "18be8c8c7cf54308": {
+      "date": "2026-11-18",
+      "title": "Inside Deutsche Bank",
+      "source": "hackernews"
+    },
+    "59f76ddea9f3bdb4": {
+      "date": "2026-11-18",
+      "title": "Seven new models at scalable price-performance",
+      "source": "hackernews"
+    },
+    "49c7ad516bc4c9ad": {
+      "date": "2026-11-18",
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "source": "hackernews"
+    },
+    "2754003ca59a6a11": {
+      "date": "2026-11-18",
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "source": "hackernews"
+    },
+    "8e52d0e780400d01": {
+      "date": "2026-11-18",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "source": "hackernews"
+    },
+    "a39cae3252926074": {
+      "date": "2026-11-18",
+      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+      "source": "hackernews"
+    },
+    "2e2ecbfdb37edcc7": {
+      "date": "2026-11-18",
+      "title": "The x86 CPU: From 4004 to 486",
+      "source": "hackernews"
+    },
+    "269a7d05fabc0c48": {
+      "date": "2026-11-18",
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "source": "hackernews"
+    },
+    "c052452460bf7c9c": {
+      "date": "2026-11-18",
+      "title": "Advancing chip design with OpenAI models",
+      "source": "hackernews"
+    },
+    "38b8c8d5b4f16ab6": {
+      "date": "2026-11-18",
+      "title": "The Magic of Partial Evaluation",
+      "source": "hackernews"
+    },
+    "a6fab2943f7b4758": {
+      "date": "2026-11-18",
+      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar 💙 + AMA",
+      "source": "devto"
+    },
+    "ed6e9fcbf753eba7": {
+      "date": "2026-11-18",
+      "title": "One Year on DEV: The People Made the Platform",
+      "source": "devto"
+    },
+    "e59916ed710bb12f": {
+      "date": "2026-11-18",
+      "title": "The CodeNewbie Podcast is Back for Season 28!",
+      "source": "devto"
+    },
+    "185d317eb42ac1cc": {
+      "date": "2026-11-18",
+      "title": "I built a VS Code start page for my Git repositories",
+      "source": "devto"
+    },
+    "fe45d5bac34bc50b": {
+      "date": "2026-11-18",
+      "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
+      "source": "devto"
+    },
+    "086e3280fa593b34": {
+      "date": "2026-11-18",
+      "title": "What's your discovery process look like?",
+      "source": "devto"
+    },
+    "d28381ecc785ff87": {
+      "date": "2026-11-18",
+      "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
+      "source": "devto"
     }
   }
 }
