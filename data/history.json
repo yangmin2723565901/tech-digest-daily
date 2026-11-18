@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-18T02:34:16.017139",
+  "last_updated": "2026-11-18T10:39:35.557421",
   "sent_items": {
     "1d3ebabc210fdaa2": {
       "date": "2026-10-19",
@@ -8520,6 +8520,71 @@
     "91f5656b2814c10d": {
       "date": "2026-11-18",
       "title": "Beyond the Words: Exploring the Experience of Stuttering with AI and SmartSpectra",
+      "source": "devto"
+    },
+    "404de51681a23105": {
+      "date": "2026-11-18",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "source": "hackernews"
+    },
+    "2e96fcc4ec59ca53": {
+      "date": "2026-11-18",
+      "title": "Codeberg.org Not Reachable",
+      "source": "hackernews"
+    },
+    "e3b10a91d9ac7ef1": {
+      "date": "2026-11-18",
+      "title": "Talos Linux",
+      "source": "hackernews"
+    },
+    "e22ecb505fbc6544": {
+      "date": "2026-11-18",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "source": "hackernews"
+    },
+    "38a04391b8a0a3bf": {
+      "date": "2026-11-18",
+      "title": "lepoly",
+      "source": "producthunt"
+    },
+    "223aa6f3f517aca5": {
+      "date": "2026-11-18",
+      "title": "Mermaid Flow",
+      "source": "producthunt"
+    },
+    "41953bf07e82affd": {
+      "date": "2026-11-18",
+      "title": "KaDeep AI",
+      "source": "producthunt"
+    },
+    "2b81450175760b07": {
+      "date": "2026-11-18",
+      "title": "SaaS Toolkit MCP",
+      "source": "producthunt"
+    },
+    "bca71d417c607b96": {
+      "date": "2026-11-18",
+      "title": "Incredible Agents",
+      "source": "producthunt"
+    },
+    "12df9ddcf1f046c3": {
+      "date": "2026-11-18",
+      "title": "Is Coding with AI Actually Faster and Cheaper?",
+      "source": "devto"
+    },
+    "e22b88f21e58fed6": {
+      "date": "2026-11-18",
+      "title": "Part 6: The Walkthrough That Only Worked on My Machine",
+      "source": "devto"
+    },
+    "4e4c8a61b09315f7": {
+      "date": "2026-11-18",
+      "title": "Matt Pocock's Agent Skills: The Markdown Files Everyone's Installing (and Whether They Still Matter)",
+      "source": "devto"
+    },
+    "f60be138edcdb0b7": {
+      "date": "2026-11-18",
+      "title": "Git 2.56's git add --resolved only checks conflict markers while git still calls a file unmerged",
       "source": "devto"
     }
   }
