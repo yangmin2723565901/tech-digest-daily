@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-19T08:51:20.040857",
+  "last_updated": "2026-11-19T13:47:14.334899",
   "sent_items": {
     "19a3c0683bcc03fe": {
       "date": "2026-10-20",
@@ -8726,6 +8726,106 @@
       "date": "2026-11-19",
       "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
       "source": "devto"
+    },
+    "e31dfa5c1d914b34": {
+      "date": "2026-11-19",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "source": "hackernews"
+    },
+    "d047beb7a0b21936": {
+      "date": "2026-11-19",
+      "title": "SSD prices will start going down the second half of next year",
+      "source": "hackernews"
+    },
+    "8f2b991230dcf115": {
+      "date": "2026-11-19",
+      "title": "Garage Door Spam",
+      "source": "hackernews"
+    },
+    "5148cb148670b56a": {
+      "date": "2026-11-19",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "source": "hackernews"
+    },
+    "3cf1817adbe99e32": {
+      "date": "2026-11-19",
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "source": "hackernews"
+    },
+    "e4f205812f31a182": {
+      "date": "2026-11-19",
+      "title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
+      "source": "hackernews"
+    },
+    "cdc7c75f3f8a4a96": {
+      "date": "2026-11-19",
+      "title": "Mass launched to orbit each year by rocket builder",
+      "source": "hackernews"
+    },
+    "e83401f85efae597": {
+      "date": "2026-11-19",
+      "title": "TestSprite 4.0",
+      "source": "producthunt"
+    },
+    "374b50168ff5f402": {
+      "date": "2026-11-19",
+      "title": "Verse Engine by Ctruh",
+      "source": "producthunt"
+    },
+    "74ec9341f270b67c": {
+      "date": "2026-11-19",
+      "title": "ToolJet",
+      "source": "producthunt"
+    },
+    "a99f43e88722bf43": {
+      "date": "2026-11-19",
+      "title": "The Calm Creator Mastermind",
+      "source": "producthunt"
+    },
+    "14ae7f68c504073b": {
+      "date": "2026-11-19",
+      "title": "My First GitHub Issue & My First Forem (DEV.to) Issue 🚀",
+      "source": "devto"
+    },
+    "d2d78d7d5b3fe954": {
+      "date": "2026-11-19",
+      "title": "Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5",
+      "source": "devto"
+    },
+    "49a1c7e387a4e695": {
+      "date": "2026-11-19",
+      "title": "firecrawl / firecrawl",
+      "source": "github"
+    },
+    "604139543fc779f6": {
+      "date": "2026-11-19",
+      "title": "nginx / nginx",
+      "source": "github"
+    },
+    "f0faec98f86e4fde": {
+      "date": "2026-11-19",
+      "title": "cathrynlavery / diagram-design",
+      "source": "github"
+    },
+    "18fa349bfeb048c0": {
+      "date": "2026-11-19",
+      "title": "mjmirza / app-store-compliance",
+      "source": "github"
+    },
+    "aae07142a68b2769": {
+      "date": "2026-11-19",
+      "title": "Tracer-Cloud / opensre",
+      "source": "github"
+    },
+    "4815469146dd988a": {
+      "date": "2026-11-19",
+      "title": "toeverything / AFFiNE",
+      "source": "github"
+    },
+    "444504f4778cdf59": {
+      "date": "2026-11-19",
+      "title": "XiaoYouChR / Ghost-Downloader-3",
+      "source": "github"
     }
   }
 }
