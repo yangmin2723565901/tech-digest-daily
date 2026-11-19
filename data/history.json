@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-19T01:15:33.346043",
+  "last_updated": "2026-11-19T08:51:20.040857",
   "sent_items": {
     "19a3c0683bcc03fe": {
       "date": "2026-10-20",
@@ -8650,6 +8650,81 @@
     "8a34e97c1e230e3a": {
       "date": "2026-11-19",
       "title": "My Linux Course Put Me to Sleep, So I Built Something That Wouldn’t",
+      "source": "devto"
+    },
+    "d3a1bbdb81250830": {
+      "date": "2026-11-19",
+      "title": "Anthropic prices initial public offering",
+      "source": "hackernews"
+    },
+    "63406ecc74b10162": {
+      "date": "2026-11-19",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "source": "hackernews"
+    },
+    "3a250d72cb478971": {
+      "date": "2026-11-19",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "source": "hackernews"
+    },
+    "b46eb48d0f4ab98e": {
+      "date": "2026-11-19",
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "source": "hackernews"
+    },
+    "ac1d64fad45c2e05": {
+      "date": "2026-11-19",
+      "title": "Tabstack by Mozilla",
+      "source": "producthunt"
+    },
+    "7cb4ba1124775d0f": {
+      "date": "2026-11-19",
+      "title": "Tecla",
+      "source": "producthunt"
+    },
+    "e2674157332c28a0": {
+      "date": "2026-11-19",
+      "title": "Fieldwork Code",
+      "source": "producthunt"
+    },
+    "5481a2fdc18c2482": {
+      "date": "2026-11-19",
+      "title": "Spellar for Chrome",
+      "source": "producthunt"
+    },
+    "64026ccdd2c69ef7": {
+      "date": "2026-11-19",
+      "title": "OfinTech Desk",
+      "source": "producthunt"
+    },
+    "b8606528654d2e91": {
+      "date": "2026-11-19",
+      "title": "Source",
+      "source": "producthunt"
+    },
+    "e8e440f15cf37bcd": {
+      "date": "2026-11-19",
+      "title": "Rezora IO",
+      "source": "producthunt"
+    },
+    "bc7a013ad400b432": {
+      "date": "2026-11-19",
+      "title": "Cleared",
+      "source": "producthunt"
+    },
+    "8e67c9bb2ab1aa7d": {
+      "date": "2026-11-19",
+      "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
+      "source": "devto"
+    },
+    "ef00271514933eaa": {
+      "date": "2026-11-19",
+      "title": "Day 86: A Per-Host Variable and an Account-Wide Rule",
+      "source": "devto"
+    },
+    "fe9ea43a28ad537d": {
+      "date": "2026-11-19",
+      "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
       "source": "devto"
     }
   }
