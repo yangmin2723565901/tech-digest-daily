@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-19T13:47:14.334899",
+  "last_updated": "2026-11-19T17:53:38.088357",
   "sent_items": {
     "19a3c0683bcc03fe": {
       "date": "2026-10-20",
@@ -8826,6 +8826,61 @@
       "date": "2026-11-19",
       "title": "XiaoYouChR / Ghost-Downloader-3",
       "source": "github"
+    },
+    "4ff3d96b3f9f2903": {
+      "date": "2026-11-19",
+      "title": "Noteshell",
+      "source": "producthunt"
+    },
+    "5fb8f830592fe644": {
+      "date": "2026-11-19",
+      "title": "Someone reported java4shell bug in September 2026",
+      "source": "hackernews"
+    },
+    "e2aa3b3c6a3069df": {
+      "date": "2026-11-19",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "source": "hackernews"
+    },
+    "37e70e4bc208ab36": {
+      "date": "2026-11-19",
+      "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+      "source": "hackernews"
+    },
+    "a7cb411978d2df62": {
+      "date": "2026-11-19",
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "source": "hackernews"
+    },
+    "9bb75d570378d970": {
+      "date": "2026-11-19",
+      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "source": "hackernews"
+    },
+    "436d85b7150845a8": {
+      "date": "2026-11-19",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "source": "hackernews"
+    },
+    "684a68fc2f4223a7": {
+      "date": "2026-11-19",
+      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
+      "source": "devto"
+    },
+    "6b1c036395ef029a": {
+      "date": "2026-11-19",
+      "title": "What this week's nginx HTTP/2 CVEs mean for the server I actually run",
+      "source": "devto"
+    },
+    "0395980146e723f3": {
+      "date": "2026-11-19",
+      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
+      "source": "devto"
+    },
+    "24129228b8113095": {
+      "date": "2026-11-19",
+      "title": "Porto TechHub 2026",
+      "source": "devto"
     }
   }
 }
