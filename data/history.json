@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-19T17:53:38.088357",
+  "last_updated": "2026-11-20T00:07:55.444708",
   "sent_items": {
-    "19a3c0683bcc03fe": {
-      "date": "2026-10-20",
-      "title": "Wine ported to OpenBSD",
-      "source": "hackernews"
-    },
-    "1af6c2e715d91186": {
-      "date": "2026-10-20",
-      "title": "It's still ok to enjoy programming",
-      "source": "hackernews"
-    },
-    "d8658eaddd74a3e8": {
-      "date": "2026-10-20",
-      "title": "MiniMax M3.1 Flash",
-      "source": "hackernews"
-    },
-    "db5f663b7be3c942": {
-      "date": "2026-10-20",
-      "title": "I built a drone with only one motor [video]",
-      "source": "hackernews"
-    },
-    "a65ef343d83cb156": {
-      "date": "2026-10-20",
-      "title": "Android apps running native on macOS",
-      "source": "hackernews"
-    },
-    "292eae1133616bb3": {
-      "date": "2026-10-20",
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "source": "hackernews"
-    },
-    "9459652c95376f6e": {
-      "date": "2026-10-20",
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "source": "hackernews"
-    },
-    "6d511e322ef51973": {
-      "date": "2026-10-20",
-      "title": "One Hash Bloom Filters",
-      "source": "hackernews"
-    },
-    "1add435d686b07d4": {
-      "date": "2026-10-20",
-      "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
-      "source": "hackernews"
-    },
-    "e51eca98a9e9a706": {
-      "date": "2026-10-20",
-      "title": "Weball: Play Katamari on Websites",
-      "source": "hackernews"
-    },
-    "456eacc2060c10f2": {
-      "date": "2026-10-20",
-      "title": "Lookout (for Slack)",
-      "source": "producthunt"
-    },
-    "1bd9cd0e13ad6c32": {
-      "date": "2026-10-20",
-      "title": "Wally by Willow",
-      "source": "producthunt"
-    },
-    "7b34008d53ca1989": {
-      "date": "2026-10-20",
-      "title": "Beam.win",
-      "source": "producthunt"
-    },
-    "63c4f0dcfdcfeec1": {
-      "date": "2026-10-20",
-      "title": "AutoChart.eu",
-      "source": "producthunt"
-    },
-    "6074338d2306f3c7": {
-      "date": "2026-10-20",
-      "title": "DoOne",
-      "source": "producthunt"
-    },
-    "a732a627bea597c0": {
-      "date": "2026-10-20",
-      "title": "Starkomand",
-      "source": "producthunt"
-    },
-    "568b48516bba0337": {
-      "date": "2026-10-20",
-      "title": "croft",
-      "source": "producthunt"
-    },
-    "2c35a918b02ef306": {
-      "date": "2026-10-20",
-      "title": "Bank alerts to a day-book, with a local Gemma",
-      "source": "devto"
-    },
-    "a784499c9d359521": {
-      "date": "2026-10-20",
-      "title": "\"Rails Magic\" Isn't Magic. How a Request Actually Travels Through Rails.",
-      "source": "devto"
-    },
-    "f8951ffab99f3f67": {
-      "date": "2026-10-20",
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "source": "devto"
-    },
-    "f7811833e611c461": {
-      "date": "2026-10-20",
-      "title": "The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)",
-      "source": "devto"
-    },
-    "3473e814f31c95cd": {
-      "date": "2026-10-20",
-      "title": "Writing C for the Web in 2026 Isn't Insane. It Might Be the Future",
-      "source": "devto"
-    },
-    "04d5d19a98dd9edc": {
-      "date": "2026-10-20",
-      "title": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix It)",
-      "source": "devto"
-    },
-    "54fe5063732751c7": {
-      "date": "2026-10-20",
-      "title": "I built an AWS agent that scores any GitHub repo before you clone it",
-      "source": "devto"
-    },
-    "2a3adb7a85eeae71": {
-      "date": "2026-10-20",
-      "title": "Persistent Agent Teams: Recreating the Grok Bot Experience with Herdr, Claude Code and Pi",
-      "source": "devto"
-    },
-    "589f58b5a1ebad99": {
-      "date": "2026-10-20",
-      "title": "The Browser Already Has a Priority System. Your debounce(300) Does Not.",
-      "source": "devto"
-    },
-    "15306d9627d26e75": {
-      "date": "2026-10-20",
-      "title": "Your agent's retry bug isn't an AI problem. It's a distributed-systems problem with an LLM on top.",
-      "source": "devto"
-    },
-    "fa9f0509ee9eaa8b": {
-      "date": "2026-10-20",
-      "title": "headroomlabs-ai / headroom",
-      "source": "github"
-    },
-    "fb26d76e5a0fe664": {
-      "date": "2026-10-20",
-      "title": "withmarbleapp / os-taxonomy",
-      "source": "github"
-    },
-    "c175a33fc9954c9b": {
-      "date": "2026-10-20",
-      "title": "shiyu-coder / Kronos",
-      "source": "github"
-    },
     "e793423216723e8d": {
       "date": "2026-10-21",
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -8880,6 +8730,86 @@
     "24129228b8113095": {
       "date": "2026-11-19",
       "title": "Porto TechHub 2026",
+      "source": "devto"
+    },
+    "24e3e4aa5a875ba1": {
+      "date": "2026-11-20",
+      "title": "Anthropic’s Nasdaq debut",
+      "source": "hackernews"
+    },
+    "524093c34a9e096b": {
+      "date": "2026-11-20",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "source": "hackernews"
+    },
+    "152a51b24f6c7410": {
+      "date": "2026-11-20",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "source": "hackernews"
+    },
+    "70029e04d8891f01": {
+      "date": "2026-11-20",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "source": "hackernews"
+    },
+    "954f2ca4d6deaa68": {
+      "date": "2026-11-20",
+      "title": "How to CAD Almost Anything",
+      "source": "hackernews"
+    },
+    "7738d19f5befa478": {
+      "date": "2026-11-20",
+      "title": "Synology Security Advisory",
+      "source": "hackernews"
+    },
+    "654ea57578223a6e": {
+      "date": "2026-11-20",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "source": "hackernews"
+    },
+    "c820bce1f1de6ba7": {
+      "date": "2026-11-20",
+      "title": "RegExr: Temporarily Offline",
+      "source": "hackernews"
+    },
+    "e470a75734b9907f": {
+      "date": "2026-11-20",
+      "title": "Gemini 4 Neon",
+      "source": "producthunt"
+    },
+    "1b0d60662d14d4c0": {
+      "date": "2026-11-20",
+      "title": "Nuko",
+      "source": "producthunt"
+    },
+    "9f29530907db9193": {
+      "date": "2026-11-20",
+      "title": "CodeDesign v3",
+      "source": "producthunt"
+    },
+    "002c28aac8013066": {
+      "date": "2026-11-20",
+      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in G",
+      "source": "devto"
+    },
+    "c5b07f6e3bd64d27": {
+      "date": "2026-11-20",
+      "title": "Day 87: A Redirected Module and a Renamed Publisher",
+      "source": "devto"
+    },
+    "83ea1adff6677833": {
+      "date": "2026-11-20",
+      "title": "Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs",
+      "source": "devto"
+    },
+    "a096478494444c9b": {
+      "date": "2026-11-20",
+      "title": "Which Gemini Model Should You Use? Neon, Argon, Hydrogen, Carbon, Flash or Gemma. It Depends.",
+      "source": "devto"
+    },
+    "1224798c0fd9664f": {
+      "date": "2026-11-20",
+      "title": "Publishing Markdown to a LinkedIn Article from an Agent Skill",
       "source": "devto"
     }
   }
