@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-20T13:29:38.983997",
+  "last_updated": "2026-11-20T16:20:53.737260",
   "sent_items": {
     "e793423216723e8d": {
       "date": "2026-10-21",
@@ -8965,6 +8965,71 @@
     "1c94dc9b3fcc2538": {
       "date": "2026-11-20",
       "title": "Spec-Driven Development: The New Waterfall, and It's a Good Thing",
+      "source": "devto"
+    },
+    "9d1da816f0581805": {
+      "date": "2026-11-20",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "source": "hackernews"
+    },
+    "42c121b5a19b9c70": {
+      "date": "2026-11-20",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "source": "hackernews"
+    },
+    "4e310194419e2047": {
+      "date": "2026-11-20",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "source": "hackernews"
+    },
+    "8d70a8397ea6f456": {
+      "date": "2026-11-20",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "source": "hackernews"
+    },
+    "06f89443d79488cf": {
+      "date": "2026-11-20",
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "source": "hackernews"
+    },
+    "a71bc405a9e245cc": {
+      "date": "2026-11-20",
+      "title": "The G1 Garbage Collector",
+      "source": "hackernews"
+    },
+    "348aa8e711b8732d": {
+      "date": "2026-11-20",
+      "title": "Lumyna Community Challenge",
+      "source": "producthunt"
+    },
+    "667496aca3499fe8": {
+      "date": "2026-11-20",
+      "title": "Saparo",
+      "source": "producthunt"
+    },
+    "a3282bc6cfe8602c": {
+      "date": "2026-11-20",
+      "title": "tripps",
+      "source": "producthunt"
+    },
+    "5572ac3b77b2eb12": {
+      "date": "2026-11-20",
+      "title": "Cup of Sugar",
+      "source": "producthunt"
+    },
+    "9d739483744e944c": {
+      "date": "2026-11-20",
+      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
+      "source": "devto"
+    },
+    "9cff159d7e57a4f0": {
+      "date": "2026-11-20",
+      "title": "Everybody Has an AI Apocalypse Story. Almost Nobody Reads the Fine Print.",
+      "source": "devto"
+    },
+    "2ee09ee6524bb58c": {
+      "date": "2026-11-20",
+      "title": "llama.cpp on a Cloud TPU: An Unofficial ggml Backend Through XLA",
       "source": "devto"
     }
   }
