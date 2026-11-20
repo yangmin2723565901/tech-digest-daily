@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-20T07:22:38.988885",
+  "last_updated": "2026-11-20T13:29:38.983997",
   "sent_items": {
     "e793423216723e8d": {
       "date": "2026-10-21",
@@ -8865,6 +8865,106 @@
     "6f27ebb19aa8052a": {
       "date": "2026-11-20",
       "title": "Can a plain table hijack an AI agent?",
+      "source": "devto"
+    },
+    "b2e90aac5dc2640b": {
+      "date": "2026-11-20",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "source": "hackernews"
+    },
+    "a4fd9cbf225b3999": {
+      "date": "2026-11-20",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "source": "hackernews"
+    },
+    "d0ecde2f1b6641e6": {
+      "date": "2026-11-20",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "source": "hackernews"
+    },
+    "dd211daa92edf11e": {
+      "date": "2026-11-20",
+      "title": "UK fridges secured from hackers",
+      "source": "hackernews"
+    },
+    "96c3844d968b90dc": {
+      "date": "2026-11-20",
+      "title": "The Making of Oxygene",
+      "source": "hackernews"
+    },
+    "eef0869c2ef75d7f": {
+      "date": "2026-11-20",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "source": "hackernews"
+    },
+    "74339577d62b54dc": {
+      "date": "2026-11-20",
+      "title": "What people are building, discovered through new domains",
+      "source": "hackernews"
+    },
+    "36fc2aa6ea1098d2": {
+      "date": "2026-11-20",
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "source": "hackernews"
+    },
+    "35a13984f65f83d1": {
+      "date": "2026-11-20",
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "source": "hackernews"
+    },
+    "681e7c17d880e575": {
+      "date": "2026-11-20",
+      "title": "Mailpipe",
+      "source": "producthunt"
+    },
+    "0598d9d25a0366b5": {
+      "date": "2026-11-20",
+      "title": "Andromon",
+      "source": "producthunt"
+    },
+    "cc085223a9d904b1": {
+      "date": "2026-11-20",
+      "title": "Storiara",
+      "source": "producthunt"
+    },
+    "bae745499cd5547d": {
+      "date": "2026-11-20",
+      "title": "Samiksa",
+      "source": "producthunt"
+    },
+    "014a49a298823b92": {
+      "date": "2026-11-20",
+      "title": "Veryfi Thinking Mode",
+      "source": "producthunt"
+    },
+    "32f11a73dcfde22d": {
+      "date": "2026-11-20",
+      "title": "Tamekoshi",
+      "source": "producthunt"
+    },
+    "a81c6c71acbf1631": {
+      "date": "2026-11-20",
+      "title": "UndoGuard",
+      "source": "producthunt"
+    },
+    "643b4daa04a3f6db": {
+      "date": "2026-11-20",
+      "title": "I can't believe the podcast I learned to code with is back!",
+      "source": "devto"
+    },
+    "b8bf8396a337ebaa": {
+      "date": "2026-11-20",
+      "title": "I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for",
+      "source": "devto"
+    },
+    "39685f5a39e213bd": {
+      "date": "2026-11-20",
+      "title": "Tool Names Are Identifiers. Don't Autocorrect Them.",
+      "source": "devto"
+    },
+    "1c94dc9b3fcc2538": {
+      "date": "2026-11-20",
+      "title": "Spec-Driven Development: The New Waterfall, and It's a Good Thing",
       "source": "devto"
     }
   }
