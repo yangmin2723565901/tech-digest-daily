@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-20T16:20:53.737260",
+  "last_updated": "2026-11-20T22:48:15.824641",
   "sent_items": {
     "e793423216723e8d": {
       "date": "2026-10-21",
@@ -9030,6 +9030,106 @@
     "2ee09ee6524bb58c": {
       "date": "2026-11-20",
       "title": "llama.cpp on a Cloud TPU: An Unofficial ggml Backend Through XLA",
+      "source": "devto"
+    },
+    "33f1c89959a2e456": {
+      "date": "2026-11-20",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "source": "hackernews"
+    },
+    "46f23bce9e4ea947": {
+      "date": "2026-11-20",
+      "title": "Inkling 2 Mini",
+      "source": "hackernews"
+    },
+    "0270b6d9d4beb27d": {
+      "date": "2026-11-20",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "source": "hackernews"
+    },
+    "5baa5d8333d6108e": {
+      "date": "2026-11-20",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "source": "hackernews"
+    },
+    "43b42b1154d1e355": {
+      "date": "2026-11-20",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "source": "hackernews"
+    },
+    "849c3e9c8182812f": {
+      "date": "2026-11-20",
+      "title": "We promoted developers into architects without informing them",
+      "source": "hackernews"
+    },
+    "24e38947c46ef4a7": {
+      "date": "2026-11-20",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "source": "hackernews"
+    },
+    "ad5d1aba4205ba1f": {
+      "date": "2026-11-20",
+      "title": "Vibecoding an inference chip",
+      "source": "hackernews"
+    },
+    "8eb38a123d1da1a4": {
+      "date": "2026-11-20",
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "source": "hackernews"
+    },
+    "8c5a0fd61f16819c": {
+      "date": "2026-11-20",
+      "title": "pickfit",
+      "source": "producthunt"
+    },
+    "1fd2bbd59a178f5c": {
+      "date": "2026-11-20",
+      "title": "DWaste",
+      "source": "producthunt"
+    },
+    "1b34fb4237846fe9": {
+      "date": "2026-11-20",
+      "title": "ThreadLore",
+      "source": "producthunt"
+    },
+    "1a2249c8b30d7a16": {
+      "date": "2026-11-20",
+      "title": "Rox",
+      "source": "producthunt"
+    },
+    "ebdbb5408dff2227": {
+      "date": "2026-11-20",
+      "title": "Dozy",
+      "source": "producthunt"
+    },
+    "e44d10d2afb5a7bb": {
+      "date": "2026-11-20",
+      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
+      "source": "devto"
+    },
+    "aa712570634f2655": {
+      "date": "2026-11-20",
+      "title": "Dev Opportunity Radar #26: $85K Claude Corps Fellowship, a16z FDE Fellowship, and Reddit's $35K Game",
+      "source": "devto"
+    },
+    "dd54a43c84931db4": {
+      "date": "2026-11-20",
+      "title": "Cozy Bytes 🍺 | Rust::Who Owns the Cat? 🐈🦀",
+      "source": "devto"
+    },
+    "88afc8581611d138": {
+      "date": "2026-11-20",
+      "title": "Your Error Survived the Wrapper. Did Its Code Survive the Trace?",
+      "source": "devto"
+    },
+    "0fdf3d3e35b610ff": {
+      "date": "2026-11-20",
+      "title": "Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB Express, With a Database Bill You Can ",
+      "source": "devto"
+    },
+    "d6b70cd5b83e334e": {
+      "date": "2026-11-20",
+      "title": "Building an Autonomous LinkedIn Portfolio & Recommendation Agent with Gemini Computer Use on Google ",
       "source": "devto"
     }
   }
