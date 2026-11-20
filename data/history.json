@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-20T00:07:55.444708",
+  "last_updated": "2026-11-20T07:22:38.988885",
   "sent_items": {
     "e793423216723e8d": {
       "date": "2026-10-21",
@@ -8810,6 +8810,61 @@
     "1224798c0fd9664f": {
       "date": "2026-11-20",
       "title": "Publishing Markdown to a LinkedIn Article from an Agent Skill",
+      "source": "devto"
+    },
+    "aecc679e53de8aac": {
+      "date": "2026-11-20",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "source": "hackernews"
+    },
+    "083c1eec1622d08c": {
+      "date": "2026-11-20",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "source": "hackernews"
+    },
+    "7cc9e87987cf510e": {
+      "date": "2026-11-20",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "source": "hackernews"
+    },
+    "517b0ea7548bb9db": {
+      "date": "2026-11-20",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "source": "hackernews"
+    },
+    "56eb8ec05c7079e9": {
+      "date": "2026-11-20",
+      "title": "FFmpeg 9.1 'Gauss'",
+      "source": "hackernews"
+    },
+    "6ca9665bdc212bcd": {
+      "date": "2026-11-20",
+      "title": "Jujutsu Primer",
+      "source": "hackernews"
+    },
+    "6bfde345cb82cac6": {
+      "date": "2026-11-20",
+      "title": "Bit Shifting in Basic",
+      "source": "hackernews"
+    },
+    "670ec7b809ca039a": {
+      "date": "2026-11-20",
+      "title": "What team-wide AI adoption actually takes",
+      "source": "devto"
+    },
+    "29d573115f479a39": {
+      "date": "2026-11-20",
+      "title": "Maintaining open source projects up to date with Renovate and Antigravity",
+      "source": "devto"
+    },
+    "9d0c5626f7a6d402": {
+      "date": "2026-11-20",
+      "title": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026",
+      "source": "devto"
+    },
+    "6f27ebb19aa8052a": {
+      "date": "2026-11-20",
+      "title": "Can a plain table hijack an AI agent?",
       "source": "devto"
     }
   }
