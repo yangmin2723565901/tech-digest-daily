@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-21T12:56:08.929871",
+  "last_updated": "2026-11-21T18:44:03.313146",
   "sent_items": {
     "7e66077374df146d": {
       "date": "2026-10-22",
@@ -9120,6 +9120,56 @@
     "f685bb94d72f0c98": {
       "date": "2026-11-21",
       "title": "Microsoft Ignite 2026: Every Announcement, Sorted (Models, GitHub Copilot, Azure, Windows & More)",
+      "source": "devto"
+    },
+    "2df9c52b7c22e96a": {
+      "date": "2026-11-21",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "source": "hackernews"
+    },
+    "13b40b11332332ff": {
+      "date": "2026-11-21",
+      "title": "Detonating a pile of lead azide",
+      "source": "hackernews"
+    },
+    "9d931fe29c78b0ea": {
+      "date": "2026-11-21",
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "source": "hackernews"
+    },
+    "386beabd2302aa4d": {
+      "date": "2026-11-21",
+      "title": "PostgreSQL Extensions in Go",
+      "source": "hackernews"
+    },
+    "3e31e4e8a06b34ad": {
+      "date": "2026-11-21",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "source": "hackernews"
+    },
+    "d4e6dd6b21d36d03": {
+      "date": "2026-11-21",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "source": "hackernews"
+    },
+    "ba05dace6cb0da4e": {
+      "date": "2026-11-21",
+      "title": "Beat Watcher",
+      "source": "producthunt"
+    },
+    "f0ceeae6c50df059": {
+      "date": "2026-11-21",
+      "title": "Test the npm Package, Not Just the Monorepo",
+      "source": "devto"
+    },
+    "5e9604e6c646fdd9": {
+      "date": "2026-11-21",
+      "title": "A VS Code extension to turn ANY free chatbot website into an AI agent (kind of)",
+      "source": "devto"
+    },
+    "7ac0646e031ac66f": {
+      "date": "2026-11-21",
+      "title": "Your IR Runbook Is a PDF Nobody Reads at 3 AM. I Turned Mine Into a State Machine.",
       "source": "devto"
     }
   }
