@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-21T03:41:44.574153",
+  "last_updated": "2026-11-21T11:57:29.373238",
   "sent_items": {
     "7e66077374df146d": {
       "date": "2026-10-22",
@@ -9010,6 +9010,86 @@
     "0671ec0c303915df": {
       "date": "2026-11-21",
       "title": "Day 88: A Marker in the File and a Disputed Status Code",
+      "source": "devto"
+    },
+    "d1b3e875681965f8": {
+      "date": "2026-11-21",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "source": "hackernews"
+    },
+    "bb26c35d25c6b202": {
+      "date": "2026-11-21",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "source": "hackernews"
+    },
+    "7ca85af00a1d90d5": {
+      "date": "2026-11-21",
+      "title": "Surprisingly Adorable Insect Portraits",
+      "source": "hackernews"
+    },
+    "75d173e1a6fffff9": {
+      "date": "2026-11-21",
+      "title": "RCE in Gnupg",
+      "source": "hackernews"
+    },
+    "fd09c3129c621a01": {
+      "date": "2026-11-21",
+      "title": "Doddle",
+      "source": "producthunt"
+    },
+    "9aaa0345b7cdbce2": {
+      "date": "2026-11-21",
+      "title": "Alter Contacts",
+      "source": "producthunt"
+    },
+    "41b94431dca62e07": {
+      "date": "2026-11-21",
+      "title": "Shipyard",
+      "source": "producthunt"
+    },
+    "a42c96d86f190156": {
+      "date": "2026-11-21",
+      "title": "Publicit",
+      "source": "producthunt"
+    },
+    "fe385fdbdf46b452": {
+      "date": "2026-11-21",
+      "title": "WaitFeed",
+      "source": "producthunt"
+    },
+    "ba4f3b8de8c71230": {
+      "date": "2026-11-21",
+      "title": "Backspin",
+      "source": "producthunt"
+    },
+    "230e71fbd9c1b915": {
+      "date": "2026-11-21",
+      "title": "gitroots",
+      "source": "producthunt"
+    },
+    "487f252ec9758bc1": {
+      "date": "2026-11-21",
+      "title": "Stitch Loop",
+      "source": "producthunt"
+    },
+    "cd87776884a68b1e": {
+      "date": "2026-11-21",
+      "title": "🐱 The Function Factory of Necoz! ⚙️ | Learning Python Functions 🚀",
+      "source": "devto"
+    },
+    "f0f948d8f6d5970e": {
+      "date": "2026-11-21",
+      "title": "Day 89: A Dead Service and a Private Container That Serves",
+      "source": "devto"
+    },
+    "7287a193035d436a": {
+      "date": "2026-11-21",
+      "title": "Harvard Says Most Organizations are Using AI Write More Code but Don't Deliver More. Here's How to F",
+      "source": "devto"
+    },
+    "2b83c56e190099ee": {
+      "date": "2026-11-21",
+      "title": "I built an app so I stop crashing out at work",
       "source": "devto"
     }
   }
