@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-21T18:44:03.313146",
+  "last_updated": "2026-11-21T23:40:09.595962",
   "sent_items": {
     "7e66077374df146d": {
       "date": "2026-10-22",
@@ -9170,6 +9170,51 @@
     "7ac0646e031ac66f": {
       "date": "2026-11-21",
       "title": "Your IR Runbook Is a PDF Nobody Reads at 3 AM. I Turned Mine Into a State Machine.",
+      "source": "devto"
+    },
+    "22947b19473be0ba": {
+      "date": "2026-11-21",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "source": "hackernews"
+    },
+    "096fc0d5fb4f86c0": {
+      "date": "2026-11-21",
+      "title": "Getting the mind to steer the body to steer you",
+      "source": "hackernews"
+    },
+    "4f37a0a2fb58333e": {
+      "date": "2026-11-21",
+      "title": "Advice for the next 100 Rust GUIs",
+      "source": "hackernews"
+    },
+    "7f062c485c75764b": {
+      "date": "2026-11-21",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "source": "hackernews"
+    },
+    "6fb235468c6211b7": {
+      "date": "2026-11-21",
+      "title": "Windows has two settings that bring work back after restart, both off by default",
+      "source": "hackernews"
+    },
+    "e7bce4a7c8f88cea": {
+      "date": "2026-11-21",
+      "title": "Hollr",
+      "source": "producthunt"
+    },
+    "3a4df75006d55f58": {
+      "date": "2026-11-21",
+      "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
+      "source": "devto"
+    },
+    "30d044a98996694e": {
+      "date": "2026-11-21",
+      "title": "What survived when I moved a small Compose app into Swarm mode",
+      "source": "devto"
+    },
+    "de54ce2ad267532f": {
+      "date": "2026-11-21",
+      "title": "AfterBurn Timer🔥 - SmartSpectra SDK Project",
       "source": "devto"
     }
   }
