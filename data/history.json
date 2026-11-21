@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-20T22:48:15.824641",
+  "last_updated": "2026-11-21T03:41:44.574153",
   "sent_items": {
-    "e793423216723e8d": {
-      "date": "2026-10-21",
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "source": "hackernews"
-    },
-    "8c0b1155a849d858": {
-      "date": "2026-10-21",
-      "title": "SimCity, but with Permits",
-      "source": "hackernews"
-    },
-    "90e3b37a09eaeb60": {
-      "date": "2026-10-21",
-      "title": "Voxtral 3",
-      "source": "hackernews"
-    },
-    "bdeb631f6f9a291c": {
-      "date": "2026-10-21",
-      "title": "Apple broke an essential presentation feature of iPads",
-      "source": "hackernews"
-    },
-    "d3ee06814378730b": {
-      "date": "2026-10-21",
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "source": "hackernews"
-    },
-    "1d253486e5feda91": {
-      "date": "2026-10-21",
-      "title": "What shall I teach my son?",
-      "source": "hackernews"
-    },
-    "471f77cea11f4b35": {
-      "date": "2026-10-21",
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "source": "hackernews"
-    },
-    "0afec035bdd69211": {
-      "date": "2026-10-21",
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "source": "hackernews"
-    },
-    "1f5b4f3065bd928a": {
-      "date": "2026-10-21",
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "source": "hackernews"
-    },
-    "e375e9eefb62c1b3": {
-      "date": "2026-10-21",
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "source": "hackernews"
-    },
-    "6ada322f070ec608": {
-      "date": "2026-10-21",
-      "title": "Harness²",
-      "source": "producthunt"
-    },
-    "73ee8b7fb51c840a": {
-      "date": "2026-10-21",
-      "title": "RunInfra",
-      "source": "producthunt"
-    },
-    "1dfd383b80472a8c": {
-      "date": "2026-10-21",
-      "title": "snyvi",
-      "source": "producthunt"
-    },
-    "20f886f56519a43c": {
-      "date": "2026-10-21",
-      "title": "Capitol Alpha Machine",
-      "source": "producthunt"
-    },
-    "28da362835dd06a2": {
-      "date": "2026-10-21",
-      "title": "xtty",
-      "source": "producthunt"
-    },
-    "f5dab01ba420915d": {
-      "date": "2026-10-21",
-      "title": "/dev/null",
-      "source": "producthunt"
-    },
-    "89eae79648d31a0d": {
-      "date": "2026-10-21",
-      "title": "bonds",
-      "source": "producthunt"
-    },
-    "4dffa71c923264fa": {
-      "date": "2026-10-21",
-      "title": "OpenShip Cloud",
-      "source": "producthunt"
-    },
-    "cae67d518fcb9bb4": {
-      "date": "2026-10-21",
-      "title": "Somewhere, Coding Stopped Being Allowed to Be Fun",
-      "source": "devto"
-    },
-    "3502e09b62fc813d": {
-      "date": "2026-10-21",
-      "title": "An App Built for One: Why a Devpost Skill Pack Made Me Spec It Anyway",
-      "source": "devto"
-    },
-    "843ee6721b017bdd": {
-      "date": "2026-10-21",
-      "title": "I Miss Writing Code",
-      "source": "devto"
-    },
-    "dfebcd8587492a20": {
-      "date": "2026-10-21",
-      "title": "Qwen3.8-Flash-Next vs Claude Opus 5.5: Six-way benchmark on a real Rust feature",
-      "source": "devto"
-    },
-    "36ff65a333ba6eb9": {
-      "date": "2026-10-21",
-      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
-      "source": "devto"
-    },
-    "b0bd08c132c8d14d": {
-      "date": "2026-10-21",
-      "title": "2 Agent Skills Every Frontend Developer Should Try",
-      "source": "devto"
-    },
-    "d0ab0c724bc18a04": {
-      "date": "2026-10-21",
-      "title": "Dev log #26 Deep in the libp2p weeds: Fixing DHT prefixes and Yamux resets",
-      "source": "devto"
-    },
-    "e83d90b3a6365fc9": {
-      "date": "2026-10-21",
-      "title": "Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust",
-      "source": "devto"
-    },
-    "df496e84317aff9d": {
-      "date": "2026-10-21",
-      "title": "Tuesday Isn't a Valid State Transition",
-      "source": "devto"
-    },
-    "75c5886a8bd5b06c": {
-      "date": "2026-10-21",
-      "title": "Is Claude taking control of my development skills? I went looking for proof.",
-      "source": "devto"
-    },
-    "1a92f63bf14a6dae": {
-      "date": "2026-10-21",
-      "title": "cloudflare / security-audit-skill",
-      "source": "github"
-    },
-    "68a6c284cff5d619": {
-      "date": "2026-10-21",
-      "title": "Graphify-Labs / graphify",
-      "source": "github"
-    },
-    "8b104053cac10bb4": {
-      "date": "2026-10-21",
-      "title": "anthropics / knowledge-work-plugins",
-      "source": "github"
-    },
-    "9027d8fb2aab13ec": {
-      "date": "2026-10-21",
-      "title": "wshobson / agents",
-      "source": "github"
-    },
-    "ff1ceb5a331e6f4a": {
-      "date": "2026-10-21",
-      "title": "sickn33 / agentic-awesome-skills",
-      "source": "github"
-    },
-    "6caed060135fb093": {
-      "date": "2026-10-21",
-      "title": "vllm-project / vllm",
-      "source": "github"
-    },
     "7e66077374df146d": {
       "date": "2026-10-22",
       "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
@@ -9130,6 +8960,56 @@
     "d6b70cd5b83e334e": {
       "date": "2026-11-20",
       "title": "Building an Autonomous LinkedIn Portfolio & Recommendation Agent with Gemini Computer Use on Google ",
+      "source": "devto"
+    },
+    "9c04e30a597c0b48": {
+      "date": "2026-11-21",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "source": "hackernews"
+    },
+    "b063372052df2bae": {
+      "date": "2026-11-21",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "source": "hackernews"
+    },
+    "4a66352c04d4b5a1": {
+      "date": "2026-11-21",
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "source": "hackernews"
+    },
+    "0527d0499a332958": {
+      "date": "2026-11-21",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "source": "hackernews"
+    },
+    "56e261894de6f266": {
+      "date": "2026-11-21",
+      "title": "Same Moon",
+      "source": "producthunt"
+    },
+    "1d6c2ea301ae951e": {
+      "date": "2026-11-21",
+      "title": "InteraOne",
+      "source": "producthunt"
+    },
+    "34007bf145064eb7": {
+      "date": "2026-11-21",
+      "title": "Groundwork",
+      "source": "producthunt"
+    },
+    "00df97e63507bad8": {
+      "date": "2026-11-21",
+      "title": "NetSieve",
+      "source": "producthunt"
+    },
+    "5648252a2eb384eb": {
+      "date": "2026-11-21",
+      "title": "Marking a container unhealthy didn't stop it from taking traffic",
+      "source": "devto"
+    },
+    "0671ec0c303915df": {
+      "date": "2026-11-21",
+      "title": "Day 88: A Marker in the File and a Disputed Status Code",
       "source": "devto"
     }
   }
