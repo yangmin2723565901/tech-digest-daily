@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-22T11:56:17.993453",
+  "last_updated": "2026-11-22T12:48:36.012258",
   "sent_items": {
     "89f493fae281e1ca": {
       "date": "2026-10-23",
@@ -9181,6 +9181,16 @@
       "date": "2026-11-22",
       "title": "Your GitHub review is still pending",
       "source": "devto"
+    },
+    "761825982b5df10d": {
+      "date": "2026-11-22",
+      "title": "Self-hosted library branch over public web OPDS",
+      "source": "hackernews"
+    },
+    "fb548bf3d8950b0c": {
+      "date": "2026-11-22",
+      "title": "Ulika",
+      "source": "producthunt"
     }
   }
 }
