@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-22T12:48:36.012258",
+  "last_updated": "2026-11-22T18:58:30.996217",
   "sent_items": {
     "89f493fae281e1ca": {
       "date": "2026-10-23",
@@ -9191,6 +9191,81 @@
       "date": "2026-11-22",
       "title": "Ulika",
       "source": "producthunt"
+    },
+    "c945238e3ae4a431": {
+      "date": "2026-11-22",
+      "title": "TeaserKit",
+      "source": "producthunt"
+    },
+    "d08c6d5b7afb8e0c": {
+      "date": "2026-11-22",
+      "title": "Raccoon Kids",
+      "source": "producthunt"
+    },
+    "c8b553d346404087": {
+      "date": "2026-11-22",
+      "title": "Perplexity and Intelligence",
+      "source": "hackernews"
+    },
+    "b4e42abc3283b7e5": {
+      "date": "2026-11-22",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "source": "hackernews"
+    },
+    "a696453956c8428a": {
+      "date": "2026-11-22",
+      "title": "Open Social Web Alliance",
+      "source": "hackernews"
+    },
+    "d0df68b68d94fad0": {
+      "date": "2026-11-22",
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "source": "hackernews"
+    },
+    "1feb703e7d2fb009": {
+      "date": "2026-11-22",
+      "title": "A Better Vocabulary for Testing",
+      "source": "hackernews"
+    },
+    "95406984b6f0a980": {
+      "date": "2026-11-22",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "source": "hackernews"
+    },
+    "52d2ea09ea5a95da": {
+      "date": "2026-11-22",
+      "title": "Inside PyPy: First Contact with RPython",
+      "source": "hackernews"
+    },
+    "f5973b5b64346a1a": {
+      "date": "2026-11-22",
+      "title": "Necoz Is Building a New House!! 🛸 All Cats, Follow Me!! 🐈🚀",
+      "source": "devto"
+    },
+    "f53a38759ad5d84c": {
+      "date": "2026-11-22",
+      "title": "I turned my GitHub contribution graph into a Bloomberg-style trading terminal",
+      "source": "devto"
+    },
+    "a3c90946e38513ff": {
+      "date": "2026-11-22",
+      "title": "Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge",
+      "source": "devto"
+    },
+    "f43bf3aa60643f0d": {
+      "date": "2026-11-22",
+      "title": "I Made My RAG Safer. It Got Worse Under Load",
+      "source": "devto"
+    },
+    "ffc2405bd69c8c3a": {
+      "date": "2026-11-22",
+      "title": "Peek: a horror game where your MacBook lid is your eyelids",
+      "source": "devto"
+    },
+    "fafd30ae0f0ad704": {
+      "date": "2026-11-22",
+      "title": "How long it actually takes a GPGME fix to reach Ubuntu",
+      "source": "devto"
     }
   }
 }
