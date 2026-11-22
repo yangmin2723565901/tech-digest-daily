@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-22T03:29:23.751207",
+  "last_updated": "2026-11-22T11:56:17.993453",
   "sent_items": {
     "89f493fae281e1ca": {
       "date": "2026-10-23",
@@ -9085,6 +9085,101 @@
     "dfc912efcddd3144": {
       "date": "2026-11-22",
       "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and M",
+      "source": "devto"
+    },
+    "5a6d591fbb8bf18d": {
+      "date": "2026-11-22",
+      "title": "DeNotch",
+      "source": "producthunt"
+    },
+    "3c7ecfd488bc9d6c": {
+      "date": "2026-11-22",
+      "title": "Mockreel",
+      "source": "producthunt"
+    },
+    "23d9b163a52c8291": {
+      "date": "2026-11-22",
+      "title": "Creavit Studio 4.0",
+      "source": "producthunt"
+    },
+    "877aabf3e0a50be2": {
+      "date": "2026-11-22",
+      "title": "Omi CLI",
+      "source": "producthunt"
+    },
+    "cd984bb08d0f7504": {
+      "date": "2026-11-22",
+      "title": "MeshLive",
+      "source": "producthunt"
+    },
+    "0fa45ee42a9d910e": {
+      "date": "2026-11-22",
+      "title": "Pushback",
+      "source": "producthunt"
+    },
+    "cb3e0e6ce4ab6a39": {
+      "date": "2026-11-22",
+      "title": "Leapdeck",
+      "source": "producthunt"
+    },
+    "9cf33750adbfe128": {
+      "date": "2026-11-22",
+      "title": "Resurf",
+      "source": "producthunt"
+    },
+    "bbf338c815008530": {
+      "date": "2026-11-22",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "source": "hackernews"
+    },
+    "8952d81fa1244225": {
+      "date": "2026-11-22",
+      "title": "Show HN: The Riemann Proof Handbook",
+      "source": "hackernews"
+    },
+    "3a4528dfb4a990c5": {
+      "date": "2026-11-22",
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "source": "hackernews"
+    },
+    "8a09c65bab401799": {
+      "date": "2026-11-22",
+      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "source": "hackernews"
+    },
+    "2efef58a538ce648": {
+      "date": "2026-11-22",
+      "title": "The Third Cup: Five Elements, One IT Company",
+      "source": "devto"
+    },
+    "8cbd159e47d9dc42": {
+      "date": "2026-11-22",
+      "title": "cueback: What If Tutorials Waited for You?",
+      "source": "devto"
+    },
+    "0dced1ea9e520365": {
+      "date": "2026-11-22",
+      "title": "Glint: type and speak with your eyebrows and your breath",
+      "source": "devto"
+    },
+    "0cb47c796acf1943": {
+      "date": "2026-11-22",
+      "title": "Day 90: A Mask in the Way and a Policy Pointing at Nothing",
+      "source": "devto"
+    },
+    "df33ae5b136c9c3e": {
+      "date": "2026-11-22",
+      "title": "Programming at 53: Code Has No Age",
+      "source": "devto"
+    },
+    "c6e3bd9e140d64ee": {
+      "date": "2026-11-22",
+      "title": "I built a breath-hold trainer that does not trust the stopwatch",
+      "source": "devto"
+    },
+    "84def4d101a635be": {
+      "date": "2026-11-22",
+      "title": "Your GitHub review is still pending",
       "source": "devto"
     }
   }
