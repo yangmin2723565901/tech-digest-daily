@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-23T00:01:53.069931",
+  "last_updated": "2026-11-23T07:45:50.388989",
   "sent_items": {
     "2b5f77223268ecaa": {
       "date": "2026-10-24",
@@ -9165,6 +9165,46 @@
     "00f9bdbf13d64528": {
       "date": "2026-11-23",
       "title": "3Draft: Five Percent — 30 Minutes to Deadline",
+      "source": "devto"
+    },
+    "10e92aee0ceaa1a0": {
+      "date": "2026-11-23",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "source": "hackernews"
+    },
+    "368452c044ee37b5": {
+      "date": "2026-11-23",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "source": "hackernews"
+    },
+    "58bd064b240b321f": {
+      "date": "2026-11-23",
+      "title": "Masullo on the Riemann Hypothesis",
+      "source": "hackernews"
+    },
+    "443d611ae2aae0de": {
+      "date": "2026-11-23",
+      "title": "A Partial Evaluator for C",
+      "source": "hackernews"
+    },
+    "37dc6dd3a52d6b67": {
+      "date": "2026-11-23",
+      "title": "Yes, 17M lines of Lean is a lot",
+      "source": "hackernews"
+    },
+    "8b49a56e8e70819f": {
+      "date": "2026-11-23",
+      "title": "oovi",
+      "source": "producthunt"
+    },
+    "2f59599c9e014f5c": {
+      "date": "2026-11-23",
+      "title": "Wrist vs Camera: Can I Trust a Camera Pulse on My Own Laptop?",
+      "source": "devto"
+    },
+    "8962fe7be2381edc": {
+      "date": "2026-11-23",
+      "title": "C++ STL: WHERE HAVE YOU BEEN ALL MY LIFE? 😭",
       "source": "devto"
     }
   }
