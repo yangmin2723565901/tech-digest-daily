@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-23T07:45:50.388989",
+  "last_updated": "2026-11-23T15:13:21.508743",
   "sent_items": {
     "2b5f77223268ecaa": {
       "date": "2026-10-24",
@@ -9205,6 +9205,121 @@
     "8962fe7be2381edc": {
       "date": "2026-11-23",
       "title": "C++ STL: WHERE HAVE YOU BEEN ALL MY LIFE? 😭",
+      "source": "devto"
+    },
+    "3bef7dfb5e557c97": {
+      "date": "2026-11-23",
+      "title": "Strict",
+      "source": "producthunt"
+    },
+    "a06b8e48dee5f303": {
+      "date": "2026-11-23",
+      "title": "Omi Work",
+      "source": "producthunt"
+    },
+    "6533afef460d6bcf": {
+      "date": "2026-11-23",
+      "title": "Gauth Personal Study Agent",
+      "source": "producthunt"
+    },
+    "0934e2c4e03d0ad4": {
+      "date": "2026-11-23",
+      "title": "Plango",
+      "source": "producthunt"
+    },
+    "eaf0c7355b5c077c": {
+      "date": "2026-11-23",
+      "title": "Spikely",
+      "source": "producthunt"
+    },
+    "a85d5c35ce5f7979": {
+      "date": "2026-11-23",
+      "title": "naturefunding.org",
+      "source": "producthunt"
+    },
+    "74916aba62d35f3b": {
+      "date": "2026-11-23",
+      "title": "Chat with Work",
+      "source": "producthunt"
+    },
+    "8acd6144ae124f68": {
+      "date": "2026-11-23",
+      "title": "LeanTake",
+      "source": "producthunt"
+    },
+    "e88453f27c54f913": {
+      "date": "2026-11-23",
+      "title": "Jensen Huang Reinstated as Nvidia CEO",
+      "source": "hackernews"
+    },
+    "a891b76437f3f315": {
+      "date": "2026-11-23",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "source": "hackernews"
+    },
+    "de22ae58475a8d7e": {
+      "date": "2026-11-23",
+      "title": "The next circle of security hell",
+      "source": "hackernews"
+    },
+    "fa6a7389ccc6c36e": {
+      "date": "2026-11-23",
+      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source": "hackernews"
+    },
+    "8aa7ac6be56dea1e": {
+      "date": "2026-11-23",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "source": "hackernews"
+    },
+    "dc7652eccaa9d093": {
+      "date": "2026-11-23",
+      "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+      "source": "hackernews"
+    },
+    "d920a35eac9296c8": {
+      "date": "2026-11-23",
+      "title": "What's the difference between an integer and a pointer?",
+      "source": "hackernews"
+    },
+    "a73a3adf7940c148": {
+      "date": "2026-11-23",
+      "title": "Reviving the Donkey Car with Erlang",
+      "source": "hackernews"
+    },
+    "8aece5d2f48bd30f": {
+      "date": "2026-11-23",
+      "title": "The Third Cup: Change Never Sleeps",
+      "source": "devto"
+    },
+    "f212d4bba2a4393e": {
+      "date": "2026-11-23",
+      "title": "Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Ac",
+      "source": "devto"
+    },
+    "e12fe529aa9e3262": {
+      "date": "2026-11-23",
+      "title": "A challenge won against myself (and the Chrome Web Store)",
+      "source": "devto"
+    },
+    "7f5ec9c02b2216a6": {
+      "date": "2026-11-23",
+      "title": "8 Best MCP Gateways",
+      "source": "devto"
+    },
+    "408af6bf11c163a1": {
+      "date": "2026-11-23",
+      "title": "Stand-In Studio: I Automated How Much of You Others See in Video Calls, with SmartSpectra! 📸",
+      "source": "devto"
+    },
+    "3f793b0acd1a9b20": {
+      "date": "2026-11-23",
+      "title": "6 Lessons Every Developer Should Learn",
+      "source": "devto"
+    },
+    "fdf47165d0deb7ab": {
+      "date": "2026-11-23",
+      "title": "Presage-ADHD: Bio-Adaptive Co-Pilot",
       "source": "devto"
     }
   }
