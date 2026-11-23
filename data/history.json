@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-23T15:13:21.508743",
+  "last_updated": "2026-11-23T19:43:04.523910",
   "sent_items": {
     "2b5f77223268ecaa": {
       "date": "2026-10-24",
@@ -9320,6 +9320,81 @@
     "fdf47165d0deb7ab": {
       "date": "2026-11-23",
       "title": "Presage-ADHD: Bio-Adaptive Co-Pilot",
+      "source": "devto"
+    },
+    "e27c29bc7a7b7b74": {
+      "date": "2026-11-23",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "source": "hackernews"
+    },
+    "17de5cdec97671af": {
+      "date": "2026-11-23",
+      "title": "Ladybird is now in alpha",
+      "source": "hackernews"
+    },
+    "1c5becbbc0fd53fd": {
+      "date": "2026-11-23",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "source": "hackernews"
+    },
+    "d793bc444ea24ea6": {
+      "date": "2026-11-23",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "source": "hackernews"
+    },
+    "0d8cc8030c2996d8": {
+      "date": "2026-11-23",
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "source": "hackernews"
+    },
+    "05fb5eb5e1c2625d": {
+      "date": "2026-11-23",
+      "title": "Kagi Mail (public beta)",
+      "source": "hackernews"
+    },
+    "cf1f437ad7c00871": {
+      "date": "2026-11-23",
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "source": "hackernews"
+    },
+    "5440160064ac10a9": {
+      "date": "2026-11-23",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "source": "hackernews"
+    },
+    "9aca67e3d9a16f6f": {
+      "date": "2026-11-23",
+      "title": "Open Source Solana Wallet",
+      "source": "producthunt"
+    },
+    "fbd80249c8669b21": {
+      "date": "2026-11-23",
+      "title": "MAI Image 2.7",
+      "source": "producthunt"
+    },
+    "6692a6671140681e": {
+      "date": "2026-11-23",
+      "title": "Kopyo",
+      "source": "producthunt"
+    },
+    "2f496bbea3b98d61": {
+      "date": "2026-11-23",
+      "title": "What are you Grateful for this Thanksgiving?",
+      "source": "devto"
+    },
+    "d22dd35e473d9537": {
+      "date": "2026-11-23",
+      "title": "🎨 NECOZ Art Class: The Day 35 Cats Painted a Portrait of the King 👑 | How Pixels Work",
+      "source": "devto"
+    },
+    "2befba72cbd5b880": {
+      "date": "2026-11-23",
+      "title": "Rent the Job. Own the Life.",
+      "source": "devto"
+    },
+    "8a5048748cfde9dc": {
+      "date": "2026-11-23",
+      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
       "source": "devto"
     }
   }
