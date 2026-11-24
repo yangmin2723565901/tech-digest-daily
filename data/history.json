@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-24T15:10:42.470825",
+  "last_updated": "2026-11-24T15:13:43.141156",
   "sent_items": {
     "0aa4ee2f25c4fe6a": {
       "date": "2026-10-25",
@@ -9415,6 +9415,36 @@
     "efcc902d8c67d89d": {
       "date": "2026-11-24",
       "title": "Kafka Listeners, Mail and Live Streams in Your Backend, With Records as Entities",
+      "source": "devto"
+    },
+    "9facefd81e664851": {
+      "date": "2026-11-24",
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "source": "hackernews"
+    },
+    "598e78c7061f4b10": {
+      "date": "2026-11-24",
+      "title": "The new set of problems for engineers to solve",
+      "source": "hackernews"
+    },
+    "69d870132ae94c6b": {
+      "date": "2026-11-24",
+      "title": "Juncts",
+      "source": "producthunt"
+    },
+    "09c2d87c4222f84b": {
+      "date": "2026-11-24",
+      "title": "frwrd.to",
+      "source": "producthunt"
+    },
+    "1bd9cd0e13ad6c32": {
+      "date": "2026-11-24",
+      "title": "Willow iOS 2.0",
+      "source": "producthunt"
+    },
+    "3742eddbc0b54cf9": {
+      "date": "2026-11-24",
+      "title": "Turning on Postgres logical replication without a restart",
       "source": "devto"
     }
   }
