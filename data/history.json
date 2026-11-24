@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-24T04:32:59.693201",
+  "last_updated": "2026-11-24T15:10:42.470825",
   "sent_items": {
     "0aa4ee2f25c4fe6a": {
       "date": "2026-10-25",
@@ -9300,6 +9300,121 @@
     "1b8548da6315c6d4": {
       "date": "2026-11-24",
       "title": "Blobasaur and the 4th Cross way: how Zerodha's ~35-person tech team keeps shipping open source",
+      "source": "devto"
+    },
+    "a275508edaf787c5": {
+      "date": "2026-11-24",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "source": "hackernews"
+    },
+    "79e836ced805a955": {
+      "date": "2026-11-24",
+      "title": "2035 Came Early",
+      "source": "hackernews"
+    },
+    "cca18b0381f3eaab": {
+      "date": "2026-11-24",
+      "title": "LLM agents work for their parent companies, not for you",
+      "source": "hackernews"
+    },
+    "532476bb321a5524": {
+      "date": "2026-11-24",
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "source": "hackernews"
+    },
+    "295798a5f08af93e": {
+      "date": "2026-11-24",
+      "title": "Worshipping at the Altar of Brendan Gregg",
+      "source": "hackernews"
+    },
+    "5fca115e43433335": {
+      "date": "2026-11-24",
+      "title": "Quad9 pulled their DNS service from France",
+      "source": "hackernews"
+    },
+    "77eb4b0ee14aa242": {
+      "date": "2026-11-24",
+      "title": "Just a Few Bugs",
+      "source": "hackernews"
+    },
+    "57194ca2d7ca67cb": {
+      "date": "2026-11-24",
+      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "source": "hackernews"
+    },
+    "de203240e404ce9f": {
+      "date": "2026-11-24",
+      "title": "An anti-slavery sugar bowl (2024)",
+      "source": "hackernews"
+    },
+    "20bf1dd9832fa9ac": {
+      "date": "2026-11-24",
+      "title": "Ohhai",
+      "source": "producthunt"
+    },
+    "f8661857b279f77d": {
+      "date": "2026-11-24",
+      "title": "Wellbreak",
+      "source": "producthunt"
+    },
+    "72abf2b84ca9b5f8": {
+      "date": "2026-11-24",
+      "title": "Astrolabio",
+      "source": "producthunt"
+    },
+    "35214eab24330d49": {
+      "date": "2026-11-24",
+      "title": "Granular.Build",
+      "source": "producthunt"
+    },
+    "2ad40d61568f2c99": {
+      "date": "2026-11-24",
+      "title": "Mystonie",
+      "source": "producthunt"
+    },
+    "95aa50f81c4764fe": {
+      "date": "2026-11-24",
+      "title": "Umami Manager",
+      "source": "producthunt"
+    },
+    "978a653480028418": {
+      "date": "2026-11-24",
+      "title": "SparrowDesk Phone Calls",
+      "source": "producthunt"
+    },
+    "4b466618618dc889": {
+      "date": "2026-11-24",
+      "title": "Claude Ship",
+      "source": "producthunt"
+    },
+    "0d3df893c466119a": {
+      "date": "2026-11-24",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "dc26a84476095aff": {
+      "date": "2026-11-24",
+      "title": "The Third Cup: After Everything Has a Name",
+      "source": "devto"
+    },
+    "ecd48989256497c1": {
+      "date": "2026-11-24",
+      "title": "2026 Black Friday Developer Deals.",
+      "source": "devto"
+    },
+    "d66ad521ab0caf3e": {
+      "date": "2026-11-24",
+      "title": "Why Your Android App Drops Frames: The Jetpack Compose Architecture Guide That Fixes Recomposition F",
+      "source": "devto"
+    },
+    "ba6797c700aa3489": {
+      "date": "2026-11-24",
+      "title": "Ship Your Game on Steam, and Why the Art Matters More Than the Engine",
+      "source": "devto"
+    },
+    "efcc902d8c67d89d": {
+      "date": "2026-11-24",
+      "title": "Kafka Listeners, Mail and Live Streams in Your Backend, With Records as Entities",
       "source": "devto"
     }
   }
