@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-24T15:13:43.141156",
+  "last_updated": "2026-11-24T23:55:21.601306",
   "sent_items": {
     "0aa4ee2f25c4fe6a": {
       "date": "2026-10-25",
@@ -9445,6 +9445,111 @@
     "3742eddbc0b54cf9": {
       "date": "2026-11-24",
       "title": "Turning on Postgres logical replication without a restart",
+      "source": "devto"
+    },
+    "403def06fca6165e": {
+      "date": "2026-11-24",
+      "title": "The Spray Bottle",
+      "source": "hackernews"
+    },
+    "90cede4cba6a9014": {
+      "date": "2026-11-24",
+      "title": "Ternary Bonsai 2.5 27B",
+      "source": "hackernews"
+    },
+    "20d0d697a21e8f25": {
+      "date": "2026-11-24",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "source": "hackernews"
+    },
+    "70a9b23303d3cc34": {
+      "date": "2026-11-24",
+      "title": "Jetty Pro",
+      "source": "hackernews"
+    },
+    "5d4b3a2e1385197b": {
+      "date": "2026-11-24",
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "source": "hackernews"
+    },
+    "0b109bc7e36ce0d9": {
+      "date": "2026-11-24",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "source": "hackernews"
+    },
+    "2629e9d488b41171": {
+      "date": "2026-11-24",
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "source": "hackernews"
+    },
+    "47c67fd27e6376a1": {
+      "date": "2026-11-24",
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "source": "hackernews"
+    },
+    "08b455fc8974b7e5": {
+      "date": "2026-11-24",
+      "title": "Gödel Enigma",
+      "source": "hackernews"
+    },
+    "0dd4b224923e15bd": {
+      "date": "2026-11-24",
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "source": "hackernews"
+    },
+    "21b7eae82bc071a5": {
+      "date": "2026-11-24",
+      "title": "tday.com",
+      "source": "producthunt"
+    },
+    "f8fc1da608d22b7e": {
+      "date": "2026-11-24",
+      "title": "Viktor Code",
+      "source": "producthunt"
+    },
+    "81723bde7d02c93b": {
+      "date": "2026-11-24",
+      "title": "Rotara",
+      "source": "producthunt"
+    },
+    "a2ca0a2132118a16": {
+      "date": "2026-11-24",
+      "title": "Finer Screenshot",
+      "source": "producthunt"
+    },
+    "2b4396e49c51976c": {
+      "date": "2026-11-24",
+      "title": "Kodak SlideTag",
+      "source": "producthunt"
+    },
+    "6a6d048a03b836c3": {
+      "date": "2026-11-24",
+      "title": "Why Your AI Release Notes Hallucinate: The \"Why vs What\" Problem in Git History",
+      "source": "devto"
+    },
+    "6fc3825fc6e9c967": {
+      "date": "2026-11-24",
+      "title": "String Type In C",
+      "source": "devto"
+    },
+    "416948b554e80a79": {
+      "date": "2026-11-24",
+      "title": "I Let Claude Code Create My AWS Account",
+      "source": "devto"
+    },
+    "ed81b68de63e552e": {
+      "date": "2026-11-24",
+      "title": "One Man Built Linux in a Bedroom. Another Blew Up Three Rockets. Both Are My Idols. Who's Yours? 🚀🐧",
+      "source": "devto"
+    },
+    "338a61f7908e350c": {
+      "date": "2026-11-24",
+      "title": "Tuesday music",
+      "source": "devto"
+    },
+    "29ce59c5c09359d9": {
+      "date": "2026-11-24",
+      "title": "One Script, Four Documents",
       "source": "devto"
     }
   }
