@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-25T06:26:08.171397",
+  "last_updated": "2026-11-25T14:51:29.683343",
   "sent_items": {
     "1786dbecdb7427e1": {
       "date": "2026-10-26",
@@ -9445,6 +9445,101 @@
     "98f52a9ed591fb24": {
       "date": "2026-11-25",
       "title": "Install and Use the Google Workspace CLI: gwscli on Linux, From curl to Agent Skills",
+      "source": "devto"
+    },
+    "c840cde9de6cc57e": {
+      "date": "2026-11-25",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "source": "hackernews"
+    },
+    "37a4afa96e291202": {
+      "date": "2026-11-25",
+      "title": "The short age of dragon riders",
+      "source": "hackernews"
+    },
+    "39f894ba45601103": {
+      "date": "2026-11-25",
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "source": "hackernews"
+    },
+    "2a2c072b514aa57a": {
+      "date": "2026-11-25",
+      "title": "Getting old Java phones online again",
+      "source": "hackernews"
+    },
+    "2845b9b5ee157f5e": {
+      "date": "2026-11-25",
+      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
+      "source": "hackernews"
+    },
+    "070132e5148f5737": {
+      "date": "2026-11-25",
+      "title": "MyClaw 3.0",
+      "source": "producthunt"
+    },
+    "4be274e09733e8e0": {
+      "date": "2026-11-25",
+      "title": "Airbot",
+      "source": "producthunt"
+    },
+    "180ea39ac21c0538": {
+      "date": "2026-11-25",
+      "title": "Hiring Right Now",
+      "source": "producthunt"
+    },
+    "b8db8fea5013b3dc": {
+      "date": "2026-11-25",
+      "title": "VibeCode.surf",
+      "source": "producthunt"
+    },
+    "20b5ee88fdc78f10": {
+      "date": "2026-11-25",
+      "title": "Qube",
+      "source": "producthunt"
+    },
+    "f8e5fcf37892b516": {
+      "date": "2026-11-25",
+      "title": "GibHub",
+      "source": "producthunt"
+    },
+    "a6bcfeb9e3facea4": {
+      "date": "2026-11-25",
+      "title": "Falcon by Vybe",
+      "source": "producthunt"
+    },
+    "e37f62fb9e5cd83d": {
+      "date": "2026-11-25",
+      "title": "Tray",
+      "source": "producthunt"
+    },
+    "0b515058d605e009": {
+      "date": "2026-11-25",
+      "title": "The Price You Pay for Passion",
+      "source": "devto"
+    },
+    "18228b4d61ff50ad": {
+      "date": "2026-11-25",
+      "title": "Lazy Senior Dev Mode Made My App Smaller. Was It Better?",
+      "source": "devto"
+    },
+    "afa40b1b91020f46": {
+      "date": "2026-11-25",
+      "title": "The Third Cup: You Don't Have to Fly That High",
+      "source": "devto"
+    },
+    "74dd372feabb02ff": {
+      "date": "2026-11-25",
+      "title": "Part 7: What Reading the Code Could Never Find",
+      "source": "devto"
+    },
+    "b70008cb9adf15f5": {
+      "date": "2026-11-25",
+      "title": "Local Means Local: Test Firebase AI Logic Fallback Before Dispatch",
+      "source": "devto"
+    },
+    "a5d22d47af924095": {
+      "date": "2026-11-25",
+      "title": "I Tested My Prompt Against Plain English. One Answer Changed the Result.",
       "source": "devto"
     }
   }
