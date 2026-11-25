@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-25T14:51:29.683343",
+  "last_updated": "2026-11-25T17:35:14.744788",
   "sent_items": {
     "1786dbecdb7427e1": {
       "date": "2026-10-26",
@@ -9540,6 +9540,91 @@
     "a5d22d47af924095": {
       "date": "2026-11-25",
       "title": "I Tested My Prompt Against Plain English. One Answer Changed the Result.",
+      "source": "devto"
+    },
+    "e8feee2b7da7f8d9": {
+      "date": "2026-11-25",
+      "title": "Blink",
+      "source": "producthunt"
+    },
+    "3b8ecc5ae59773a2": {
+      "date": "2026-11-25",
+      "title": "OpenEight",
+      "source": "producthunt"
+    },
+    "f65031c97a02a2ed": {
+      "date": "2026-11-25",
+      "title": "RelayRunner",
+      "source": "producthunt"
+    },
+    "24cc0593a591cee2": {
+      "date": "2026-11-25",
+      "title": "MAGI-2",
+      "source": "producthunt"
+    },
+    "5576a05469a2eee8": {
+      "date": "2026-11-25",
+      "title": "Hai",
+      "source": "producthunt"
+    },
+    "4d4d7e9652cc66ce": {
+      "date": "2026-11-25",
+      "title": "TruAstra",
+      "source": "producthunt"
+    },
+    "9e466fd24497dac8": {
+      "date": "2026-11-25",
+      "title": "3way.Social MCP",
+      "source": "producthunt"
+    },
+    "d05f6ca2a539758b": {
+      "date": "2026-11-25",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "source": "hackernews"
+    },
+    "5994a00f26f8ec5e": {
+      "date": "2026-11-25",
+      "title": "Investigating degraded experiences across GitHub products",
+      "source": "hackernews"
+    },
+    "410a7866fd01b974": {
+      "date": "2026-11-25",
+      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "source": "hackernews"
+    },
+    "2d39502199edd8d1": {
+      "date": "2026-11-25",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "source": "hackernews"
+    },
+    "659c73568a907ee4": {
+      "date": "2026-11-25",
+      "title": "1Password Security Incident",
+      "source": "hackernews"
+    },
+    "5d3387507b69b4fa": {
+      "date": "2026-11-25",
+      "title": "Predicting LoRA size for any dataset",
+      "source": "hackernews"
+    },
+    "1b5776753de18d9a": {
+      "date": "2026-11-25",
+      "title": "The mental toll of working in tech",
+      "source": "devto"
+    },
+    "e1fcd412dbb8bab5": {
+      "date": "2026-11-25",
+      "title": "I Know It's You, But I Can't Prove It",
+      "source": "devto"
+    },
+    "fb61bcff4d660925": {
+      "date": "2026-11-25",
+      "title": "Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gate Test",
+      "source": "devto"
+    },
+    "75a21991382f4238": {
+      "date": "2026-11-25",
+      "title": "I Built My First Multi-Agent System on AWS, and It Was Easier Than I Expected",
       "source": "devto"
     }
   }
