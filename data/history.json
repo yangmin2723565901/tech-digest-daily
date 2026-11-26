@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-26T09:35:44.334525",
+  "last_updated": "2026-11-26T14:16:45.258586",
   "sent_items": {
     "e68297856eabe218": {
       "date": "2026-10-27",
@@ -9595,6 +9595,76 @@
     "e1690a610d8f51c0": {
       "date": "2026-11-26",
       "title": "I Built AI Test Automation. Today, I Went Back to Manual Testing.",
+      "source": "devto"
+    },
+    "b4057b88094f23f0": {
+      "date": "2026-11-26",
+      "title": "Intel One Mono font",
+      "source": "hackernews"
+    },
+    "1f4a8d6614d5f3b0": {
+      "date": "2026-11-26",
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "source": "hackernews"
+    },
+    "1992275f47c54ac0": {
+      "date": "2026-11-26",
+      "title": "Moat: Your OpenRouter Replacement",
+      "source": "hackernews"
+    },
+    "ac476945e5ab2e7c": {
+      "date": "2026-11-26",
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "source": "hackernews"
+    },
+    "c6951a8c2c697baf": {
+      "date": "2026-11-26",
+      "title": "iwantmy.app",
+      "source": "producthunt"
+    },
+    "7dd87b9440d561ea": {
+      "date": "2026-11-26",
+      "title": "Hello Transcribe 5",
+      "source": "producthunt"
+    },
+    "5bf0f9d54b3ddee5": {
+      "date": "2026-11-26",
+      "title": "Hub",
+      "source": "producthunt"
+    },
+    "74d4fd0865d97c56": {
+      "date": "2026-11-26",
+      "title": "Remora",
+      "source": "producthunt"
+    },
+    "7b98f09652ff1cf3": {
+      "date": "2026-11-26",
+      "title": "Doodle",
+      "source": "producthunt"
+    },
+    "568f236b0ad29e84": {
+      "date": "2026-11-26",
+      "title": "Pax by Pydantic",
+      "source": "producthunt"
+    },
+    "06d8707bfc77b649": {
+      "date": "2026-11-26",
+      "title": "From a feed full of Fable 5.2 demos to a 20-episode Indian epic: how I built \"The Eighteen Days\"",
+      "source": "devto"
+    },
+    "2683b5cba9cf079b": {
+      "date": "2026-11-26",
+      "title": "What server.close() Misses in Node.js Graceful Shutdown",
+      "source": "devto"
+    },
+    "5ff2f6be1309fb97": {
+      "date": "2026-11-26",
+      "title": "My Simulation Exaggerated the Cost of My Own Safety Feature",
+      "source": "devto"
+    },
+    "20a2730101e2db1b": {
+      "date": "2026-11-26",
+      "title": "Windows Kiosks and Command Line Tools, Built From Java",
       "source": "devto"
     }
   }
