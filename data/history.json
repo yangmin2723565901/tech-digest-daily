@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-26T01:08:09.829982",
+  "last_updated": "2026-11-26T09:35:44.334525",
   "sent_items": {
     "e68297856eabe218": {
       "date": "2026-10-27",
@@ -9520,6 +9520,81 @@
     "6237954673ae50a0": {
       "date": "2026-11-26",
       "title": "Are Blogs Still Worth Writing When Agents Do the Reading?",
+      "source": "devto"
+    },
+    "9009d61fcb6be64d": {
+      "date": "2026-11-26",
+      "title": "Collection of preserved UI style guides",
+      "source": "hackernews"
+    },
+    "54dfa9c0b4afc9e3": {
+      "date": "2026-11-26",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "source": "hackernews"
+    },
+    "c734dbffb7d6d21a": {
+      "date": "2026-11-26",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "source": "hackernews"
+    },
+    "4869463f80136a89": {
+      "date": "2026-11-26",
+      "title": "Show HN: Synth Patch Hero",
+      "source": "hackernews"
+    },
+    "342dcb38d3079b94": {
+      "date": "2026-11-26",
+      "title": "InfraThrone DevOps Park",
+      "source": "producthunt"
+    },
+    "a2a3ff1f2e5179b7": {
+      "date": "2026-11-26",
+      "title": "DeskFleet",
+      "source": "producthunt"
+    },
+    "6bc4658585e1144b": {
+      "date": "2026-11-26",
+      "title": "Superframes",
+      "source": "producthunt"
+    },
+    "7dece45d1171022f": {
+      "date": "2026-11-26",
+      "title": "Flurra",
+      "source": "producthunt"
+    },
+    "6633ff34cd48cd3d": {
+      "date": "2026-11-26",
+      "title": "Kagi Mail",
+      "source": "producthunt"
+    },
+    "487d3a89663597de": {
+      "date": "2026-11-26",
+      "title": "WhipDesk",
+      "source": "producthunt"
+    },
+    "c1b8b4479557f1af": {
+      "date": "2026-11-26",
+      "title": "Transept AI",
+      "source": "producthunt"
+    },
+    "f72553c4cd1ca0a3": {
+      "date": "2026-11-26",
+      "title": "NEXUS",
+      "source": "producthunt"
+    },
+    "e88e7ba8c3286cac": {
+      "date": "2026-11-26",
+      "title": "Nostalgia and the AI Productivity Paradox",
+      "source": "devto"
+    },
+    "3068909ebea8e01d": {
+      "date": "2026-11-26",
+      "title": "Can Your Agent Review Your Cloud Architecture?",
+      "source": "devto"
+    },
+    "e1690a610d8f51c0": {
+      "date": "2026-11-26",
+      "title": "I Built AI Test Automation. Today, I Went Back to Manual Testing.",
       "source": "devto"
     }
   }
