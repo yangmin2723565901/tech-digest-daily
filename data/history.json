@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-27T10:56:06.309805",
+  "last_updated": "2026-11-27T14:12:18.940506",
   "sent_items": {
     "6808aa957d92f6bc": {
       "date": "2026-10-28",
@@ -9710,6 +9710,56 @@
     "f2fe1d08069e1f10": {
       "date": "2026-11-27",
       "title": "C# 15 Unpacked: Popping the Hood on Labeled Loops and Finding No Labels at All",
+      "source": "devto"
+    },
+    "0147e564ee4ddade": {
+      "date": "2026-11-27",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "source": "hackernews"
+    },
+    "35f182f97281f62e": {
+      "date": "2026-11-27",
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "source": "hackernews"
+    },
+    "db210b9dc43536ad": {
+      "date": "2026-11-27",
+      "title": "US Air Force's cloud computing platform hacked",
+      "source": "hackernews"
+    },
+    "85e4941dfa0a27d1": {
+      "date": "2026-11-27",
+      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
+      "source": "hackernews"
+    },
+    "61495ea243450a14": {
+      "date": "2026-11-27",
+      "title": "snibl",
+      "source": "producthunt"
+    },
+    "df59538242cc7b4b": {
+      "date": "2026-11-27",
+      "title": "ChickyTutor",
+      "source": "producthunt"
+    },
+    "2acf69edfeccf12e": {
+      "date": "2026-11-27",
+      "title": "What was your win this week!?",
+      "source": "devto"
+    },
+    "7df969fc7a652b5d": {
+      "date": "2026-11-27",
+      "title": "Introducing a Website That Absolutely Nobody Asked For",
+      "source": "devto"
+    },
+    "46f88ea32c2906f7": {
+      "date": "2026-11-27",
+      "title": "How I built my own OS",
+      "source": "devto"
+    },
+    "0864056403301444": {
+      "date": "2026-11-27",
+      "title": "I Got Two AI Agents Talking. Then I Found Out They Weren't Hearing Each Other.",
       "source": "devto"
     }
   }
