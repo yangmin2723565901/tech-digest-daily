@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-27T02:14:48.029909",
+  "last_updated": "2026-11-27T10:56:06.309805",
   "sent_items": {
     "6808aa957d92f6bc": {
       "date": "2026-10-28",
@@ -9635,6 +9635,81 @@
     "33882702ca4a1d3f": {
       "date": "2026-11-27",
       "title": "Benchmarking Gemma 4 E2B with Long Contexts",
+      "source": "devto"
+    },
+    "acf392fa0d7ebe14": {
+      "date": "2026-11-27",
+      "title": "Hard Drive pricing has gotten bad",
+      "source": "hackernews"
+    },
+    "b631f142bc5f2add": {
+      "date": "2026-11-27",
+      "title": "The group chat where your AI talks behind your back",
+      "source": "hackernews"
+    },
+    "dd0b2546a9624e17": {
+      "date": "2026-11-27",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "source": "hackernews"
+    },
+    "6c9ffd3597ce81aa": {
+      "date": "2026-11-27",
+      "title": "RightFont 2026",
+      "source": "producthunt"
+    },
+    "7a3a2fd2a1135bb1": {
+      "date": "2026-11-27",
+      "title": "Spark AI",
+      "source": "producthunt"
+    },
+    "524c5d949a728106": {
+      "date": "2026-11-27",
+      "title": "slay",
+      "source": "producthunt"
+    },
+    "6696d03e6fb90aa1": {
+      "date": "2026-11-27",
+      "title": "Wizstar R1",
+      "source": "producthunt"
+    },
+    "e92137e8f6c7e12c": {
+      "date": "2026-11-27",
+      "title": "Form Action Store",
+      "source": "producthunt"
+    },
+    "5b30578e4e9512df": {
+      "date": "2026-11-27",
+      "title": "Remove Silence",
+      "source": "producthunt"
+    },
+    "6081070e7715c727": {
+      "date": "2026-11-27",
+      "title": "Ploid",
+      "source": "producthunt"
+    },
+    "8e9301117455a25e": {
+      "date": "2026-11-27",
+      "title": "Onset",
+      "source": "producthunt"
+    },
+    "53b65e8344f660e1": {
+      "date": "2026-11-27",
+      "title": "Run an LLM and Whisper on the Phone, With No Server Bill",
+      "source": "devto"
+    },
+    "fd816766be799971": {
+      "date": "2026-11-27",
+      "title": "[Kalamos Devlog] After Open-Sourcing: v0.2 to v0.7 Feature Evolution and Using Multi-Agents to Revie",
+      "source": "devto"
+    },
+    "cd0953810cbe132f": {
+      "date": "2026-11-27",
+      "title": "Half of the F1 Car Power Now Comes From Battery Nobody Else Can See. We Read It From the Speed Trace",
+      "source": "devto"
+    },
+    "f2fe1d08069e1f10": {
+      "date": "2026-11-27",
+      "title": "C# 15 Unpacked: Popping the Hood on Labeled Loops and Finding No Labels at All",
       "source": "devto"
     }
   }
