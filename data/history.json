@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-27T14:12:18.940506",
+  "last_updated": "2026-11-27T19:46:56.116828",
   "sent_items": {
     "6808aa957d92f6bc": {
       "date": "2026-10-28",
@@ -9760,6 +9760,81 @@
     "0864056403301444": {
       "date": "2026-11-27",
       "title": "I Got Two AI Agents Talking. Then I Found Out They Weren't Hearing Each Other.",
+      "source": "devto"
+    },
+    "bdc0330a83f36616": {
+      "date": "2026-11-27",
+      "title": "Depost AI",
+      "source": "producthunt"
+    },
+    "30241c5ca17818a6": {
+      "date": "2026-11-27",
+      "title": "Woomool",
+      "source": "producthunt"
+    },
+    "d29b86f0dfe40f63": {
+      "date": "2026-11-27",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "source": "hackernews"
+    },
+    "53fe902a8ac92f1f": {
+      "date": "2026-11-27",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "source": "hackernews"
+    },
+    "f2bfbfd313525f36": {
+      "date": "2026-11-27",
+      "title": "I'm Scared of AI",
+      "source": "hackernews"
+    },
+    "ecec1e852966e8a8": {
+      "date": "2026-11-27",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "source": "hackernews"
+    },
+    "c9bd287ced80f3f2": {
+      "date": "2026-11-27",
+      "title": "False computer-checked proofs",
+      "source": "hackernews"
+    },
+    "277f65ff2789828f": {
+      "date": "2026-11-27",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "source": "hackernews"
+    },
+    "5100948ff0654071": {
+      "date": "2026-11-27",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "source": "hackernews"
+    },
+    "060cdfc00dfd7204": {
+      "date": "2026-11-27",
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "source": "hackernews"
+    },
+    "3bb37b730258055e": {
+      "date": "2026-11-27",
+      "title": "Dev Opportunity Radar #27: $400K Google AI Competition, Vercel X AI Accelerator, and Fully Funded AI",
+      "source": "devto"
+    },
+    "2c1272353ae3dabb": {
+      "date": "2026-11-27",
+      "title": "Writing Is Really Fun, But My Luck Had Other Plans 🐿",
+      "source": "devto"
+    },
+    "1714ab92815cef78": {
+      "date": "2026-11-27",
+      "title": "The Best Café in Town Turns People Away. Your System Should Too",
+      "source": "devto"
+    },
+    "4c9e974af5f3ecb5": {
+      "date": "2026-11-27",
+      "title": "Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust",
+      "source": "devto"
+    },
+    "fc7da58c6bf823b7": {
+      "date": "2026-11-27",
+      "title": "Chasing down why Ansible stalled on a fresh Ubuntu 26.04 box",
       "source": "devto"
     }
   }
