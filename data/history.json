@@ -1,452 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-27T19:46:56.116828",
+  "last_updated": "2026-11-28T02:26:05.703955",
   "sent_items": {
-    "6808aa957d92f6bc": {
-      "date": "2026-10-28",
-      "title": "Ghostty 1.4",
-      "source": "hackernews"
-    },
-    "39155253f5851c22": {
-      "date": "2026-10-28",
-      "title": "Genie 4",
-      "source": "hackernews"
-    },
-    "2b4d3bdc1b00e30d": {
-      "date": "2026-10-28",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "source": "hackernews"
-    },
-    "fb3ff1b53a57e297": {
-      "date": "2026-10-28",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "source": "hackernews"
-    },
-    "4fe0e5b4771f4667": {
-      "date": "2026-10-28",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "source": "hackernews"
-    },
-    "9e22205eaa34a4bc": {
-      "date": "2026-10-28",
-      "title": "Early progress on accelerating drug development with Claude",
-      "source": "hackernews"
-    },
-    "c6a0f6898e5f3651": {
-      "date": "2026-10-28",
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "source": "hackernews"
-    },
-    "32bd721b92a4c5d2": {
-      "date": "2026-10-28",
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "source": "hackernews"
-    },
-    "48e715cb199fc7d6": {
-      "date": "2026-10-28",
-      "title": "81 Jokes for the ZX81",
-      "source": "hackernews"
-    },
-    "86753bacdfc19aaf": {
-      "date": "2026-10-28",
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "source": "hackernews"
-    },
-    "7345394f172eb5ca": {
-      "date": "2026-10-28",
-      "title": "PulseDev",
-      "source": "producthunt"
-    },
-    "6ba7d52cd0044d40": {
-      "date": "2026-10-28",
-      "title": "GPT-6.1 Terra",
-      "source": "producthunt"
-    },
-    "2cb15a7d2c8361e5": {
-      "date": "2026-10-28",
-      "title": "Paddock",
-      "source": "producthunt"
-    },
-    "7a68255c78571728": {
-      "date": "2026-10-28",
-      "title": "NuPlay",
-      "source": "producthunt"
-    },
-    "9d6c48eae08abbc4": {
-      "date": "2026-10-28",
-      "title": "fswitcher",
-      "source": "producthunt"
-    },
-    "c46710a4933ddcec": {
-      "date": "2026-10-28",
-      "title": "Off Grid AI",
-      "source": "producthunt"
-    },
-    "6af12bb508599fa0": {
-      "date": "2026-10-28",
-      "title": "Spacesheep",
-      "source": "producthunt"
-    },
-    "43af10998393834c": {
-      "date": "2026-10-28",
-      "title": "OpenRadView",
-      "source": "producthunt"
-    },
-    "8bce5aa0626c5c8c": {
-      "date": "2026-10-28",
-      "title": "Your DEV posts have a beautiful new share card ✨",
-      "source": "devto"
-    },
-    "dbee8dbaae5ef409": {
-      "date": "2026-10-28",
-      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
-      "source": "devto"
-    },
-    "e8f5f9f85467f858": {
-      "date": "2026-10-28",
-      "title": "The Most Embarrassing Private Key in Web PKI History",
-      "source": "devto"
-    },
-    "92e523df16b16e43": {
-      "date": "2026-10-28",
-      "title": "I deleted the mail server from my VPS and got 1.2 GB of RAM back",
-      "source": "devto"
-    },
-    "b414bb571659d2c1": {
-      "date": "2026-10-28",
-      "title": "The Rootkit Exorcist: Summoning Local AI to Investigate Suspicious Scripts 👻",
-      "source": "devto"
-    },
-    "7ad4a2ae221c6d4f": {
-      "date": "2026-10-28",
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "source": "devto"
-    },
-    "4dad0091139d118f": {
-      "date": "2026-10-28",
-      "title": "Dev log #27 Deep in the review queue: Hardening libp2p across Python and .NET",
-      "source": "devto"
-    },
-    "de6137877ca69fe5": {
-      "date": "2026-10-28",
-      "title": "How long it takes to move an IP address between two servers",
-      "source": "devto"
-    },
-    "cf2d585ecd097ad4": {
-      "date": "2026-10-28",
-      "title": "My AI was in the cloud. I brought it home.",
-      "source": "devto"
-    },
-    "fc7752f6bc90e28d": {
-      "date": "2026-10-28",
-      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
-      "source": "devto"
-    },
-    "06fe3ce050dde466": {
-      "date": "2026-10-28",
-      "title": "elayadesign / ai-design-skills",
-      "source": "github"
-    },
-    "bca7775ac9caec94": {
-      "date": "2026-10-28",
-      "title": "HKUDS / DeepTutor",
-      "source": "github"
-    },
-    "4f44d6baf2c704ad": {
-      "date": "2026-10-28",
-      "title": "togg53192-cmd / jailbreaks",
-      "source": "github"
-    },
-    "a4c4a4ea2b61adc4": {
-      "date": "2026-10-28",
-      "title": "Nuvio 5.0",
-      "source": "producthunt"
-    },
-    "3d79a26fb5822c66": {
-      "date": "2026-10-28",
-      "title": "Revix AI",
-      "source": "producthunt"
-    },
-    "c2e75723fc8ff808": {
-      "date": "2026-10-28",
-      "title": "Notra",
-      "source": "producthunt"
-    },
-    "7fe08347b6be63e2": {
-      "date": "2026-10-28",
-      "title": "Git for US Legislation",
-      "source": "hackernews"
-    },
-    "e2c46c6d42600755": {
-      "date": "2026-10-28",
-      "title": "Tabletop Whale is an original science illustration blog",
-      "source": "hackernews"
-    },
-    "68b9ecd11039bceb": {
-      "date": "2026-10-28",
-      "title": "Assembly Nights",
-      "source": "hackernews"
-    },
-    "f58440af85f43625": {
-      "date": "2026-10-28",
-      "title": "From Code to Culture: Building 101 Indian Monuments in 3D",
-      "source": "devto"
-    },
-    "ec5dae1d0026d722": {
-      "date": "2026-10-28",
-      "title": "SS United States to be sunk as largest artificial reef",
-      "source": "hackernews"
-    },
-    "af6a58a29b4e6f6d": {
-      "date": "2026-10-28",
-      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
-      "source": "hackernews"
-    },
-    "9cc5e6c816ec158e": {
-      "date": "2026-10-28",
-      "title": "Fraud Blocker",
-      "source": "producthunt"
-    },
-    "d63c77edddce3f3f": {
-      "date": "2026-10-28",
-      "title": "Congress Trades",
-      "source": "producthunt"
-    },
-    "9183e9de84cc4ca5": {
-      "date": "2026-10-28",
-      "title": "Yardlet",
-      "source": "producthunt"
-    },
-    "c33ed93883c70891": {
-      "date": "2026-10-28",
-      "title": "Hob",
-      "source": "producthunt"
-    },
-    "1822c3cd40146d07": {
-      "date": "2026-10-28",
-      "title": "NotiKeep",
-      "source": "producthunt"
-    },
-    "26039a384f5a842c": {
-      "date": "2026-10-28",
-      "title": "Zest",
-      "source": "producthunt"
-    },
-    "e0d1af651260e546": {
-      "date": "2026-10-28",
-      "title": "Our Silly Games",
-      "source": "producthunt"
-    },
-    "370eade1a390af5d": {
-      "date": "2026-10-28",
-      "title": "licenseal",
-      "source": "producthunt"
-    },
-    "1326005d83a0f35a": {
-      "date": "2026-10-28",
-      "title": "Lessons Learned: Wifi Server Disaster",
-      "source": "devto"
-    },
-    "99acf26cf3d9fe79": {
-      "date": "2026-10-28",
-      "title": "MemoriaViva: A Cute Ghost in the Machine That Preserves Family Oral Histories & Heirloom Recipes wit",
-      "source": "devto"
-    },
-    "2e3adfe579544057": {
-      "date": "2026-10-28",
-      "title": "Start Doing Graph Theory",
-      "source": "hackernews"
-    },
-    "0c4c3cd04679827e": {
-      "date": "2026-10-28",
-      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-      "source": "hackernews"
-    },
-    "29723c5192f150b5": {
-      "date": "2026-10-28",
-      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
-      "source": "hackernews"
-    },
-    "5d6b87c8c71b0acd": {
-      "date": "2026-10-28",
-      "title": "OneDeploy",
-      "source": "producthunt"
-    },
-    "263c0e8d215d4ff3": {
-      "date": "2026-10-28",
-      "title": "Dedica",
-      "source": "producthunt"
-    },
-    "117e678c351228fa": {
-      "date": "2026-10-28",
-      "title": "AirPosture",
-      "source": "producthunt"
-    },
-    "2f2128c62878cdbb": {
-      "date": "2026-10-28",
-      "title": "Open For sales",
-      "source": "producthunt"
-    },
-    "53f633bb539d5880": {
-      "date": "2026-10-28",
-      "title": "OpenLLM",
-      "source": "producthunt"
-    },
-    "e141c850400d58c2": {
-      "date": "2026-10-28",
-      "title": "Give Your Desktop App a Useful Title Bar and Real Tools",
-      "source": "devto"
-    },
-    "ca520f8471ba609e": {
-      "date": "2026-10-28",
-      "title": "Not the End, but a Shift: How AI Is Pushing Computer Science Toward Deeper Engineering",
-      "source": "devto"
-    },
-    "7fbde78cf2c68d7a": {
-      "date": "2026-10-28",
-      "title": "The cheapest GitHub Actions runners in 2026: what 100,000 minutes cost",
-      "source": "devto"
-    },
-    "bbfc2ca772d59109": {
-      "date": "2026-10-28",
-      "title": "macro-inc / macro",
-      "source": "github"
-    },
-    "2f6ba8b59b6b739c": {
-      "date": "2026-10-28",
-      "title": "expo / skills",
-      "source": "github"
-    },
-    "361d8d37c3971cf9": {
-      "date": "2026-10-28",
-      "title": "ruvnet / RuView",
-      "source": "github"
-    },
-    "b784babd8db9829f": {
-      "date": "2026-10-28",
-      "title": "xiaolai / the-craft-of-selfteaching",
-      "source": "github"
-    },
-    "dff358d382967d76": {
-      "date": "2026-10-28",
-      "title": "Gemini 4 Carbon",
-      "source": "hackernews"
-    },
-    "5cd34593ee4697b1": {
-      "date": "2026-10-28",
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "source": "hackernews"
-    },
-    "9e705eaa01331e42": {
-      "date": "2026-10-28",
-      "title": "CNC Stone Carving",
-      "source": "hackernews"
-    },
-    "c781f31afa38058c": {
-      "date": "2026-10-28",
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "source": "hackernews"
-    },
-    "4dab5bf50eaf0bfe": {
-      "date": "2026-10-28",
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "source": "hackernews"
-    },
-    "3948baf905d1d68f": {
-      "date": "2026-10-28",
-      "title": "AlpineBSD",
-      "source": "hackernews"
-    },
-    "283bb755cb50fa95": {
-      "date": "2026-10-28",
-      "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
-      "source": "hackernews"
-    },
-    "8d6b6a0f50091c73": {
-      "date": "2026-10-28",
-      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-      "source": "hackernews"
-    },
-    "2887f8c7a01497bd": {
-      "date": "2026-10-28",
-      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-      "source": "hackernews"
-    },
-    "f086b7c031121baa": {
-      "date": "2026-10-28",
-      "title": "Dotverse",
-      "source": "producthunt"
-    },
-    "6cf4062165591d41": {
-      "date": "2026-10-28",
-      "title": "Trellis",
-      "source": "producthunt"
-    },
-    "5e7003c5e5848be6": {
-      "date": "2026-10-28",
-      "title": "LFM3 by Liquid AI",
-      "source": "producthunt"
-    },
-    "1e6a484c753bee60": {
-      "date": "2026-10-28",
-      "title": "MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol Powering Modern IoT.",
-      "source": "devto"
-    },
-    "cebb939e9b9b2f82": {
-      "date": "2026-10-28",
-      "title": "Four Ways a Test Can Lie to You",
-      "source": "devto"
-    },
-    "1022e2f8e0efd12e": {
-      "date": "2026-10-28",
-      "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
-      "source": "devto"
-    },
-    "719139474c651452": {
-      "date": "2026-10-28",
-      "title": "Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?",
-      "source": "devto"
-    },
-    "34dd884a9c98a70c": {
-      "date": "2026-10-28",
-      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "source": "hackernews"
-    },
-    "1c907ba4be911e5b": {
-      "date": "2026-10-28",
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "source": "hackernews"
-    },
-    "0861bd82093e25e7": {
-      "date": "2026-10-28",
-      "title": "The case of the 9 bit AES key",
-      "source": "hackernews"
-    },
-    "bb9b9d63f3ed40f4": {
-      "date": "2026-10-28",
-      "title": "throxy",
-      "source": "producthunt"
-    },
-    "2ba4cd6b615eb9d7": {
-      "date": "2026-10-28",
-      "title": "Genie 4",
-      "source": "producthunt"
-    },
-    "4107a01fc126632d": {
-      "date": "2026-10-28",
-      "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
-      "source": "devto"
-    },
-    "ea29ad709a9ba6a7": {
-      "date": "2026-10-28",
-      "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me 🤔",
-      "source": "devto"
-    },
-    "bf93140cdc762222": {
-      "date": "2026-10-28",
-      "title": "What I learned building wfreq",
-      "source": "devto"
-    },
     "2d5494d6cc3072a8": {
       "date": "2026-10-29",
       "title": "A Health Update",
@@ -9835,6 +9390,61 @@
     "fc7da58c6bf823b7": {
       "date": "2026-11-27",
       "title": "Chasing down why Ansible stalled on a fresh Ubuntu 26.04 box",
+      "source": "devto"
+    },
+    "ad63488950df2db9": {
+      "date": "2026-11-28",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "source": "hackernews"
+    },
+    "e3645970c8ef3efe": {
+      "date": "2026-11-28",
+      "title": "Citroën Hydraulic System",
+      "source": "hackernews"
+    },
+    "4260980a42a07640": {
+      "date": "2026-11-28",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "source": "hackernews"
+    },
+    "1fbd0c597f682fec": {
+      "date": "2026-11-28",
+      "title": "The Balatro Timeline",
+      "source": "hackernews"
+    },
+    "f534775ea8486ab8": {
+      "date": "2026-11-28",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "source": "hackernews"
+    },
+    "d570c6c1d6a119b2": {
+      "date": "2026-11-28",
+      "title": "Source Control from Hell",
+      "source": "hackernews"
+    },
+    "a30316a7629bef94": {
+      "date": "2026-11-28",
+      "title": "Passkey blues",
+      "source": "hackernews"
+    },
+    "6eaa9ee99079e3af": {
+      "date": "2026-11-28",
+      "title": "Cyberpunk Television Shows",
+      "source": "hackernews"
+    },
+    "ec6ed36cf2f8e74a": {
+      "date": "2026-11-28",
+      "title": "Thinking on Constrained Deployments: Gemma E4B on 4GB 1650",
+      "source": "devto"
+    },
+    "21dfc4d5206b2484": {
+      "date": "2026-11-28",
+      "title": "Porting an ADK Research and Judge Loop to Strands on Bedrock AgentCore, With A2A 1.x",
+      "source": "devto"
+    },
+    "f44fded8b37c9417": {
+      "date": "2026-11-28",
+      "title": "How to Add Crash Reporting and Session Replay to a React Native App",
       "source": "devto"
     }
   }
