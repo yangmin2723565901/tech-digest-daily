@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-28T02:26:05.703955",
+  "last_updated": "2026-11-28T10:50:04.755008",
   "sent_items": {
     "2d5494d6cc3072a8": {
       "date": "2026-10-29",
@@ -9445,6 +9445,86 @@
     "f44fded8b37c9417": {
       "date": "2026-11-28",
       "title": "How to Add Crash Reporting and Session Replay to a React Native App",
+      "source": "devto"
+    },
+    "20e0bc09d36dd6c6": {
+      "date": "2026-11-28",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "source": "hackernews"
+    },
+    "5f5cc23b7cd12d32": {
+      "date": "2026-11-28",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "source": "hackernews"
+    },
+    "1946c80e46bc1896": {
+      "date": "2026-11-28",
+      "title": "Knuth: Moratorium on Error Reports",
+      "source": "hackernews"
+    },
+    "2b16dca40ff43e4e": {
+      "date": "2026-11-28",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "source": "hackernews"
+    },
+    "f6a54a9f484939f1": {
+      "date": "2026-11-28",
+      "title": "Sydney Fire Ant Infestation",
+      "source": "hackernews"
+    },
+    "73d1d4d63b6c6a8b": {
+      "date": "2026-11-28",
+      "title": "Coherent Energy Transformations: What elements can you make?",
+      "source": "hackernews"
+    },
+    "0db09ae5a7583521": {
+      "date": "2026-11-28",
+      "title": "Tano",
+      "source": "producthunt"
+    },
+    "a546c7045918f540": {
+      "date": "2026-11-28",
+      "title": "gutcheck",
+      "source": "producthunt"
+    },
+    "60fbb55db68f28d6": {
+      "date": "2026-11-28",
+      "title": "RankTheSearch",
+      "source": "producthunt"
+    },
+    "72dd0b87de3a68b9": {
+      "date": "2026-11-28",
+      "title": "NOVA",
+      "source": "producthunt"
+    },
+    "2e50c89f53ae4587": {
+      "date": "2026-11-28",
+      "title": "Bento",
+      "source": "producthunt"
+    },
+    "e4f58565668ae07e": {
+      "date": "2026-11-28",
+      "title": "Cognition SWE-2.1",
+      "source": "producthunt"
+    },
+    "c6549331daeadb07": {
+      "date": "2026-11-28",
+      "title": "Superrelay",
+      "source": "producthunt"
+    },
+    "03bb39e668f23501": {
+      "date": "2026-11-28",
+      "title": "ro",
+      "source": "producthunt"
+    },
+    "5ea7b3e32b53e5e1": {
+      "date": "2026-11-28",
+      "title": "I Opened My Diary to Solve His Problem. He Didn't Expect What He Saw.",
+      "source": "devto"
+    },
+    "04a41419efdfaaf7": {
+      "date": "2026-11-28",
+      "title": "One Developer, Five Roles",
       "source": "devto"
     }
   }
