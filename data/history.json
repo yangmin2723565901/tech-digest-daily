@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-28T10:50:04.755008",
+  "last_updated": "2026-11-28T13:29:45.172889",
   "sent_items": {
     "2d5494d6cc3072a8": {
       "date": "2026-10-29",
@@ -9525,6 +9525,41 @@
     "04a41419efdfaaf7": {
       "date": "2026-11-28",
       "title": "One Developer, Five Roles",
+      "source": "devto"
+    },
+    "0db51e6bdd0bb3b8": {
+      "date": "2026-11-28",
+      "title": "Farewell",
+      "source": "hackernews"
+    },
+    "d09e8118739d86e7": {
+      "date": "2026-11-28",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "source": "hackernews"
+    },
+    "2db2dbaeed8c4ad4": {
+      "date": "2026-11-28",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "source": "hackernews"
+    },
+    "8674f5254d6a7612": {
+      "date": "2026-11-28",
+      "title": "Diablo II",
+      "source": "hackernews"
+    },
+    "1cc1bfe473565ae5": {
+      "date": "2026-11-28",
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "source": "hackernews"
+    },
+    "87f08ba642653ee0": {
+      "date": "2026-11-28",
+      "title": "Two Sisters Tinctures, Now in Motion: An AI Ad Made with Migoo",
+      "source": "devto"
+    },
+    "b1440c9303d6644a": {
+      "date": "2026-11-28",
+      "title": "30 minutes, they said 😅",
       "source": "devto"
     }
   }
