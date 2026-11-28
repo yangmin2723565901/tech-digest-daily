@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-28T13:29:45.172889",
+  "last_updated": "2026-11-28T18:38:07.703019",
   "sent_items": {
     "2d5494d6cc3072a8": {
       "date": "2026-10-29",
@@ -9560,6 +9560,76 @@
     "b1440c9303d6644a": {
       "date": "2026-11-28",
       "title": "30 minutes, they said 😅",
+      "source": "devto"
+    },
+    "e400b7891ea4e250": {
+      "date": "2026-11-28",
+      "title": "Audible removes download option for purchased audiobooks",
+      "source": "hackernews"
+    },
+    "a21da8fb3e203227": {
+      "date": "2026-11-28",
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "source": "hackernews"
+    },
+    "1bd6705b792fea48": {
+      "date": "2026-11-28",
+      "title": "Physics Breakthrough Simulator",
+      "source": "hackernews"
+    },
+    "6df9fa92e3826420": {
+      "date": "2026-11-28",
+      "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+      "source": "hackernews"
+    },
+    "e0924c9a2df9a8db": {
+      "date": "2026-11-28",
+      "title": "Computer Disease",
+      "source": "hackernews"
+    },
+    "7f8c0568a01a2e0c": {
+      "date": "2026-11-28",
+      "title": "GTA 6 Graphics Rendering: What We Know So Far",
+      "source": "hackernews"
+    },
+    "ac27b45d41392bee": {
+      "date": "2026-11-28",
+      "title": "The race is not inevitable",
+      "source": "hackernews"
+    },
+    "1492048b3fc0302e": {
+      "date": "2026-11-28",
+      "title": "Patrick Collison you are WRONG about street furniture!!!",
+      "source": "hackernews"
+    },
+    "0d73e125c3ff587b": {
+      "date": "2026-11-28",
+      "title": "airoom",
+      "source": "producthunt"
+    },
+    "b7666e52dcd190d9": {
+      "date": "2026-11-28",
+      "title": "What If Every AI Model Was a Pokémon? I Built It.",
+      "source": "devto"
+    },
+    "a46879c1cac5e3c5": {
+      "date": "2026-11-28",
+      "title": "I put a ghost on Kiro's Approve button",
+      "source": "devto"
+    },
+    "7ddd94c140fa824d": {
+      "date": "2026-11-28",
+      "title": "The Evolution of etcd Storage: A Distributed /etc in RAM (v0.1 - v0.4)",
+      "source": "devto"
+    },
+    "aba83dd96a1d772d": {
+      "date": "2026-11-28",
+      "title": "In Defense of the Software Factory",
+      "source": "devto"
+    },
+    "237b3857d1434ee7": {
+      "date": "2026-11-28",
+      "title": "Building The Wisp Family: Local Sub-30ms Code-Autocomplete Models Trained on One Mac",
       "source": "devto"
     }
   }
